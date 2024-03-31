@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 #[Info]
-site_name: Wcowin's Web
+site_name: Lenny's Web
 site_url: http://wcowin.work/
-site_author: 王科文(Wcowin)
+site_author: Lenny Chen
 #[UI]
 theme:
   name: material
@@ -13,7 +13,7 @@ theme:
   #   code: Roboto Mono
   logo: https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png
 
-  favicon: img/wkw2.png
+  favicon: img/shonen.png
   # img/11.ico
   palette:
     #primary: blue grey
