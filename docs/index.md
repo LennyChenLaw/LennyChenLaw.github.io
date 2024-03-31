@@ -10,8 +10,8 @@ statistics: true
 ---
 # Home
 
-<!-- <center><font  color= #518FC1 size=6>“循此苦旅，以达星辰”</font></center> -->
-<center><font  color= #518FC1 size=6 class="ml3">“循此苦旅 以达星辰”</font></center>
+<!-- <center><font  color= #518FC1 size=6>“天地不仁，以万物为刍狗”</font></center> -->
+<center><font  color= #518FC1 size=6 class="ml3">“天地不仁，以万物为刍狗”</font></center>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
 
 
@@ -130,8 +130,8 @@ statistics: true
 { .annotate }
 
 1. 点击右下角与我在线交谈.
-2. 18939533255
-***  
+2. 19113274804
+***
 
 <strong>推荐文章:material-book:</strong>
 
@@ -146,7 +146,7 @@ statistics: true
   - [实用脚本分享](blog/technique sharing/jiaoben.md)
   - [重庆旅游推荐路线](trip/InCQ/CQ.md)
   - [留言板](waline.md)
-  
+
 
 
 
@@ -204,7 +204,7 @@ t.parentNode.insertBefore(e,t)}})();
       <div id="box1"></div>
       <script>
         function timingTime(){
-          let start = '2022-10-20 00:00:00'
+          let start = '2024-03-31 00:00:00'
           let startTime = new Date(start).getTime()
           let currentTime = new Date().getTime()
           let difference = currentTime - startTime
@@ -228,4 +228,3 @@ t.parentNode.insertBefore(e,t)}})();
 <head>
 <script defer src="https://analytics.us.umami.is/script.js" data-website-id="dae37494-1db6-408a-afdd-1868e1a7d41a"></script>
 </head>
-

@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 #[Info]
-site_name: Wcowin's Web
-site_url: http://wcowin.work/
-site_author: 王科文(Wcowin)
+site_name: Lenny's Web
+site_url: https://lennychenlaw.github.io/
+site_author: Lenny Chen
 #[UI]
 theme:
   name: material
@@ -11,9 +11,9 @@ theme:
   # font:
   #   text: Bitter
   #   code: Roboto Mono
-  logo: https://s2.loli.net/2024/02/01/gaE47y5fKM6kosV.png
+  logo: https://s2.loli.net/2024/03/30/lIamYEtRyouNFzg.png
 
-  favicon: img/wkw2.png
+  favicon: img/shonen-transparent.png
   # img/11.ico
   palette:
     #primary: blue grey
@@ -59,8 +59,8 @@ theme:
     repo: fontawesome/brands/github #右上角图标
     
 edit_uri: edit/main/docs # 编辑按钮跳转的链接 
-repo_url: https://github.com/Wcowin/Wcowin.github.io # 右上角点击跳转的链接
-repo_name: Wcowin.github.io # 右上角的名字
+repo_url: https://github.com/LennyChenLaw/LennyChenLaw.github.io # 右上角点击跳转的链接
+repo_name: LennyChenLaw.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
