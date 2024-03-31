@@ -11,7 +11,7 @@ theme:
   # font:
   #   text: Bitter
   #   code: Roboto Mono
-  logo: https://s2.loli.net/2024/03/30/lIamYEtRyouNFzg.png
+  logo: https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png
 
   favicon: img/shonen-transparent.png
   # img/11.ico
@@ -239,11 +239,11 @@ nav:
   - 关于:
     - 个人简介: about/geren.md
     - 一纸简历: https://cv.devtool.tech/preview/76751620-faad-4537-bffd-73ced6ee9671
-    - 个人简历: about/个人简历2.pdf
+    - 个人简历: about/LennyResume.pdf
     - My Goal: about/goal.md
-    - Github主页介绍: about/Wcowin.md
+    - Github主页介绍: about/Lenny.md
     - 网站制作: about/web.md
-    - 支持作者: about/zcw.md
+    - 支持作者: about/sponsor.md
     
     - 毕业之前值得去做的30件事: about/biye.md
     - 免责声明: about/shengming.md

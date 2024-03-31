@@ -30,7 +30,7 @@ $ tree -a
 │          └──comments.html
 │
 └── mkdocs.yml
-``` 
+```
 
 ```html
 {#-
@@ -41,19 +41,19 @@ $ tree -a
     <link rel="stylesheet" href="{{ 'assets/stylesheets/custom.00c04c01.min.css' | url }}">
   {% endblock %}
   {% block announce %}
-     Follow <strong>@Wcowin</strong> on
-    <a rel="me" href="https://space.bilibili.com/1407028951?spm_id_from=333.1007.0.0">
+     Follow <strong>@Lenny</strong> on
+    <a rel="me" href="https://space.bilibili.com/1554005708?spm_id_from=333.1007.0.0">
       <span class="twemoji bilibili">
         {% include ".icons/fontawesome/brands/bilibili.svg" %}
       </span>
       <strong>Bilibili</strong>
     </a>
     and
-    <a href="https://twitter.com/Wcowin_">
-      <span class="twemoji twitter">
-        {% include ".icons/fontawesome/brands/twitter.svg" %}
+    <a href="https://www.instagram.com/lennychen13/">
+      <span class="twemoji instagram">
+        {% include ".icons/fontawesome/brands/instagram.svg" %}
       </span>
-      <strong>Twitter</strong>
+      <strong>Instagram</strong>
     </a>
   {% endblock %}
   {% block scripts %}
