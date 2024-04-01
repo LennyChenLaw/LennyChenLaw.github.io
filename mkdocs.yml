@@ -339,7 +339,7 @@ plugins:
         - index.md 
         - Tag.md
         - Comment.md
-        # - blog/posts/update.md
+        - blog/posts/update.md
         # - blog/posts/wkw.md
         - about/link.md
   # - git-authors:
