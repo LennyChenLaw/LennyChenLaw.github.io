@@ -23,18 +23,19 @@ icon:
 </center>   
 
 
-<img class="img1" src="https://s2.loli.net/2024/04/01/7zRsi1DYfcyF5uT.jpg">
+<img class="img1" src="https://s2.loli.net/2024/04/01/PXo4r1UFxVKktMc.jpg">
 
 
 ## 关于我
 <div id="rcorners3" >
-  <img class="img1" src="https://s2.loli.net/2024/04/01/GrIZRcd4jpKbxyg.jpg"  width="180" height="350" alt="个人头像" align="left" style="margin-right: 20px; "/>
+  <img class="img1" src="https://s2.loli.net/2024/04/01/UuhMHzDBo4etPQO.jpg"  width="180" height="240" alt="个人头像" align="left" style="margin-right: 20px; "/>
   <div>
-    <p style="font-size: 40px">Lenny</p>
+    <p style="font-size: 40px">Lenny Chen</p>
     <p style="font-size: 18px">世界上任何书籍都不能带给你好运，但它们能让你悄悄成为你自己</p>
     <p style="font-size: 18px">一个在学习一些有趣事物的学生</p>
   </div>
 </div>
+
 
 
 
@@ -65,7 +66,7 @@ icon:
 2. 懂一点Python、Anaconda、Html+Css+Javascript
 3. Office熟练
 4. ~~特别能吃能睡~~
- 
+
 
 ## Contact
 <p align="center">

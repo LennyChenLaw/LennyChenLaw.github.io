@@ -13,7 +13,7 @@ theme:
   #   code: Roboto Mono
   logo: https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png
 
-  favicon: img/shonen-transparent.png
+  favicon: https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png
   # img/11.ico
   palette:
     #primary: blue grey
@@ -66,194 +66,208 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 nav:
   - 主页: index.md
   - 技术:
-    - 好用/好玩网站分享: blog/Webplay.md
-    - Mac/windows软件网站汇总: blog/macsoft.md
-    - 语雀: blog/yuque.md
-    - Telegram 群组、频道、机器人  汇总分享: blog/TG.md
-    - MKdocs教程:
-        - 利用mkdocs部署静态网页至GitHub pages: blog/Mkdocs/mkdocs1.md
-        - Mkdocs部署静态网页至GitHub pages配置说明(mkdocs.yml): blog/Mkdocs/mkdocs2.md
-        - 解决 mkdocs部署 Github Pages 自定义域名失效的问题: blog/Mkdocs/mkdocs3.md
-        - 网站添加Mkdocs博客: blog/Mkdocs/mkdocsblog.md
-    - Mkdocs美化:
-        - Mkdocs-Wcowin主题: blog/websitebeauty/mkdocs-wcowin1.md
-        - 添加评论系统(giscus为例): blog/websitebeauty/mkcomments.md
-        - 添加顶部公告栏: blog/websitebeauty/header.md
-        - 添加在线聊天: blog/websitebeauty/webtalknow.md
-        - 修改网站字体: blog/websitebeauty/mkdocsfont.md
-        - JS实现鼠标样式: blog/websitebeauty/shubiao.md
-        - 背景特效: blog/websitebeauty/backgroud.md
-        - 为MKdocs添加文章修订时间戳: blog/websitebeauty/time.md     
-    - 技术分享:
-        - Win11镜像下载、壁纸及KMS激活 : blog/technique sharing/win.md
-        - 实用脚本分享: blog/technique sharing/jiaoben.md
-        - 搭建个人图床: blog/technique sharing/tuchuang.md
-        - oh-my-zsh 更新: blog/technique sharing/ohmuzsh.md
-        - 解决谷歌翻译用不了的问题: blog/technique sharing/googletranslate.md
-        - 爱心代码: blog/technique sharing/aixin.md
-        - 用Matlab画玫瑰百合花: blog/technique sharing/matlabrose.md
-        - 科学上网: blog/technique sharing/kexue.md
-        - 计算机编年史: blog/technique sharing/jisuanjibiannianshi.md
+    # - 好用/好玩网站分享: blog/Webplay.md
+    # - Mac/windows软件网站汇总: blog/macsoft.md
+    # - 语雀: blog/yuque.md
+    # - Telegram 群组、频道、机器人  汇总分享: blog/TG.md
+    # - MKdocs教程:
+    #     - 利用mkdocs部署静态网页至GitHub pages: blog/Mkdocs/mkdocs1.md
+    #     - Mkdocs部署静态网页至GitHub pages配置说明(mkdocs.yml): blog/Mkdocs/mkdocs2.md
+    #     - 解决 mkdocs部署 Github Pages 自定义域名失效的问题: blog/Mkdocs/mkdocs3.md
+    #     - 网站添加Mkdocs博客: blog/Mkdocs/mkdocsblog.md
+    # - Mkdocs美化:
+    #     - Mkdocs-Wcowin主题: blog/websitebeauty/mkdocs-wcowin1.md
+    #     - 添加评论系统(giscus为例): blog/websitebeauty/mkcomments.md
+    #     - 添加顶部公告栏: blog/websitebeauty/header.md
+    #     - 添加在线聊天: blog/websitebeauty/webtalknow.md
+    #     - 修改网站字体: blog/websitebeauty/mkdocsfont.md
+    #     - JS实现鼠标样式: blog/websitebeauty/shubiao.md
+    #     - 背景特效: blog/websitebeauty/backgroud.md
+    #     - 为MKdocs添加文章修订时间戳: blog/websitebeauty/time.md     
+    # - 技术分享:
+    #     - Win11镜像下载、壁纸及KMS激活 : blog/technique sharing/win.md
+    #     - 实用脚本分享: blog/technique sharing/jiaoben.md
+    #     - 搭建个人图床: blog/technique sharing/tuchuang.md
+    #     - oh-my-zsh 更新: blog/technique sharing/ohmuzsh.md
+    #     - 解决谷歌翻译用不了的问题: blog/technique sharing/googletranslate.md
+    #     - 爱心代码: blog/technique sharing/aixin.md
+    #     - 用Matlab画玫瑰百合花: blog/technique sharing/matlabrose.md
+    #     - 科学上网: blog/technique sharing/kexue.md
+    #     - 计算机编年史: blog/technique sharing/jisuanjibiannianshi.md
 
-    - 学术:
-        - LaTeX常用符号整理: blog/Academic/LaTeX.md
-        - 希腊字母总结: blog/Academic/希腊字母.pdf
-        - Math: blog/Academic/math.md
-        - 数学竞赛: 
-          - 第十四届全国大学生数学竞赛(非数学类)初赛补赛详细解答: blog/Academic/Math/14.md
-          - 第十三届全国大学生数学竞赛(非数学类)决赛详细解答: blog/Academic/Math/13js.md    
-        - 电磁场期末复习索引: blog/Academic/diancichang.html 
-        - 电磁场期末公式总结(手写): blog/Academic/ddiancichang.md
-    - Mac:
-        - PD虚拟机: blog/Mac/Pd.md
-        - 提示 「“XXX”已损坏,无法打开。 您应该将它移到废纸篓。」「打不开 xxx,因为它来自身份不明的开发者」解决方法: blog/Mac/sunhuai.md
-        - Macbook启动台顽固应用图标删除方法: blog/Mac/shanchu.md
-        - Homebrew国内如何自动安装(国内地址)(Mac & Linux): blog/Mac/homebrew.md
-        - mac 无法访问 github 的解决办法: blog/Mac/jiasugithub.md
-        - Mac的esc键失效的解决方法: blog/Mac/Macesc.md
-        - 启动台图标顺序错乱怎么办: blog/Mac/Launchpad.md
-        - Mac小技巧:去除系统截图名的日期后缀: blog/Mac/jietu.md
-        - 小小Mac技巧: blog/Mac/xjiq.md
-        - Mac隐藏彩蛋: blog/Mac/maccd.md
-        - Mac 键盘快捷键: blog/Mac/kjj.md
-    - iPhone:
-        - iphone多账号如何不频繁登录,双重认证: blog/iphone/iphoneduozhanghao.md
-        - 苹果iphone /iOS 限免网站合集: blog/iphone/iphonexianmian.md
-        - 苹果手机如何去除开屏广告: blog/iphone/iphonequchukaiping.md
-    - WIN:
-        - 彻底卸载360安全卫士的方法: blog/Win/360.md
-        - 三步卸载 Microsoft Edge: blog/Win/edgexz.md
-        - windows快捷键: blog/Win/winkjj.md
-        - 安卓的子系统: blog/Win/anzhuodezixit.md
+    # - 学术:
+    #     - LaTeX常用符号整理: blog/Academic/LaTeX.md
+    #     - 希腊字母总结: blog/Academic/希腊字母.pdf
+    #     - Math: blog/Academic/math.md
+    #     - 数学竞赛: 
+    #       - 第十四届全国大学生数学竞赛(非数学类)初赛补赛详细解答: blog/Academic/Math/14.md
+    #       - 第十三届全国大学生数学竞赛(非数学类)决赛详细解答: blog/Academic/Math/13js.md    
+    #     - 电磁场期末复习索引: blog/Academic/diancichang.html 
+    #     - 电磁场期末公式总结(手写): blog/Academic/ddiancichang.md
+    # - Mac:
+    #     - PD虚拟机: blog/Mac/Pd.md
+    #     - 提示 「“XXX”已损坏,无法打开。 您应该将它移到废纸篓。」「打不开 xxx,因为它来自身份不明的开发者」解决方法: blog/Mac/sunhuai.md
+    #     - Macbook启动台顽固应用图标删除方法: blog/Mac/shanchu.md
+    #     - Homebrew国内如何自动安装(国内地址)(Mac & Linux): blog/Mac/homebrew.md
+    #     - mac 无法访问 github 的解决办法: blog/Mac/jiasugithub.md
+    #     - Mac的esc键失效的解决方法: blog/Mac/Macesc.md
+    #     - 启动台图标顺序错乱怎么办: blog/Mac/Launchpad.md
+    #     - Mac小技巧:去除系统截图名的日期后缀: blog/Mac/jietu.md
+    #     - 小小Mac技巧: blog/Mac/xjiq.md
+    #     - Mac隐藏彩蛋: blog/Mac/maccd.md
+    #     - Mac 键盘快捷键: blog/Mac/kjj.md
+    # - iPhone:
+    #     - iphone多账号如何不频繁登录,双重认证: blog/iphone/iphoneduozhanghao.md
+    #     - 苹果iphone /iOS 限免网站合集: blog/iphone/iphonexianmian.md
+    #     - 苹果手机如何去除开屏广告: blog/iphone/iphonequchukaiping.md
+    # - WIN:
+    #     - 彻底卸载360安全卫士的方法: blog/Win/360.md
+    #     - 三步卸载 Microsoft Edge: blog/Win/edgexz.md
+    #     - windows快捷键: blog/Win/winkjj.md
+    #     - 安卓的子系统: blog/Win/anzhuodezixit.md
 
-    - Python:
-        - 将Python文件.py打包成.exe可执行程序: blog/py/python.md
-        - pip: blog/py/pip.md
-    - C语言: 
-        - C笔记: blog/C language/c.md
+    # - Python:
+    #     - 将Python文件.py打包成.exe可执行程序: blog/py/python.md
+    #     - pip: blog/py/pip.md
+    # - C语言: 
+    #     - C笔记: blog/C language/c.md
   
 
 
-  - 开发: 
-    - 我的设备: develop/mydevice.md
-    - 如何注册ChatGPT: develop/ChatGPT.md
-    - Markdown: 
-        - Markdown指南: develop/Markdown/markdown.md
-        - MWeb Pro: develop/Markdown/MWeb.md
-    - Git 实用技巧: develop/git.md    
-    - 我的作品:
-        - Mkdocs-Wcowin主题: develop/Mywork/mkdocs-wcowin.md
-        - 人脸识别系统: develop/Mywork/face-recognition.md
-        - 基于讯飞人脸算法进行人脸比对: develop/Mywork/face_compare.md
-        - 基于百度API和opencv的智能车牌识别程序: develop/Mywork/opencv.md
-        - 利用百度API进行植物识别: develop/Mywork/aizhiwu.md
-        - 玩的设计: develop/Mywork/design.md
-    - 设计美学:
-        - 唐·诺曼—情感设计的三个层次: develop/designbeauty/db1.md
-        - 我对设计的一些观点: develop/designbeauty/my-to-desihn.md
-    - 1024code: develop/1024code.md
-    - 利用Lighthouse测试网站性能: develop/lighthouse.md
-    - What is Github: develop/Github.md
-    - 如何将 github pages 迁移到 vercel 上托管: develop/vercel.md
-    - 大厂们的良心软件～: develop/fenxiang.md
-    - 写给所有 Mac 用户的摸鱼指北: develop/Mac.md
-    - 看源码才懂: develop/kanyuanma.md
+  - 周刊: 
+    # - 我的设备: develop/mydevice.md
+    # - 如何注册ChatGPT: develop/ChatGPT.md
+    # - Markdown: 
+    #     - Markdown指南: develop/Markdown/markdown.md
+    #     - MWeb Pro: develop/Markdown/MWeb.md
+    # - Git 实用技巧: develop/git.md    
+    # - 我的作品:
+    #     - Mkdocs-Wcowin主题: develop/Mywork/mkdocs-wcowin.md
+    #     - 人脸识别系统: develop/Mywork/face-recognition.md
+    #     - 基于讯飞人脸算法进行人脸比对: develop/Mywork/face_compare.md
+    #     - 基于百度API和opencv的智能车牌识别程序: develop/Mywork/opencv.md
+    #     - 利用百度API进行植物识别: develop/Mywork/aizhiwu.md
+    #     - 玩的设计: develop/Mywork/design.md
+    # - 设计美学:
+    #     - 唐·诺曼—情感设计的三个层次: develop/designbeauty/db1.md
+    #     - 我对设计的一些观点: develop/designbeauty/my-to-desihn.md
+    # - 1024code: develop/1024code.md
+    # - 利用Lighthouse测试网站性能: develop/lighthouse.md
+    # - What is Github: develop/Github.md
+    # - 如何将 github pages 迁移到 vercel 上托管: develop/vercel.md
+    # - 大厂们的良心软件～: develop/fenxiang.md
+    # - 写给所有 Mac 用户的摸鱼指北: develop/Mac.md
+    # - 看源码才懂: develop/kanyuanma.md
     
-  - 闲话:
-    - 推荐的Books: relax/tuijianyuedu.md
-    - 小米: relax/xiaomo.md
-    - Apple: relax/Apple.md
-    # - 如是我闻: relax/rushiwowen.md
-    - 王冰冰♡: relax/wbb.md
-    - 诗文:
-      - 枫桥夜泊: relax/shiwen/fqyb.md
-      - 滕王阁序: relax/shiwen/twgx.md
-      - 望江南·超然台作: relax/shiwen/sjcnh.md
-      - 击鼓: relax/shiwen/jg.md
-      - 雨霖铃·秋别: relax/shiwen/yll.md
-      - 江城子·乙卯正月二十日夜记梦: relax/shiwen/jcz.md
-    - 日记:
-      - 2024: 
-          - 20240131: relax/diary/2024/20240131.md
-          - 20240218: relax/diary/2024/20240218.md      
-    - 数至十: 
-      - 1: relax/wkwMath/1.md
-      - 2: relax/wkwMath/2.md 
-      - 3: relax/wkwMath/3.md 
-      - 4: relax/wkwMath/4.md
-      - 5: relax/wkwMath/5.md
-      - 6: relax/wkwMath/6.md
-      # - 诗经: relax/shiwen/shijing.json
+  - 诗与远方:
+      -读书:
+      -随笔:
+      -此刻感受:
+      -法律:
+      -语言:
+      -旅行:
+      -游戏:
+      -动漫:
+      -健身:
+      -考研:
+      -工作:
 
-    - 观影:
-        - 推荐的番剧: relax/Movie/tuijianfanju.md
-        - 推荐的电影: relax/Movie/tuijiandedianyin.md
-        - 推荐的电视剧: relax/Movie/tuijiandsj.md
+    # - 推荐的Books: relax/tuijianyuedu.md
+    # - 小米: relax/xiaomo.md
+    # - Apple: relax/Apple.md
+    # # - 如是我闻: relax/rushiwowen.md
+    # - 王冰冰♡: relax/wbb.md
+    # - 诗文:
+    #   - 枫桥夜泊: relax/shiwen/fqyb.md
+    #   - 滕王阁序: relax/shiwen/twgx.md
+    #   - 望江南·超然台作: relax/shiwen/sjcnh.md
+    #   - 击鼓: relax/shiwen/jg.md
+    #   - 雨霖铃·秋别: relax/shiwen/yll.md
+    #   - 江城子·乙卯正月二十日夜记梦: relax/shiwen/jcz.md
+    # - 日记:
+    #   - 2024: 
+    #       - 20240131: relax/diary/2024/20240131.md
+    #       - 20240218: relax/diary/2024/20240218.md      
+    # - 数至十: 
+    #   - 1: relax/wkwMath/1.md
+    #   - 2: relax/wkwMath/2.md 
+    #   - 3: relax/wkwMath/3.md 
+    #   - 4: relax/wkwMath/4.md
+    #   - 5: relax/wkwMath/5.md
+    #   - 6: relax/wkwMath/6.md
+    #   # - 诗经: relax/shiwen/shijing.json
 
-    - 杂文:
-        - 毛主席语录选编: relax/Essay/mzdyl.md
-        - 《目送》节选: relax/Essay/musong.md
-        - 大学一个人吃饭很丢人吗？: relax/Essay/dx.md
-        - luv letter: relax/Essay/luv letter.md
-        - 有哪些给男孩子在谈恋爱时的忠告？: relax/Essay/zhonggao.md
-        - 哈基米🐈: relax/Essay/cat.md
-    - 程序人生:
-        - 《程序员成长历程的四个阶段》: relax/Manong/sigejieduan.md
-        - 《程序员脱单指南》: relax/Manong/tuodanbukeneng.md
-        - 《程序员学习路线图》: relax/Manong/wtf.md
-        - 《printf("❤️\n》: relax/Manong/cxiaoaixin.md
-    - 写信:
-        - 第一封: relax/Letter/letter1.md
-        - 第二封: relax/Letter/letter2.md
-        - 情书:
-            -   朱生豪与宋清如: relax/Letter/luvletter/sqrzszyz.md
-            - 《朱生豪情书全集摘录》(021): relax/Letter/luvletter/zhushenghao1.md
-            - 《朱生豪情书全集摘录》(031): relax/Letter/luvletter/zhushenghao2.md
-            - 《朱生豪情书全集摘录》(036): relax/Letter/luvletter/zhushenghao3.md
-            - 《朱生豪情书全集摘录》(046): relax/Letter/luvletter/zhushenghao4.md
-            - 《朱生豪情书全集摘录》(053): relax/Letter/luvletter/zhushenghao5.md
-            - 《朱生豪情书全集摘录》(055): relax/Letter/luvletter/zhushenghao6.md
+    # - 观影:
+    #     - 推荐的番剧: relax/Movie/tuijianfanju.md
+    #     - 推荐的电影: relax/Movie/tuijiandedianyin.md
+    #     - 推荐的电视剧: relax/Movie/tuijiandsj.md
 
-    - Game:
-        - 原神: relax/Game/yuanshen.md
-        - 如何玩好《王者荣耀》？: relax/Game/wzry.md
-    - 入党结业考试题总结: relax/rudang.md
-    - 润学之为什么润: about/run.md
-    - 让人说话，天塌不下来: about/maozedong.md
-    - 关于教育革命的谈话: relax/jiaoyu.md
-    - 程序猿神之楷模:一个人,一个网站,5.75亿美元卖掉: relax/kaimo.md
+    # - 杂文:
+    #     - 毛主席语录选编: relax/Essay/mzdyl.md
+    #     - 《目送》节选: relax/Essay/musong.md
+    #     - 大学一个人吃饭很丢人吗？: relax/Essay/dx.md
+    #     - luv letter: relax/Essay/luv letter.md
+    #     - 有哪些给男孩子在谈恋爱时的忠告？: relax/Essay/zhonggao.md
+    #     - 哈基米🐈: relax/Essay/cat.md
+    # - 程序人生:
+    #     - 《程序员成长历程的四个阶段》: relax/Manong/sigejieduan.md
+    #     - 《程序员脱单指南》: relax/Manong/tuodanbukeneng.md
+    #     - 《程序员学习路线图》: relax/Manong/wtf.md
+    #     - 《printf("❤️\n》: relax/Manong/cxiaoaixin.md
+    # - 写信:
+    #     - 第一封: relax/Letter/letter1.md
+    #     - 第二封: relax/Letter/letter2.md
+    #     - 情书:
+    #         -   朱生豪与宋清如: relax/Letter/luvletter/sqrzszyz.md
+    #         - 《朱生豪情书全集摘录》(021): relax/Letter/luvletter/zhushenghao1.md
+    #         - 《朱生豪情书全集摘录》(031): relax/Letter/luvletter/zhushenghao2.md
+    #         - 《朱生豪情书全集摘录》(036): relax/Letter/luvletter/zhushenghao3.md
+    #         - 《朱生豪情书全集摘录》(046): relax/Letter/luvletter/zhushenghao4.md
+    #         - 《朱生豪情书全集摘录》(053): relax/Letter/luvletter/zhushenghao5.md
+    #         - 《朱生豪情书全集摘录》(055): relax/Letter/luvletter/zhushenghao6.md
+
+    # - Game:
+    #     - 原神: relax/Game/yuanshen.md
+    #     - 如何玩好《王者荣耀》？: relax/Game/wzry.md
+    # - 入党结业考试题总结: relax/rudang.md
+    # - 润学之为什么润: about/run.md
+    # - 让人说话，天塌不下来: about/maozedong.md
+    # - 关于教育革命的谈话: relax/jiaoyu.md
+    # - 程序猿神之楷模:一个人,一个网站,5.75亿美元卖掉: relax/kaimo.md
     
-  - 旅行: 
-    - 重庆: 
-        - 重庆旅游推荐路线: trip/InCQ/CQ.md
-    - Hometown: trip/LH.md
-    - 西安: trip/Xian.md
+  # - 旅行: 
+  #   - 重庆: 
+  #       - 重庆旅游推荐路线: trip/InCQ/CQ.md
+  #   - Hometown: trip/LH.md
+  #   - 西安: trip/Xian.md
 
   - 标签: tag.md
-  - 留言板: waline.md
-  - 友链: 
-    - 友链: about/link.md
-    - 如何给MKdocs添加友链: blog/Mkdocs/linktech.md
-  - Blog:
-    - blog/index.md
   - 关于:
     - 个人简介: about/profile.md
-    - 一纸简历: https://cv.devtool.tech/preview/76751620-faad-4537-bffd-73ced6ee9671
+    # - 一纸简历: https://cv.devtool.tech/preview/76751620-faad-4537-bffd-73ced6ee9671
     - 个人简历: about/LennyResume.pdf
     - My Goal: about/goal.md
-    - Github主页介绍: about/Lenny.md
+    - Github主页介绍: about/GithubProfile.md
     - 网站制作: about/web.md
     - 支持作者: about/sponsor.md
     
-    - 毕业之前值得去做的30件事: about/biye.md
-    - 免责声明: about/shengming.md
-    - Test: about/test.md
-    - 404公益页面: about/404.md
-    - 我们♡+♡=♡²: about/Foryou.md
-    - 年度总结:
-        - 2023: about/zongjie/2023.md
-    - 考研: about/kaoyan.md
-  
+    # - 毕业之前值得去做的30件事: about/biye.md
+    # - 免责声明: about/shengming.md
+    # - Test: about/test.md
+    # - 404公益页面: about/404.md
+    # - 我们♡+♡=♡²: about/Foryou.md
+    # - 年度总结:
+    #     - 2023: about/zongjie/2023.md
+    # - 考研: about/kaoyan.md
+  - 互动: 
+    -友链:
+    -留言板: Comment.md
+    -更新日志:
+  # - 友链: 
+  #   - 友链: about/link.md
+  #   - 如何给MKdocs添加友链: blog/Mkdocs/linktech.md
+  # - Blog:
+  #   - blog/index.md  
   
 copyright: Copyright &copy; 2022~2024 Wcowin/All Rights Reserved. # 左下角的版权声明
   
@@ -273,16 +287,16 @@ extra:
   generator: true  #删除页脚显示“使用 MkDocs 材料制造”
   social:
     - icon: fontawesome/brands/weixin
-      link: https://s1.imagehub.cc/images/2024/02/02/bb9ee71b03ee7a3b87caad5cc4bcebff.jpeg
+      link: https://s2.loli.net/2024/03/30/kHBUML1XdERzljK.jpg
       name: weixin
-    - icon: fontawesome/brands/x-twitter 
-      link: https://twitter.com/wcowin_
-      name: Twitter
+    # - icon: fontawesome/brands/x-twitter 
+    #   link: https://twitter.com/wcowin_
+    #   name: Twitter
     - icon: fontawesome/brands/github
-      link: https://github.com/Wcowin
+      link: https://github.com/LennyChenLaw
       name: Github
     - icon: fontawesome/regular/envelope
-      link: mailto:<wangkewen821@gmail.com> #联系方式
+      link: mailto:<lennychenlaw@gmail.com> #联系方式
       name: Email
 
   analytics: 
@@ -331,6 +345,8 @@ plugins:
   # - git-authors:
   #     exclude:
   #       - index.md
+
+  # ===有点像更新日志，我先注释掉了
   - blog:
       post_date_format: full #时间
       draft: true
