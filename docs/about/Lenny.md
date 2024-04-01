@@ -2,10 +2,6 @@
 title: Github主页介绍
 ---
 
-
-
-<img align='right' src='https://s2.loli.net/2024/03/31/DT7nFBSKMYiQ8XR.png' width="540" height="auto" >
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B+I+am+Lenny;Welcome+to+my+github)](https://git.io/typing-svg)
 ## About me
 - 👋 Name: Hi, I’m Lenny Chen
@@ -26,7 +22,7 @@ title: Github主页介绍
 <tr style="padding-bottom: -10px;">
 <td>
 
-### 🔨 Languages and Tools
+## 🔨 Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -40,7 +36,7 @@ title: Github主页介绍
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
     
-###  📊 Github Stats
+##  📊 Github Stats
 ![Stats Overview](https://github.com/LennyChenLaw/github-stats-transparent-fork/blob/output/generated/overview.svg)
 ![Most Used Languages](https://github.com/LennyChenLaw/github-stats-transparent-fork/blob/output/generated/languages.svg)
 
@@ -52,3 +48,5 @@ title: Github主页介绍
 </td>
 </tr>
 </table>
+
+![Contribution](https://github.com/LennyChenLaw/Snake-in-Contribution-Grid-fork/blob/output/github-contribution-grid-snake.svg)
