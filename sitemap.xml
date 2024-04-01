@@ -71,22 +71,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://lennychenlaw.github.io/Interaction/log.html</loc>
+         <lastmod>2024-04-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lennychenlaw.github.io/Tech/UsefulWebsites.html</loc>
+         <lastmod>2024-04-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lennychenlaw.github.io/Weekly/01.html</loc>
+         <lastmod>2024-04-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://lennychenlaw.github.io/about/404.html</loc>
          <lastmod>2024-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://lennychenlaw.github.io/about/Foryou.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://lennychenlaw.github.io/about/GithubProfile.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/about/biye.html</loc>
          <lastmod>2024-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -106,22 +111,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://lennychenlaw.github.io/about/maozedong.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://lennychenlaw.github.io/about/profile.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/about/run.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/about/shengming.html</loc>
          <lastmod>2024-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -142,236 +132,6 @@
     </url>
     <url>
          <loc>https://lennychenlaw.github.io/about/zongjie/2023.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/index.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/TG.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Webplay.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/macsoft.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/yuque.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Academic/LaTeX.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Academic/ddiancichang.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Academic/math.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Academic/Math/13js.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Academic/Math/14.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/C%20language/c.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/Launchpad.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/Macesc.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/Pd.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/homebrew.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/jiasugithub.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/jietu.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/kjj.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/maccd.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/shanchu.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/sunhuai.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mac/xjiq.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mkdocs/linktech.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mkdocs/mkdocs1.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mkdocs/mkdocs2.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mkdocs/mkdocs3.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Mkdocs/mkdocsblog.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Win/360.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Win/anzhuodezixit.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Win/edgexz.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/Win/winkjj.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/iphone/iphoneduozhanghao.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/iphone/iphonequchukaiping.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/iphone/iphonexianmian.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/2023/12/21/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/py/pip.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/py/python.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/aixin.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/googletranslate.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/jiaoben.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/jisuanjibiannianshi.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/kexue.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/matlabrose.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/ohmuzsh.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/tuchuang.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/technique%20sharing/win.html</loc>
          <lastmod>2024-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -756,12 +516,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://lennychenlaw.github.io/blog/archive/2023.html</loc>
-         <lastmod>2024-04-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://lennychenlaw.github.io/blog/category/%E7%BD%91%E7%AB%99%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95.html</loc>
+         <loc>https://lennychenlaw.github.io/blog/index.html</loc>
          <lastmod>2024-04-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
