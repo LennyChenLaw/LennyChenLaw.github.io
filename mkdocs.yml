@@ -160,17 +160,17 @@ nav:
     # - 看源码才懂: develop/kanyuanma.md
     
   - 诗与远方:
-      -读书: Dream/Books.md
-      -随笔: Dream/Thoughts.md
-      -此刻感受: Dream/Moments.md
-      -法律: Dream/Law.md
-      -语言: Dream/Languages.md
-      -旅行: Dream/Travel.md
-      -游戏: Dream/Games.md
-      -动漫: Dream/AnimeManga.md
-      -健身: Dream/Bodybuilding.md
-      -考研: Dream/Master.md
-      -工作: Dream/Work.md
+      - 读书: Dream/Books.md
+      - 随笔: Dream/Thoughts.md
+      - 此刻感受: Dream/Moments.md
+      - 法律: Dream/Law.md
+      - 语言: Dream/Languages.md
+      - 旅行: Dream/Travel.md
+      - 游戏: Dream/Games.md
+      - 动漫: Dream/AnimeManga.md
+      - 健身: Dream/Bodybuilding.md
+      - 考研: Dream/Master.md
+      - 工作: Dream/Work.md
 
     # - 推荐的Books: relax/tuijianyuedu.md
     # - 小米: relax/xiaomo.md
@@ -260,9 +260,9 @@ nav:
     #     - 2023: about/zongjie/2023.md
     # - 考研: about/kaoyan.md
   - 互动: 
-    -友链: about/link.md
-    -留言板: Comment.md
-    -更新日志: Interaction/log.md
+    - 友链: about/link.md
+    - 留言板: Comment.md
+    - 更新日志: Interaction/log.md
   # - 友链: 
   #   - 友链: about/link.md
   #   - 如何给MKdocs添加友链: blog/Mkdocs/linktech.md
