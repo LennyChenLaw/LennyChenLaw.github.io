@@ -174,7 +174,7 @@ t.parentNode.insertBefore(e,t)}})();
 </script>
 <!-- End of Howxm client code snippet -->
 
-<script src="//code.tidio.co/6jmawe9m5wy4ahvlhub2riyrnujz7xxi.js" async></script>
+<chat-bot platform_id="62ef4cd3-9013-410d-bfd0-3e415cd260c6" user_id="fbae907b-5d9f-4ef2-b346-f16e9d6c777d" chatbot_id="e75d6789-9950-40ef-ba1f-19dcde7a8c56"><a href="https://www.chatsimple.ai/?utm_source=widget&utm_medium=referral">chatsimple</a></chat-bot><script src="https://cdn.chatsimple.ai/chat-bot-loader.js" defer></script>
 </head>
 
 <!-- :material-information-outline:{ title="本站访问量" }本站访问量：<script async src="//finicounter.eu.org/finicounter.js"></script>
