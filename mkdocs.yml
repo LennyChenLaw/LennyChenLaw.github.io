@@ -260,7 +260,7 @@ nav:
     #     - 2023: about/zongjie/2023.md
     # - 考研: about/kaoyan.md
   - 互动: 
-    - 友链: about/link.md
+    - 友链: about/links.md
     - 留言板: Comment.md
     - 更新日志: Interaction/log.md
   # - 友链: 
@@ -341,7 +341,7 @@ plugins:
         - Comment.md
         # - blog/posts/update.md
         # - blog/posts/wkw.md
-        - about/link.md
+        - about/links.md
   # - git-authors:
   #     exclude:
   #       - index.md
