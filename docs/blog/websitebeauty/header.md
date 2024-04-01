@@ -10,7 +10,6 @@ tags:
   - Mkdocs
 comments: false  #评论，默认不开启
 ---
-![image.png](https://s2.loli.net/2024/02/02/mvCEgeP4lANuXI8.png)
 
 docs/overrides下新建main.html ，针对main.html文件    
 树状结构如下:  
