@@ -101,8 +101,8 @@ t.parentNode.insertBefore(e,t)}})();
 ## 须知
 如果你在浏览博客的过程中发现了任何问题，欢迎前往 GitHub 的[代码仓库](https://github.com/LennyChenLaw/LennyChenLaw.github.io)提交 Issues 或直接修改相关文件后提交 Pull Requests。如果你有其他事情想要咨询，可以通过下方按钮使用邮件联系我,请不要滥用博客的评论功能发表与主题无关言论。
 
-[Send Email :fontawesome-solid-paper-plane:](mailto:<wangkewen821@gmail.com>){.md-button}
-<!-- <a target="_blank"  href="mailto:wangkewen821@gmail.com""><button class="buttonxuan2" style="vertical-align:middle" ><span>Send Email:fontawesome-solid-paper-plane: </span></button></a> -->
+[Send Email :fontawesome-solid-paper-plane:](mailto:<lennychenlaw@gmail.com>){.md-button}
 
-<co-pilot platform-id="032527fe-0405-4ccc-8993-7c1b5d4cd744" user-id="fbae907b-5d9f-4ef2-b346-f16e9d6c777d" chatbot-id="e75d6789-9950-40ef-ba1f-19dcde7a8c56" is-local="false" ><a href="https://www.chatsimple.ai/?utm_source=widget&utm_medium=referral">copilot</a></co-pilot> <script src="https://cdn.chatsimple.ai/ai-loader.js" defer></script>
+
+<chat-bot platform_id="62ef4cd3-9013-410d-bfd0-3e415cd260c6" user_id="fbae907b-5d9f-4ef2-b346-f16e9d6c777d" chatbot_id="e75d6789-9950-40ef-ba1f-19dcde7a8c56"><a href="https://www.chatsimple.ai/?utm_source=widget&utm_medium=referral">chatsimple</a></chat-bot><script src="https://cdn.chatsimple.ai/chat-bot-loader.js" defer></script>
 
