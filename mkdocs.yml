@@ -66,7 +66,7 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 nav:
   - 主页: index.md
   - 技术:
-    - 好用/好玩网站分享: blog/Webplay.md
+    - 好用/好玩网站分享: Tech/UsefulWebsites.md
     # - Mac/windows软件网站汇总: blog/macsoft.md
     # - 语雀: blog/yuque.md
     # - Telegram 群组、频道、机器人  汇总分享: blog/TG.md
@@ -135,7 +135,7 @@ nav:
 
 
   - 周刊: 
-    - 我的设备: develop/mydevice.md
+    - 2024年: Weekly/01.md
     # - 如何注册ChatGPT: develop/ChatGPT.md
     # - Markdown: 
     #     - Markdown指南: develop/Markdown/markdown.md
@@ -339,7 +339,7 @@ plugins:
         - index.md 
         - tag.md
         - Comment.md
-        - blog/posts/update.md
+        # - blog/posts/update.md
         # - blog/posts/wkw.md
         - about/link.md
   # - git-authors:

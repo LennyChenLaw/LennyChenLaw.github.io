@@ -70,7 +70,7 @@ icon:
 
 ## Contact
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/lennychen13_/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="70" /></a>  
+&nbsp; <a href="https://www.instagram.com/lennychen13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="70" /></a>  
 &nbsp; <a href="lennychenlaw@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="70" /></a>
 </p>
 <!-- <figure markdown >

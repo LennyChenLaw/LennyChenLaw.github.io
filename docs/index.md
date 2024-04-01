@@ -115,7 +115,8 @@ statistics: true
     <!-- <b><span id="time"></span></b> -->
   </div>
   <ul>
-    <li>通过主题和目录以打开文章</li>
+  	<li>这是一个记录自我的地方，但也希望能给你带来帮助</li>
+    <li>点进导航页，右边显示目录</li>
     <ul>
       <li>Mac/PC端 请在上方标签栏选择主题 在左侧目录选择文章</li>
       <li>移动端 请点击左上角图标选择主题和文章</li>
@@ -138,9 +139,12 @@ statistics: true
 
 
 
-[^Knowing-that-loving-you-has-no-ending]:太阳总是能温暖向日葵  
-[^see-how-much-I-love-you]:All problems in computer science can be solved by another level of indirection
-
+[^Dao]:上善若水。水善利万物而不争，处众人之所恶，故几於道。居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。夫唯不争，故无尤。
+<!--出自《道德经》第八章 -->
+[^Philosophy]:认识你自己 | γνῶθι σεαυτόν
+<!--相传是刻在德尔斐的阿波罗神庙的三句箴言之一-->
+[^Self]: 人生就是一条通向自我之路，不断尝试，辨明迷途。从来没有人能够成为完全、彻底的自我，尽管如此，每个人都仍然在努力尝试，或懵懂无知，或灵台清明，个个尽其所能。
+<!--出自《德米安：彷徨少年时》-黑塞 -->
 
 <head>
 <!-- Google tag (gtag.js) -->

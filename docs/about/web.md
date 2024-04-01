@@ -1,7 +1,7 @@
 ---
 tags:
   - Mkdocs
----  
+---
 
 
 # 发布一个包含MkDocs和GitHub页面材料的网站
@@ -18,7 +18,7 @@ tags:
     Mkdocs-Wcowin主题: [Mkdocs-Wcowin主题](https://wcowin.work/Mkdocs-Wcowin/)     
     详细文档：[MkDocs](https://www.mkdocs.org/getting-started/){target=“_blank”}   
 
-## 我在CSDN上写的Mkdocs教程 
+## Wcowin在CSDN上写的Mkdocs教程
 
 1.[利用mkdocs部署静态网页至GitHub pages](https://blog.csdn.net/m0_63203517/article/details/127019819?spm=1001.2014.3001.5501){target=“_blank”}  
 2.[Mkdocs部署静态网页至GitHub pages配置说明](https://blog.csdn.net/m0_63203517/article/details/127444446?spm=1001.2014.3001.5501){target=“_blank”}  
@@ -26,7 +26,7 @@ tags:
 
 !!! info inline end
 
-    ← ↓我的网站二维码
+    ← ↓Wcowin网站二维码
 
 ![MywebsiteQR](https://cn.mcecy.com/image/20230321/cf398708978588c8d40aeb6628918deb.png){ loading=lazy }
 
@@ -38,6 +38,7 @@ tags:
 ***
 这是一个记录[十年之约](https://www.foreverblog.cn/){target=“_blank”}的网站，所以，这个网站会存在十年或者更久:  
 <a href="https://www.foreverblog.cn/" target="_blank" > <img src="https://img.foreverblog.cn/logo_en_default.png" alt="" style="width:auto;height:16px;"> </a>
+
 ## 实现自定义域名访问
 
 [实现自定义域名访问](https://blog.csdn.net/Passerby_Wang/article/details/121202486?spm=1001.2014.3001.5501){target=“_blank”}
