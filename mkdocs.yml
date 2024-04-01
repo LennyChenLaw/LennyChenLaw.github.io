@@ -269,7 +269,7 @@ nav:
   # - Blog:
   #   - blog/index.md  
   
-copyright: Copyright &copy; 2022~2024 Wcowin/All Rights Reserved. # 左下角的版权声明
+copyright: Copyright &copy; 2022~2024 Lenny/All Rights Reserved. # 左下角的版权声明
   
 
 extra:
@@ -277,13 +277,13 @@ extra:
   #   HTML5: html
   #   JavaScript: js
   #   CSS: css
-  alternate:
-    - name: English
-      link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp 
-      lang: en
-    - name: 中国(台湾)
-      link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-CN&_x_tr_pto=wapp
-      lang: zh-TW
+  # alternate:
+  #   - name: English
+  #     link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp 
+  #     lang: en
+  #   - name: 中国(台湾)
+  #     link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-CN&_x_tr_pto=wapp
+  #     lang: zh-TW
   generator: true  #删除页脚显示“使用 MkDocs 材料制造”
   social:
     - icon: fontawesome/brands/weixin
@@ -337,10 +337,10 @@ plugins:
       enable_creation_date: false
       exclude:
         - index.md 
-        - tag.md
-        - waline.md
-        - blog/posts/update.md
-        - blog/posts/wkw.md
+        - Tag.md
+        - Comment.md
+        # - blog/posts/update.md
+        # - blog/posts/wkw.md
         - about/link.md
   # - git-authors:
   #     exclude:
