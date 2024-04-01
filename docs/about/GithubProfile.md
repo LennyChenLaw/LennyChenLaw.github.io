@@ -7,6 +7,7 @@
 - 😀Interests: Language, Philosophy, Technical stuff, Bodybuilding, Anime and Manga, etc.
 
 ## Contact
+
 <p align="left">  
 &nbsp; <a href="https://www.instagram.com/lennychen13/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:lennychenlaw@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
@@ -14,9 +15,9 @@
 <table style="background-color:rgba(0, 0, 0, 0); border: 0px;">
 <tr style="padding-bottom: -10px;">
 <td>
-
 ### 🔨 Languages and Tools
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+
+### <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 <a href="https://www.python.org" target="_blank"> 
@@ -28,7 +29,6 @@
 <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a>
-    
 
 ###  📊 Github Stats
 
