@@ -133,7 +133,7 @@ hide:
 ***
 
 <strong>推荐文章:material-book:</strong>
-
+  - [英语学习01](Dream/Languages/English.md)
 
 !!! info "站点统计"
     <center>
