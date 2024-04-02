@@ -45,8 +45,6 @@ hide:
 </div>
 
 
-??? example
-
     友链格式示例：<br>
     名称：Lenny's Web <br>
     链接：https://lennychen.top/ <br>
