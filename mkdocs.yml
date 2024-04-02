@@ -332,10 +332,7 @@ extra:
 plugins:
   # - glightbox
   - minify
-  - search:
-        lang:
-        - zh
-        - en
+  - search
       separator: '[\s\-\.]+'
   - offline
   - statistics:
