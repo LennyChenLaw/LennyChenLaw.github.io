@@ -46,7 +46,7 @@ hide:
 
 
 
-!!! example
+!!! Example
 
     友链格式示例:
     名称: Lenny's Web  
