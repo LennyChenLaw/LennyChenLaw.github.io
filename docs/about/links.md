@@ -44,19 +44,9 @@ hide:
     <h3>交换友链，请添加本站友链后下方留言申请，期望您的站点:</h3>
 </div>
 
-<!--
-* 独立博客(不要求独立域名)，https，访问流畅
-* 原创内容为主，原创内容3篇以上
-* 处于活跃状态，有一定的更新频率
-* 建站一个月以上
-* 未添加友链或申请未通过，评论留言会被隐藏。
--->
-<!--
-本站已经加入[十年之约](https://www.foreverblog.cn/)：
-<a href="https://www.foreverblog.cn/" target="_blank" > <img src="https://img.foreverblog.cn/logo_en_default.png" alt="" style="width:auto;height:16px;"> </a>请放心添加本站友链
--->
 
 友链格式示例:
+
 
 >名称: Lenny's Web  
 >链接: https://lennychen.top/  

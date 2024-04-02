@@ -8,13 +8,13 @@ tags:
 
 # 英语学习
 ## Big Picture(学语言的大局观)
-第一、语言的学习是一个不停地体验语言，逐渐熟悉语言的过程，语言学习的核心理念其实并不复杂，多听多阅读，把自己==融进去（immerse yourself in the language）==，不要总是带着母语的思维来思考另一门语言，而是学英语时就把自己当成英语人（native speaker），==用native speaker的思维去思考==，所以学一门语言时多接触对应国家的==文化和历史==是好事。
+第一、语言的学习是一个不停地体验语言，逐渐熟悉语言的过程，语言学习的核心理念其实并不复杂，多听多阅读，把自己**融进去（immerse yourself in the language）** ，不要总是带着母语的思维来思考另一门语言，而是学英语时就把自己当成英语人（native speaker）， **用native speaker的思维去思考** ， 所以学一门语言时多接触对应国家的 **文化和历史** 是好事。
 
-第二、不需要把target language（正在学习的语言）的每个词都翻译成母语，然后再理解，很多时候你不需要完全理解这个词是什么意思，而是懂它带给你的感觉，以及它能在哪些场合使用就行了，这就需要你==大量的接触语境==，在许多语境里接触一个新词，慢慢就懂这个词使用时的感觉，进一步学会使用。比如"That's relatable." 最近挺频繁见到的一个网络热词/梗，其实不太好翻译成中文理解，即便你去词典查relatable，也很难get到意思，所以多接触语境很重要，后面发现在我还是不太会用中文解释这个词的情况下已经能够自如使用这个句子了，这说明要理解一个词不一定非要用母语把他翻译出来理解，多接触语境很重要，曾遇到过一个英语母语者告诉我“母语者也不是什么词都懂，但很多时候这不影响整个句子理解，因为能感受到整体的感觉”。德语的Genau, Toll, Doch也是，并不是非要对应成中文词典里的翻译，而是通过接触它们使用的语境，会更容易理解这三个词，“不要试图理解它，感受它”（don't try to understand it. Feel it.）
+第二、不需要把target language（正在学习的语言）的每个词都翻译成母语，然后再理解，很多时候你不需要完全理解这个词是什么意思，而是懂它带给你的感觉，以及它能在哪些场合使用就行了，这就需要你**大量的接触语境**，在许多语境里接触一个新词，慢慢就懂这个词使用时的感觉，进一步学会使用。比如"That's relatable." 最近挺频繁见到的一个网络热词/梗，其实不太好翻译成中文理解，即便你去词典查relatable，也很难get到意思，所以多接触语境很重要，后面发现在我还是不太会用中文解释这个词的情况下已经能够自如使用这个句子了，这说明要理解一个词不一定非要用母语把他翻译出来理解，多接触语境很重要，曾遇到过一个英语母语者告诉我“母语者也不是什么词都懂，但很多时候这不影响整个句子理解，因为能感受到整体的感觉”。德语的Genau, Toll, Doch也是，并不是非要对应成中文词典里的翻译，而是通过接触它们使用的语境，会更容易理解这三个词，“不要试图理解它，感受它”（don't try to understand it. Feel it.）
 
 第三、刚才我们说要“大量接触语境”，那应该接触什么样的语境呢？这就要提到一个语言学习的利器了，Comprehensible Input. 我们要大量接触的语境就是Comprehensible Input.
 ## Comprehensible Input（可理解输入）
-Comprehensible input（可理解输入）是由美国语言学家斯蒂芬·克拉什（Stephen Krashen）提出的概念，他在其提出的“输入假设”（Input Hypothesis）中阐述了这一理论。Comprehensible input指的是学习者在学习一门外语时，==能够理解但又稍微超出其当前语言水平的输入==，这种输入对学习者来说是有意义的，但又不至于太难以理解。
+Comprehensible input（可理解输入）是由美国语言学家斯蒂芬·克拉什（Stephen Krashen）提出的概念，他在其提出的“输入假设”（Input Hypothesis）中阐述了这一理论。Comprehensible input指的是学习者在学习一门外语时，**能够理解但又稍微超出其当前语言水平的输入**，这种输入对学习者来说是有意义的，但又不至于太难以理解。
 
 Comprehensible Input对语言学习有帮助的原因：
 + 语言习得的理论支持：根据斯蒂芬·克拉什的输入假设，语言学习主要依赖于接收到的输入，而这些输入需要是能够理解但又略微超出学习者当前水平的，这样的输入才能促进语言的习得。
@@ -43,7 +43,8 @@ Comprehensible Input对语言学习有帮助的原因：
 </center>
 
 
-+ *Steve Kaufmann* [His profile](https://www.youtube.com/@Thelinguist) This gentleman speaks almost 20 languages. 他会说将近20国语言，包括中文，他是语言学习爱好者里非常出名的polyglot. 他很支持Comprehensible Input的观点，并将该原则应用于自己的语言学习过程中，收获了很好的效果。
++ **Steve Kaufmann**
++  [His profile](https://www.youtube.com/@Thelinguist) This gentleman speaks almost 20 languages. 他会说将近20国语言，包括中文，他是语言学习爱好者里非常出名的polyglot. 他很支持Comprehensible Input的观点，并将该原则应用于自己的语言学习过程中，收获了很好的效果。
 + 现在他也是一个Content Creator（内容创作者），经常在网上发一些视频传授自己的语言学习经验，他还有两个比较重要的观点如下：
 >1. 语言学习初期重点在**听**，多听Comprehensible Input
 >2. 语言学习的关键思想其实不复杂,就是要多听多阅读
@@ -142,3 +143,17 @@ Comprehensible Input对语言学习有帮助的原因：
 
 
 **背单词软件**:Anki或其他主流背单词软件
+
+<center>
+    <img style="border-radius: 20px;width="50%""
+         src="https://s2.loli.net/2024/04/02/MRpQxCdGvlUTJHs.png" 
+         alt=""
+          >
+    <br>
+    <div style="color: #999; padding: 2px;">
+       Lenny's Anki
+    </div>
+</center>
+
+
+我使用的是Anki，因为社区比较活跃，有很多好用的插件，比如[AwesomeTTS](https://ankiweb.net/shared/info/1436550454)、[Ankiconnect](https://ankiweb.net/shared/info/2055492159)、[Review Heatmap](https://ankiweb.net/shared/info/1771074083)，不过说到底工具还是用着趁手就好，没必要专门换，如果你很喜欢百词斩或者墨墨，那接着用就好。

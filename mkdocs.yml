@@ -331,7 +331,6 @@ extra:
 
 plugins:
   # - glightbox
-  - minify
   - search
   - offline
   - statistics:
