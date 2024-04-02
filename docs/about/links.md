@@ -44,11 +44,11 @@ hide:
     <h3>交换友链，请添加本站友链后下方留言申请，期望您的站点:</h3>
 </div>
 
-----------------------------
+
 ??? example
 
-    友链格式示例：
-    名称：Lenny's Web 
-    链接：https://lennychen.top/ 
-    头像：https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png
-    简介：天地不仁，以万物为刍狗 
+    友链格式示例：<br>
+    名称：Lenny's Web <br>
+    链接：https://lennychen.top/ <br>
+    头像：https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png <br>
+    简介：天地不仁，以万物为刍狗 <br>
