@@ -64,7 +64,9 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
-  - 主页: index.md
+  - 主页: 
+    - 封面: index.md
+    - 前言: forward.md
   - 技术:
     - 好用/好玩网站分享: Tech/UsefulWebsites.md
     # - Mac/windows软件网站汇总: blog/macsoft.md
@@ -164,7 +166,10 @@ nav:
       - 随笔: Dream/Thoughts.md
       - 此刻感受: Dream/Moments.md
       - 法律: Dream/Law.md
-      - 语言: Dream/Languages.md
+      - 语言: 
+        -英语: Dream/Languages/English.md
+        -日语: Dream/Languages/Japanese.md
+
       - 旅行: Dream/Travel.md
       - 游戏: Dream/Games.md
       - 动漫: Dream/AnimeManga.md
@@ -326,7 +331,12 @@ extra:
 
 plugins:
   # - glightbox
-  - search
+  - minify
+  - search:
+        lang:
+        - zh
+        - en
+      separator: '[\s\-\.]+'
   - offline
   - statistics:
       words_per_minute: 200

@@ -1,12 +1,12 @@
 ---
 title: Home
+comments: false
+statistics: True
 hide:
   #- navigation # 显示右
   #- toc #显示左
   - footer
   - feedback
-comments: false
-statistics: true
 ---
 # Home
 
@@ -116,17 +116,15 @@ statistics: true
   </div>
   <ul>
   	<li>这是一个记录自我的地方，但也希望能给你带来帮助</li>
-    <li>点进导航页，右边显示目录</li>
-    <ul>
-      <li>Mac/PC端 请在上方标签栏选择主题 在左侧目录选择文章</li>
-      <li>移动端 请点击左上角图标选择主题和文章</li>
-    </ul>
+    <li>Mac/PC端 请在上方标签栏选择主题 在左侧目录选择文章</li>
+    <li>移动端 请点击左上角图标选择主题和文章</li>
     <li>搜索关键词以打开文章</li>
     <li>
       如遇到网页卡顿/打开文章后无法显示图片的情况，请使用<strong>科学上网</strong>以打破信息壁垒
     </li>
   </ul>
 </div> 
+
 快速谈话(1) 联系我(2)
 { .annotate }
 
@@ -135,6 +133,12 @@ statistics: true
 ***
 
 <strong>推荐文章:material-book:</strong>
+
+
+!!! info "站点统计"
+    <center>
+    本站目前共 {{pages}} 页，累计 {{words}} 字！
+    </center>
 
 
 

@@ -33,7 +33,7 @@ Comprehensible Input对语言学习有帮助的原因：
 ## Comprehensible Input的实践
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\From Google chrome85\maxresdefault (7).jpg" 
+         src="https://s2.loli.net/2024/04/02/BAa6GURhrgp5ebs.jpg" 
          alt="Steve Kaufmann"
           >
     <br>
@@ -43,7 +43,7 @@ Comprehensible Input对语言学习有帮助的原因：
 </center>
 
 
-+ *Steve Kaufmann* (His [profile](https://www.youtube.com/@Thelinguist)) This gentleman speaks almost 20 languages. 他会说将近20国语言，包括中文，他是语言学习爱好者里非常出名的polyglot. 他很支持Comprehensible Input的观点，并将该原则应用于自己的语言学习过程中，收获了很好的效果。
++ *Steve Kaufmann* [His profile](https://www.youtube.com/@Thelinguist) This gentleman speaks almost 20 languages. 他会说将近20国语言，包括中文，他是语言学习爱好者里非常出名的polyglot. 他很支持Comprehensible Input的观点，并将该原则应用于自己的语言学习过程中，收获了很好的效果。
 + 现在他也是一个Content Creator（内容创作者），经常在网上发一些视频传授自己的语言学习经验，他还有两个比较重要的观点如下：
 >1. 语言学习初期重点在**听**，多听Comprehensible Input
 >2. 语言学习的关键思想其实不复杂,就是要多听多阅读
@@ -55,16 +55,13 @@ Comprehensible Input对语言学习有帮助的原因：
 2. Comprehensible Input是关键
 3. 选择自己喜欢的英语材料
 4. 多听多阅读,将自己沉浸在语言环境中
-5. 口语最好不要尝试背诵标准范文
-6. 口语考试说错时及时纠正自己
-7. 勇敢大胆的说,考口语时可以适当的用一些比较chill的坐姿让自己放松一些
 
 ## Useful Tools英语资源总结
 **Extension**:`Immersive Translate: Web Page&PDF Translation`(能够双语查看网站)
 **Game**:`Draw&Guess`
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\新建文件夹\Job\1雅思试讲\draw.png" 
+         src="https://s2.loli.net/2024/04/02/cAimqthRQeB5Tlz.png" 
          alt="Steve Kaufmann"
           >
     <br>
@@ -75,20 +72,21 @@ Comprehensible Input对语言学习有帮助的原因：
 **Video**:`TED一个讲授如何学习语言的视频`| [视频链接](https://www.bilibili.com/video/BV1R94y1U7tc)
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\新建文件夹\Job\1雅思试讲\video.png" 
+         src="https://s2.loli.net/2024/04/02/G3czvZA9pDSWHE7.png" 
          alt="Steve Kaufmann"
           >
     <br>
     <div style="color: #999; padding: 2px;">
-       Steve Kaufmann
+       TED
     </div>
 </center>
+
 
 **Web Page**:[英配部落](https://mobile.edatribe.com/)、[YARN](https://getyarn.io/)(台词搜索)、[Language Exchange](https://www.mylanguageexchange.com/)、[雅思官网](https://www.chinaielts.org/)、[youzack](https://www.youzack.com)
 
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\新建文件夹\Job\1雅思试讲\Snipaste_2024-01-15_09-24-49.png" 
+         src="https://s2.loli.net/2024/04/02/mf8Y3qKUbI6F7Zl.png" 
          alt=""
           >
     <br>
@@ -99,8 +97,8 @@ Comprehensible Input对语言学习有帮助的原因：
 
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\From Google chrome85\Snipaste_2024-01-15_08-41-29.png" 
-         alt="Steve Kaufmann"
+         src="https://s2.loli.net/2024/04/02/voYSaZ9H6BEcqsx.png" 
+         alt="YARN"
           >
     <br>
     <div style="color: #999; padding: 2px;">
@@ -110,8 +108,8 @@ Comprehensible Input对语言学习有帮助的原因：
 
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\新建文件夹\Job\1雅思试讲\language.png" 
-         alt="Steve Kaufmann"
+         src="https://s2.loli.net/2024/04/02/nEXzcl9j8RtwTDv.png" 
+         alt="Language Exchange"
           >
     <br>
     <div style="color: #999; padding: 2px;">
@@ -121,7 +119,7 @@ Comprehensible Input对语言学习有帮助的原因：
 
 <center>
     <img style="border-radius: 20px;width="50%""
-         src="D:\新建文件夹\Job\1雅思试讲\mangadex.png" 
+         src="https://s2.loli.net/2024/04/02/AXhuxdWtqHGnr8V.png" 
          alt=""
           >
     <br>
@@ -131,6 +129,16 @@ Comprehensible Input对语言学习有帮助的原因：
 </center>
 **词典**:`GoldenDict`
 
-<img src="D:\新建文件夹\Job\1雅思试讲\goldendict.png" alt="goldendict" style="zoom:60%;" />
+<center>
+    <img style="border-radius: 20px;width="50%""
+         src="https://s2.loli.net/2024/04/02/wn3z9TA7EYBogyU.png" 
+         alt=""
+          >
+    <br>
+    <div style="color: #999; padding: 2px;">
+       Goldendict
+    </div>
+</center>
+
 
 **背单词软件**:Anki或其他主流背单词软件
