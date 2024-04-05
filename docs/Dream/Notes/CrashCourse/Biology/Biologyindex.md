@@ -9,5 +9,5 @@
     - **Prerequisite**: If you have some basic high school biology understanding, it would be better, but it's okay if you don't. If you're not accustomed to English lectures, you can download the [Immersive Translate](https://chromewebstore.google.com/detail/immersive-translate-trans/bpoadfkcbjbfhfodiogcnhhhpibjhbnh?hl=en-US&utm_source=ext_sidebar) extension at [Chrome Web Store](https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=en-US) and enable the automatic opening of bilingual subtitles. <br> 最好有一定高中生物基础，没有也可以，如果不习惯英文授课，可以在Chrome Web Store下载Immersive Translate插件，打开自动开启双语字幕
 
 !!! note "Notes"
-    - [ ] [[Biology#1] Life, Virus, and more](Biology#1.md) 
-    - [x] [[Biology#37] Genetic Mutations](Dream/Notes/CrashCourse/Biology/Biology#37.md) 
+    - [ ] [[Biology#1] Life, Virus, and more](Biology1.md) 
+    - [x] [[Biology#37] Genetic Mutations](Biology37.md) 

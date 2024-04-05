@@ -16,10 +16,10 @@
 
 -------------
 
-第四个是路在脚下，目前我能看个大概的路，我想把他记录下来，人生之路曲折盘桓，我现在看到的路对不对，对了我能不能走上去，都是未知，但即便如此也想写下来，不为别的，让此刻的我满足，以后哪怕走错路了，未来的自己能不因此谴责此刻的我就好。<br>
+第四个是路在脚下，目前我能看个大概的路，我想把他记录下来，人生之路曲折盘桓，我现在看到的路对不对，对了，我能不能走上去，都是未知，但即便如此也想写下来，不为别的，让此刻的我满足，以后哪怕走错路了，未来的自己能不因此谴责此刻的我就好。<br>
 
 !!! note 
-    - [x] [白非立上进记](Dream/ToOldDaysMyself/Vain.md)
-    - [ ] [你没能明白的事](Dream/ToOldDaysMyself/DelusionalMe.md)
-    - [ ] [敢问路在何方](Dream/ToOldDaysMyself/WhereShouldIGo.md)
-    - [ ] [路在脚下](Dream/ToOldDaysMyself/Path.md)
+    - [x] [白非立上进记](Vain.md)
+    - [ ] [你没能明白的事](DelusionalMe.md)
+    - [ ] [敢问路在何方](WhereShouldIGo.md)
+    - [ ] [路在脚下](Path.md)

@@ -19,7 +19,7 @@ theme:
     #primary: blue grey
     - media: "(prefers-color-scheme: light)"
       scheme: default # 日间模式
-      primary: deep purple # 上方的
+      primary: brown # 上方的
       accent: indigo # 链接等可交互元件的高亮色
       # teal 
       toggle:
@@ -91,7 +91,9 @@ nav:
 
 
   - 周刊: 
-    - 2024年: Weekly/Week01.md
+    - 2024年: 
+      - Weekly/Weeklyindex.md
+      - Weekly/Week01.md
     
   - 诗与远方:
     - 致四年前的你: 
@@ -106,8 +108,8 @@ nav:
         - Philosophy: Dream/Notes/CrashCourse/Philosophy/Philosophy.md
         - Biology: 
           - Dream/Notes/CrashCourse/Biology/Biologyindex.md
-          - Dream/Notes/CrashCourse/Biology/Biology#1.md
-          - Dream/Notes/CrashCourse/Biology/Biology#37.md 
+          - Dream/Notes/CrashCourse/Biology/Biology1.md
+          - Dream/Notes/CrashCourse/Biology/Biology37.md 
         - Psychology: Dream/Notes/CrashCourse/Psychology/Psychology.md
       - edX: 
         - CS's 50: Dream/Notes/edX/CS50.md
