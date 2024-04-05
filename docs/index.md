@@ -8,7 +8,7 @@ hide:
   - footer
   - feedback
 ---
-# Home
+# 封面
 
 <!-- <center><font  color= #518FC1 size=6>“天地不仁，以万物为刍狗”</font></center> -->
 <center><font  color= #518FC1 size=6 class="ml3">“天地不仁，以万物为刍狗”</font></center>
@@ -125,13 +125,6 @@ hide:
   </ul>
 </div> 
 
-快速谈话(1) 联系我(2)
-{ .annotate }
-
-1. 点击右下角与我在线交谈.
-2. 19113274804
-***
-
 <strong>推荐文章:material-book:</strong>
   - [英语学习01](Dream/Languages/English.md)
 
@@ -139,6 +132,14 @@ hide:
     <center>
     本站目前共 {{pages}} 页，累计 {{words}} 字！
     </center>
+
+快速谈话(1) 联系我(2)
+{ .annotate }
+
+1. 点击右下角与我在线交谈.
+2. 19113274804
+***
+
 
 
 

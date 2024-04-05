@@ -65,31 +65,124 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 # [Navigtion]
 nav:
   - 主页: 
-    - 封面: index.md
+    - 主页: index.md
     - 前言: forward.md
   - 技术:
-    - 好用/好玩网站分享: Tech/UsefulWebsites.md
+    - 成长路线: Tech/Roadmap/Roadmap.md
+    - 数据科学:
+      - MySQL: Tech/DataScience/MySQL.md
+      - Excel: Tech/DataScience/Excel.md
+      - Tableau: Tech/DataScience/Tableau.md
+      - 大数据技术: 
+        - Hadoop: Tech/DataScience/Frameworks/Hadoop.md
+        - Spark: Tech/DataScience/Frameworks/Spark.md 
+    - Game Dev:
+      - Lua: Tech/GameDev/Lua.md
+      - Pygame: Tech/GameDev/Pygame.md
+      - Unity: Tech/GameDev/Unity.md
+      - Godot: Tech/GameDev/Godot.md
+
+    - 工具和网站:
+      - ChatGPT: Tech/ToolsWebsites/ChatGPT.md
+      - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md 
+      - 好用/好玩网站分享: Tech/ToolsWebsites/UsefulWebsites.md
+      - Leetcode: Tech/ToolsWebsites/Leetcode.md
   
 
 
   - 周刊: 
-    - 2024年: Weekly/01.md
+    - 2024年: Weekly/Week01.md
     
   - 诗与远方:
-      - 读书: Dream/Books.md
-      - 随笔: Dream/Thoughts.md
-      - 此刻感受: Dream/Moments.md
-      - 法律: Dream/Law.md
-      - 语言: 
-        - 英语: Dream/Languages/English.md
-        - 日语: Dream/Languages/Japanese.md
+    - 致四年前的你: 
+      - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
+      - 白非礼上进记: Dream/ToOldDaysMyself/Vain.md
+      - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
+      - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
+      - 路在脚下: Dream/ToOldDaysMyself/Path.md
+    - 学习笔记:
+      - Crash Course: 
+        - World History: Dream/Notes/CrashCourse/WorldHistory/WorldHistory.md
+        - Philosophy: Dream/Notes/CrashCourse/Philosophy/Philosophy.md
+        - Biology: 
+          - Dream/Notes/CrashCourse/Biology/Biologyindex.md
+          - Dream/Notes/CrashCourse/Biology/Biology#1.md
+          - Dream/Notes/CrashCourse/Biology/Biology#37.md 
+        - Psychology: Dream/Notes/CrashCourse/Psychology/Psychology.md
+      - edX: 
+        - CS's 50: Dream/Notes/edX/CS50.md
+        - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
+      - MITOpenCourseWare: 
+        - MIT 18.06 Linear Algebra: Dream/Notes/MITOpenCourseWare/MIT18.06Linear_Algebra.md
+      - FreeCodeCamp:
+        - HTML and CSS Tutorials:
+          - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
+          - CSS Tutorial - Zero to Hero (Complete Course): Dream/Notes/FreeCodeCamp/HTMLCSS/CSSZeroToHero.md
+        - JavaScript Tutorials:
+          - Build 15 JavaScript Projects - Vanilla JavaScript Course: Dream/Notes/FreeCodeCamp/VanillaJavaScript.md  
+        - Python:
+          - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib): Dream/Notes/FreeCodeCamp/Python/PandasNumpyMatplotlib.md
+          - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
+      - Coursera: Dream/Notes/Coursera/ComputerOrganization.md
+      - Others: 
+        - FrameofEssence: Dream/Notes/Others/FrameofEssence/HowDoComputersReadCode.md
+    
+           
+    - 读书: 
+      - 哲学: 
+        - 伦理学: Dream/Books/Philosophy/Ethics.md
+        - 形而上学: Dream/Books/Philosophy/Metaphysics.md
+        - 认识论: Dream/Books/Philosophy/Epistemology.md
+        - 美学: Dream/Books/Philosophy/Aesthetics.md
+        - 逻辑学: Dream/Books/Philosophy/Logic.md
+      - 法律: 
+        - 国内法: 
+          - 宪法: Dream/Books/Law/PRCLaw/Constitution.md
+          - 刑法: Dream/Books/Law/PRCLaw/CriminalLaw.md
+          - 民法: Dream/Books/Law/PRCLaw/CivilLaw.md
+          - 行政法: Dream/Books/Law/PRCLaw/AdministrativeLaw.md
+          - 商法: Dream/Books/Law/PRCLaw/CommercialLaw.md
+          - 劳动法: Dream/Books/Law/PRCLaw/LaborLaw.md
+          - 知识产权法: Dream/Books/Law/PRCLaw/IntellectualPropertyLaw.md
+        - 国际法:
+          - 国际公法: Dream/Books/Law/InternationalLaw/InternationalPublicLaw.md
+          - 国际私法: Dream/Books/Law/InternationalLaw/InternationalPrivateLaw.md
+          - 国际人权法: Dream/Books/Law/InternationalLaw/InternationalHumanRightsLaw.md
+          - 国际经济法:  Dream/Books/InternationalLaw/InternationalEconomicLaw.md
+      - 文学:
+        - 亚洲文学: 
+          - China: Dream/Books/Literature/Asia/China/China.md
+          - Japan: Dream/Books/Literature/Asia/Japan/Japan.md
+        - 北美文学: Dream/Books/Literature/NA/NorthAmerica.md
+        - 拉丁美洲文学: Dream/Books/Literature/LA/LatinAmerica.md
+        - 欧洲文学: Dream/Books/Literature/Europe/Europe.md
+      - 心理学: Dream/Books/Psychology/Psychology.md
+      - 小说: 
+        - 历史小说: Dream/Books/Fiction/HistoricalFiction.md
+        - 科幻小说: Dream/Books/Fiction/ScienceFiction.md
+        - 推理小说: Dream/Books/Fiction/DetectiveFiction.md
+        - 武侠小说: Dream/Books/Fiction/MartialArtsFiction.md
 
-      - 旅行: Dream/Travel.md
-      - 游戏: Dream/Games.md
-      - 动漫: Dream/AnimeManga.md
-      - 健身: Dream/Bodybuilding.md
-      - 考研: Dream/Master.md
-      - 工作: Dream/Work.md
+    - 随笔: Dream/Thoughts/Thoughts.md
+    - 此刻感受: Dream/Moments/Moments.md
+    - 语言: 
+      - 英语: Dream/Languages/English.md
+      - 日语: Dream/Languages/Japanese.md
+
+    - 旅行: Dream/Travel/Travel.md
+    - 游戏: Dream/Games/Games.md
+    - 动漫: 
+      - 动画: 
+        - 国漫: Dream/AnimeManga/Anime/China/ChineseAnime.md
+        - 日漫: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
+        - 欧美漫: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
+        - 短片动画: Dream/AnimeManga/Anime/ShortAnimation/ShortAnimation.md
+      - 漫画: 
+        - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 
+        - 日本漫画: Dream/AnimeManga/Manga/JapanManga/JapanManga.md
+    - 健身: Dream/Bodybuilding/Bodybuilding.md
+    - 考研: Dream/Master/Master.md
+    - 工作: Dream/Work/Work.md
 
   - 标签: tag.md
   - 关于:
@@ -100,8 +193,8 @@ nav:
     - 支持作者: about/sponsor.md
     
   - 互动: 
-    - 友链: about/links.md
-    - 留言板: Comment.md
+    - 友链: Interaction/links.md
+    - 留言板: Interaction/Comment.md
     - 更新日志: Interaction/log.md
 
   
@@ -178,6 +271,17 @@ plugins:
         # - blog/posts/update.md
         # - blog/posts/wkw.md
         - about/links.md
+  - git-committers:
+      enabled: !ENV [CI, false]
+      repository: Wcowin/Wcowin.github.io
+      branch: main
+      exclude:
+        - index.md 
+        - tag.md
+        - waline.md
+        - blog/posts/update.md
+        - blog/posts/wkw.md
+        - about/link.md
   # - git-authors:
   #     exclude:
   #       - index.md
