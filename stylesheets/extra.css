@@ -1,9 +1,11 @@
 :root > * {
-    --md-primary-fg-color:        #518FC1;
-    --md-primary-fg-color--light:#518FC1;
-    --md-primary-fg-color--dark:  #518FC1;
+    --md-primary-fg-color: #5fa5e7;
+    --md-primary-fg-color--light: #5fa5e7;
+    --md-primary-fg-color--dark: #5fa5e7;
       
   }
+
+
   /* 给所有元素加上边框 */
   /* * {
     outline: 1px solid #518FC1;
