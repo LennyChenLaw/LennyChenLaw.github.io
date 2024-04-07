@@ -1,9 +1,15 @@
+---
+comments: True
+statistics: True
+---
+
 # Technophile周刊（第01期）
 
 !!! info
-    作者：Lenny
-    日期：2024年4月5日
-    内容：记录分享好用的Github Repo、文章、网站等，周五更新
+    作者：Lenny<br>
+    日期：2024年4月5日<br>
+    内容：记录分享好用的Github Repo、文章、网站等<br>
+    更新时间：周五更新<br>
     本杂志[开源](https://github.com/LennyChenLaw/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)
 
 
@@ -34,7 +40,7 @@
 4. [Convertio](https://convertio.co/zh/)
 >文件转换器，能够互转的格式丰富，且转换效果相当可以。
 5. [Jackie Chan](https://animesuge.to/anime/jackie-chan-adventures-dub-022l9/ep-5)
->可以看英配版成龙历险记，能学到不少有用表达。台词短摘 - Jakie: Slow and steady wins the race. - Jade: Chinese proverb, right?
+>可以看英配版成龙历险记，能学到不少有用表达。台词短摘 - Jackie: Slow and steady wins the race. - Jade: Chinese proverb, right?
 
 -----------------
 

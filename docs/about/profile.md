@@ -32,7 +32,6 @@ icon:
   <div>
     <p style="font-size: 40px">Lenny Chen</p>
     <p style="font-size: 18px">世界上任何书籍都不能带给你好运，但它们能让你悄悄成为你自己</p>
-    <p style="font-size: 18px">一个在学习一些有趣事物的学生</p>
   </div>
 </div>
 
@@ -64,8 +63,10 @@ icon:
 ## 个人技能
 1. 英语、日语口语流利
 2. 懂一点Python、Anaconda、Html+Css+Javascript
-3. Office熟练
-4. ~~特别能吃能睡~~
+3. Office熟练， 
+4. 会用飞书、Slack、Zoom、Figma
+5. 会用Adobe系列PR、AE、PS
+6. ~~特别能吃能睡~~
 
 
 ## Contact

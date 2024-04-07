@@ -116,6 +116,7 @@ hide:
   </div>
   <ul>
   	<li>这是一个记录自我的地方，但也希望能给你带来帮助</li>
+    <li>建议先看左侧目录的前言部分</li>
     <li>Mac/PC端 请在上方标签栏选择主题 在左侧目录选择文章</li>
     <li>移动端 请点击左上角图标选择主题和文章</li>
     <li>搜索关键词以打开文章</li>
@@ -125,8 +126,14 @@ hide:
   </ul>
 </div> 
 
-<strong>推荐文章:material-book:</strong>
-  - [英语学习01](Dream/Languages/English.md)
+<strong>推荐文章:material-book:</strong> <br>
+  - [白非立上进记](Dream/ToOldDaysMyself/Vain.md) <br>
+  - [English Comprehensible Input](Dream/Languages/English.md) <br>
+  - [Japanese Comprehensible Input](Dream/Languages/Japanese.md) <br>
+  - [Do you want to be loved or do you want to be yourself?](Dream/Notes/CrashCourse/Psychology/SisyphusDoYouWantToBeLoved.md)<br>
+  - [Crash Course Biology#37](Dream/Notes/CrashCourse/Biology/Biology37.md) <br>
+  - [Technophile周刊](Weekly/Weeklyindex.md) <br>
+  - [PDF内嵌视频](Tech/ToolsWebsites/PDFInsertVideo.md) <br>
 
 !!! info "站点统计"
     <center>

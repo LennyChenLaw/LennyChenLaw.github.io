@@ -1,3 +1,10 @@
+---
+comments: false
+statistics: True
+tags:
+  - Crash_Course_Biology
+---
+
 # New Crash Course Biology Series
 
 !!! info "课程信息"
