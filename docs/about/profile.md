@@ -44,6 +44,7 @@ icon:
     - [x] Occupation: Currently a university student
     - [x] Major: I study agriculture at my university, but I am thinking about switching my major to law for my master's degree. I am passionate about language learning and can speak Mandarin Chinese, English, Japanese.
     - [x] Interests: Language, Philosophy, Technical stuff, Bodybuilding, Anime and Manga, etc.
+    - [x] Brony. I love My little Pony: Friendship Is Magic series! My bilibili account is mainly about MLP. FriendShip Is Magic yay~ :material-information-outline:{ title="空的时候会在小马展概率刷新ヾ(≧▽≦*)o" } 
 
 ## 我的名片
 
@@ -63,9 +64,9 @@ icon:
 ## 个人技能
 1. 英语、日语口语流利
 2. 懂一点Python、Anaconda、Html+Css+Javascript
-3. Office熟练， 
-4. 会用飞书、Slack、Zoom、Figma
-5. 会用Adobe系列PR、AE、PS
+3. Office还算熟练 
+4. 会用点飞书、Slack、Zoom、Figma
+5. 会用点Adobe系列PR、AE、PS
 6. ~~特别能吃能睡~~
 
 

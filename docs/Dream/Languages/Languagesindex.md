@@ -11,5 +11,5 @@ tags:
 
 
 !!! note "笔记跳转链接"
-    - [ ] [英语](Dream/Languages/English.md)
-    - [ ] [日语](Dream/Languages/Japanese.md)
+    - [ ] [英语](English.md)
+    - [ ] [日语](Japanese.md)

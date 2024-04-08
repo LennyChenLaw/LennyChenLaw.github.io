@@ -38,15 +38,77 @@ hide:
      </div> 
     </div> 
 
+   <div class="card"> 
+     <img class="ava" src="https://note.isshikih.top/_assets/iro/IroPatch_Brown.png" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://note.isshikih.top/" target="_blank">IsshikiHugh's Notebook</a> 
+      </div> 
+      <div class="info">
+      我们登上高塔，看到的却只有黑夜……
+      </div> 
+     </div> 
+    </div> 
+   <div class="card"> 
+     <img class="ava" src="https://blog.sunguoqi.com/avatar.webp" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://blog.sunguoqi.com" target="_blank">小孙同学</a> 
+      </div> 
+      <div class="info">
+      路虽远行则将至，事随难做则必成！
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://weizwz.com/img/avatar/head.jpg" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://weizwz.com" target="_blank">唯之为之</a> 
+      </div> 
+      <div class="info">
+       时光笔墨
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://cdn.zerolacqua.top/images/avatar.png" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://blog.zerolacqua.top" target="_blank">丘卡饮品店</a> 
+      </div> 
+      <div class="info">
+       要来点喝的吗？
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://cdn.zerolacqua.top/images/link/Ella.png" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://e23.dev/" target="_blank">Ela</a> 
+      </div> 
+      <div class="info">
+       喜欢夺旗的可爱飞马
+      </div> 
+     </div> 
+    </div>
+
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#608DBD,direction:145,strength:15)" width="100%" color=#608DBD SIZE=1>
+
 
 <div class="markdown-content">
     <h3>交换友链，请添加本站友链后下方留言申请，期望您的站点:</h3>
 </div>
 
 
+```
     友链格式示例：<br>
     名称：Lenny's Web <br>
     链接：https://lennychen.top/ <br>
     头像：https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png <br>
     简介：天地不仁，以万物为刍狗 <br>
+```

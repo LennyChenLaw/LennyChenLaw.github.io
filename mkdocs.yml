@@ -84,9 +84,9 @@ nav:
       - Godot: Tech/GameDev/Godot.md
 
     - 工具和网站:
-      - ChatGPT: Tech/ToolsWebsites/ChatGPT.md
+      - AI相关的工具: Tech/ToolsWebsites/AI.md
       - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md 
-      - 好用/好玩网站分享: Tech/ToolsWebsites/UsefulWebsites.md
+      - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
       - Leetcode: Tech/ToolsWebsites/Leetcode.md
   
 
@@ -99,7 +99,7 @@ nav:
   - 诗与远方:
     - 致四年前的你: 
       - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
-      - 白非礼上进记: Dream/ToOldDaysMyself/Vain.md
+      - 白非立上进记: Dream/ToOldDaysMyself/Vain.md
       - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
       - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
       - 路在脚下: Dream/ToOldDaysMyself/Path.md
