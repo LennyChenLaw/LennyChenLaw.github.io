@@ -2,7 +2,7 @@
 !!! info 
     原视频：:fontawesome-brands-youtube:{ .youtube }[Do you want to be loved or do you want to be yourself](https://www.youtube.com/watch?v=3Y81L_CUV3M)<br>
     视频作者：Sisyphus 55<br>
-    部分评论：@KalmAM: As Kafka said it, "I've realized life is a masquerade party and I've been showing up as myself" <br>
+    部分评论：<br>@KalmAM: As Kafka said it, "I've realized life is a masquerade party and I've been showing up as myself" <br>
     @asher2215: I love how each Sisyphus video either gives me a reality check or an existential crisis.
 
 ## 笔记

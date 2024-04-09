@@ -281,15 +281,11 @@ plugins:
         - about/links.md
   - git-committers:
       enabled: !ENV [CI, false]
-      repository: Wcowin/Wcowin.github.io
+      repository: LennyChenLaw/LennyChenLaw.github.io
       branch: main
       exclude:
         - index.md 
-        - tag.md
-        - waline.md
-        - blog/posts/update.md
-        - blog/posts/wkw.md
-        - about/link.md
+        - Interaction/links.md
   # - git-authors:
   #     exclude:
   #       - index.md
