@@ -186,14 +186,16 @@ nav:
       - 漫画: 
         - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 
         - 日本漫画: Dream/AnimeManga/Manga/JapanManga/JapanManga.md
-    - 健身: Dream/Bodybuilding/Bodybuilding.md
+    - 健身: 
+      - Dream/Bodybuilding/Bodybuilding.md
+      - Dream/Bodybuilding/EarlyNotes.md
     - 考研: Dream/Master/Master.md
     - 工作: Dream/Work/Work.md
 
   - 标签: tag.md
   - 关于:
     - 个人简介: about/profile.md
-    - 简历: about/LennyResume.pdf
+    # - 简历: about/LennyResume.pdf
     - My Goal: about/goal.md
     - Github主页介绍: about/GithubProfile.md
     - 支持作者: about/sponsor.md
