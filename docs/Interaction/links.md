@@ -97,6 +97,19 @@ hide:
      </div> 
     </div>
 
+   <div class="card"> 
+     <img class="ava" src="https://blog.w1ndys.top/img/about/avatar.png" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://blog.w1ndys.top/" target="_blank">W1ndys</a> 
+      </div> 
+      <div class="info">
+       欲戴皇冠，必承其重。
+      </div> 
+     </div> 
+    </div>
+
+
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#608DBD,direction:145,strength:15)" width="100%" color=#608DBD SIZE=1>
 
 
