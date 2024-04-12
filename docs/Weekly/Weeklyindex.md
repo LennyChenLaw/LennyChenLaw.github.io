@@ -6,3 +6,4 @@
 
 ## 2024
 - [x] [Technophile周刊（第01期）](Week01.md)
+- [x] [Technophile周刊（第02期）](Week02.md)

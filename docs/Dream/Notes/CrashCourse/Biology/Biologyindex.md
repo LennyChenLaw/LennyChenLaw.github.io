@@ -1,5 +1,5 @@
 ---
-comments: false
+comments: True
 statistics: True
 tags:
   - Crash_Course_Biology

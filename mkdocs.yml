@@ -95,18 +95,21 @@ nav:
     - 2024年: 
       - Weekly/Weeklyindex.md
       - Weekly/Week01.md
+      - Weekly/Week02.md
     
   - 诗与远方:
     - 致四年前的你: 
-      - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
+      # - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
       - 白非立上进记: Dream/ToOldDaysMyself/Vain.md
-      - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
-      - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
-      - 路在脚下: Dream/ToOldDaysMyself/Path.md
+      # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
+      # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
+      # - 路在脚下: Dream/ToOldDaysMyself/Path.md
     - 学习笔记:
       - Crash Course: 
         - World History: Dream/Notes/CrashCourse/WorldHistory/WorldHistory.md
-        - Philosophy: Dream/Notes/CrashCourse/Philosophy/Philosophy.md
+        - Philosophy: 
+          - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
+          - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
         - Biology: 
           - Dream/Notes/CrashCourse/Biology/Biologyindex.md
           - Dream/Notes/CrashCourse/Biology/Biology1.md
@@ -135,6 +138,7 @@ nav:
            
     - 读书: 
       - 哲学: 
+        - General Philosophy: Dream/Books/Philosophy/GeneralPhilosophy.md
         - 伦理学: Dream/Books/Philosophy/Ethics.md
         - 形而上学: Dream/Books/Philosophy/Metaphysics.md
         - 认识论: Dream/Books/Philosophy/Epistemology.md
@@ -179,9 +183,13 @@ nav:
     - 游戏: Dream/Games/Games.md
     - 动漫: 
       - 动画: 
-        - 国漫: Dream/AnimeManga/Anime/China/ChineseAnime.md
-        - 日漫: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
-        - 欧美漫: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
+        - 中国动画: 
+          - TV动画🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnime.md
+          - 动画电影🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnimeMovie.md
+        - 日本动画: 
+          - TV动画🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
+          - 动画电影🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnimeMovie.md
+        - 欧美动画: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
         - 短片动画: Dream/AnimeManga/Anime/ShortAnimation/ShortAnimation.md
       - 漫画: 
         - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 

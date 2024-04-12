@@ -181,6 +181,30 @@ hide:
       </div> 
      </div> 
     </div> 
+   <div class="card"> 
+     <img class="ava" src="https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+     " /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://blog.zhheo.com/" target="_blank">张洪Heo</a> 
+      </div> 
+      <div class="info">
+      分享设计与科技生活
+      </div> 
+     </div> 
+    </div>    
+
+   <div class="card"> 
+     <img class="ava" src="https://blog.lichenghao.cn/avatar.svg" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://blog.lichenghao.cn" target="_blank">故事的程序猿</a> 
+      </div> 
+      <div class="info">
+      好好学习，天天向上↑
+      </div> 
+     </div> 
+    </div>
 
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#608DBD,direction:145,strength:15)" width="100%" color=#608DBD SIZE=1>
 
