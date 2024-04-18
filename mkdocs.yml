@@ -104,45 +104,6 @@ nav:
       # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
       # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
       # - 路在脚下: Dream/ToOldDaysMyself/Path.md
-    - 学习笔记:
-      - Crash Course: 
-        - World History: 
-          - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
-          - Dream/Notes/CrashCourse/WorldHistory/WorldHistory1.md
-        - Philosophy: 
-          - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
-          - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
-        - Biology: 
-          - Dream/Notes/CrashCourse/Biology/Biologyindex.md
-          - Dream/Notes/CrashCourse/Biology/Biology1.md
-          - Dream/Notes/CrashCourse/Biology/Biology37.md 
-        - Psychology: 
-          - Dream/Notes/CrashCourse/Psychology/Psychologyindex.md
-          - Dream/Notes/CrashCourse/Psychology/Psychology1.md
-      - edX: 
-        - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
-        - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
-      - MITOpenCourseWare: 
-        - MIT 18.06 Linear Algebra: Dream/Notes/MITOpenCourseWare/MIT18.06Linear_Algebra.md
-      - FreeCodeCamp:
-        - HTML and CSS Tutorials:
-          - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
-          - CSS Tutorial - Zero to Hero (Complete Course): Dream/Notes/FreeCodeCamp/HTMLCSS/CSSZeroToHero.md
-        - JavaScript Tutorials:
-          - Build 15 JavaScript Projects - Vanilla JavaScript Course: Dream/Notes/FreeCodeCamp/VanillaJavaScript.md  
-        - Python:
-          - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib): Dream/Notes/FreeCodeCamp/Python/PandasNumpyMatplotlib.md
-          - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
-      - Coursera: Dream/Notes/Coursera/ComputerOrganization.md
-      - Others: 
-        - CSExceptMOOC: 
-          - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
-          - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
-        - PsychologyExceptMOOC: 
-          - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
-          - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
-    - 期末文件: 
-      - Dream/Uni/Unifile.md
            
     - 读书: 
       - 哲学: 
@@ -209,6 +170,45 @@ nav:
       - Dream/Bodybuilding/EarlyNotes.md
     - 考研: Dream/Master/Master.md
     - 工作: Dream/Work/Work.md
+
+  - 学习笔记:
+    - Crash Course: 
+      - World History: 
+        - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
+        - Dream/Notes/CrashCourse/WorldHistory/WorldHistory1.md
+      - Philosophy: 
+        - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
+        - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
+      - Biology: 
+        - Dream/Notes/CrashCourse/Biology/Biologyindex.md
+        - Dream/Notes/CrashCourse/Biology/Biology1.md
+        - Dream/Notes/CrashCourse/Biology/Biology37.md 
+      - Psychology: 
+        - Dream/Notes/CrashCourse/Psychology/Psychologyindex.md
+        - Dream/Notes/CrashCourse/Psychology/Psychology1.md
+    - edX: 
+      - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
+      - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
+    - MITOpenCourseWare: 
+      - MIT 18.06 Linear Algebra: Dream/Notes/MITOpenCourseWare/MIT18.06Linear_Algebra.md
+    - FreeCodeCamp:
+      - HTML and CSS Tutorials:
+        - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
+        - CSS Tutorial - Zero to Hero (Complete Course): Dream/Notes/FreeCodeCamp/HTMLCSS/CSSZeroToHero.md
+      - JavaScript Tutorials:
+        - Build 15 JavaScript Projects - Vanilla JavaScript Course: Dream/Notes/FreeCodeCamp/VanillaJavaScript.md  
+      - Python:
+        - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib): Dream/Notes/FreeCodeCamp/Python/PandasNumpyMatplotlib.md
+        - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
+    - Coursera: Dream/Notes/Coursera/ComputerOrganization.md
+    - Others: 
+      - CSExceptMOOC: 
+        - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
+        - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
+      - PsychologyExceptMOOC: 
+        - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
+        - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
+
 
   - 论文阅读: Thesis/Thesisindex.md
   - 标签: tag.md
