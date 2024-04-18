@@ -106,7 +106,9 @@ nav:
       # - 路在脚下: Dream/ToOldDaysMyself/Path.md
     - 学习笔记:
       - Crash Course: 
-        - World History: Dream/Notes/CrashCourse/WorldHistory/WorldHistory.md
+        - World History: 
+          - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
+          - Dream/Notes/CrashCourse/WorldHistory/WorldHistory1.md
         - Philosophy: 
           - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
           - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
@@ -116,7 +118,7 @@ nav:
           - Dream/Notes/CrashCourse/Biology/Biology37.md 
         - Psychology: 
           - Dream/Notes/CrashCourse/Psychology/Psychologyindex.md
-          - Dream/Notes/CrashCourse/Psychology/SisyphusDoYouWantToBeLoved.md
+          - Dream/Notes/CrashCourse/Psychology/Psychology1.md
       - edX: 
         - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
         - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
@@ -133,8 +135,14 @@ nav:
           - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
       - Coursera: Dream/Notes/Coursera/ComputerOrganization.md
       - Others: 
-        - FrameofEssence: Dream/Notes/Others/FrameofEssence/HowDoComputersReadCode.md
-    
+        - CSExceptMOOC: 
+          - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
+          - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
+        - PsychologyExceptMOOC: 
+          - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
+          - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
+    - 期末文件: 
+      - Dream/Uni/Unifile.md
            
     - 读书: 
       - 哲学: 
@@ -189,7 +197,9 @@ nav:
         - 日本动画: 
           - TV动画🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
           - 动画电影🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnimeMovie.md
-        - 欧美动画: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
+        - 欧美动画: 
+          - TV动画: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
+          - 动画电影: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnimeMovie.md
         - 短片动画: Dream/AnimeManga/Anime/ShortAnimation/ShortAnimation.md
       - 漫画: 
         - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 
@@ -200,6 +210,7 @@ nav:
     - 考研: Dream/Master/Master.md
     - 工作: Dream/Work/Work.md
 
+  - 论文阅读: Thesis/Thesisindex.md
   - 标签: tag.md
   - 关于:
     - 个人简介: about/profile.md

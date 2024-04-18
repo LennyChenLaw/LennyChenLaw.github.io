@@ -1,20 +1,26 @@
 ---
-comments: false
+comments: True
 statistics: True
 tags:
   - Crash_Course_Psychology
 ---
-# 前言
-!!! info
-    记录下平常看到的关于Psychology的内容，主要包括下列的视频和文章，如果你对其中的内容有建议、感悟，欢迎随时联系[我](https://smms.app/image/kHBUML1XdERzljK)。本人水平有限，对一些观点理解可能有不到位或者偏差的情况，遇到文章错误之处，如能指出，不胜感激。
 
-## 视频
-[Crash Course Psychology](https://www.youtube.com/watch?v=eal4-A89IWY&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6)、[Sisyphus 55](https://www.youtube.com/@Sisyphus55)、[TED-Ed](https://www.youtube.com/@TEDEd)
+# Crash Course Psychology
 
-## 文章
-+ 弗洛伊德《梦的解析》《论自恋》《自我与本我》
-+ 阿尔弗雷德·阿德勒《自卑与超越》《个体心理学的实践与理论》《神经症问题》
-+ 卡尔·荣格 《回忆、梦、反思》《心理类型》《心理学与文学》
+!!! info "课程信息"
+    - **课程链接**: :fontawesome-brands-youtube:{ .youtube } [Crash Course Psychology](https://www.youtube.com/watch?v=eal4-A89IWY&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6&index=1)
+    - **主讲**: [Hank Green](http://hankgreen.com/)
+    - **课程简介**: What does Psychology mean? Where does it come from? Hank gives you a 10-minute intro to one of the more tricky sciences and talks about some of the big names in the development of the field. Welcome to Crash Course Psychology!!!
+    - **部分课程反馈**:<br> 🙌@alphabetagamma4142: "The brains aren't complex enough to understand themselves" Well said.<br> 🙌@pomegranate9435: Psychology is basically the brain trying to figure out its self.<br> 🙌@wisdomkingdom9179:<br> 
+    Key Terms<br>
+    ① Structuralism<br>
+    ② Functionalism<br>
+     a.William James<br>
+     b.Charles Darwin -> Evolution by Natural Selection<br>
+    ③ Psychoanalysis<br>
+     a. Sigmund Freud<br>
+     b. Free Association <br>
+    ④ Behavioralism -> Observable Behavior <br>
 
-!!! note "笔记跳转链接"
-    - [x] [[Sisyphus] Do you want to be loved or do you want to be yourself? ](SisyphusDoYouWantToBeLoved.md)
+!!! note "Notes"
+    - [ ] [[Psychology#1] Intro to Psychology](Psychology1.md) 

@@ -28,7 +28,7 @@ icon:
 
 ## 关于我
 <div id="rcorners3" >
-  <img class="img1" src="https://s2.loli.net/2024/04/01/UuhMHzDBo4etPQO.jpg"  width="180" height="240" alt="个人头像" align="left" style="margin-right: 20px; "/>
+  <img class="img1" src="https://s2.loli.net/2024/04/01/UuhMHzDBo4etPQO.jpg"  width="160" height="213" alt="个人头像" align="left" style="margin-right: 20px; "/>
   <div>
     <p style="font-size: 40px">Lenny Chen</p>
     <p style="font-size: 18px">世界上任何书籍都不能带给你好运，但它们能让你悄悄成为你自己</p>

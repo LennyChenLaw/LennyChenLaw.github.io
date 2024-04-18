@@ -3,6 +3,8 @@ comments: True
 statistics: True
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZIFNKYQj7g?si=HRTcXrV1g1-qHvAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 日本番剧推荐
 !!! info 
     ①分类是为了更好查找，其实很多番元素丰富，很难用一个标签概括，比如银魂，我真的很想单开一个标签就叫银魂，而不是把他分到搞笑番下面，但这样分类又会显得太混乱，只能先用这种比较笼统的分法了，等什么时候想到更好的分类方法了，再做更新。<br>

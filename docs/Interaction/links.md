@@ -206,6 +206,55 @@ hide:
      </div> 
     </div>
 
+   <div class="card"> 
+     <img class="ava" src="https://cdn.ichika.cc/page/HeadIcon.jpg" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://ichika.cc" target="_blank">ichika</a> 
+      </div> 
+      <div class="info">
+      Hello,gamer!
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://cravatar.cn/avatar/8def0c8c73b56dc0e18744a9a43d70f4" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://hin.cool" target="_blank">W4J1e's blog</a> 
+      </div> 
+      <div class="info">
+      总是偏爱不务正业
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href=" https://akilar.top/" target="_blank">Akilarの糖果屋</a> 
+      </div> 
+      <div class="info">
+      欢迎光临糖果屋
+      </div> 
+     </div> 
+    </div>
+
+   <div class="card"> 
+     <img class="ava" src="https://img.yt-blog.top/webp/logo.webp" /> 
+     <div class="card-header"> 
+      <div> 
+       <a href="https://www.yt-blog.top/" target="_blank">Fgaoxing</a> 
+      </div> 
+      <div class="info">
+      一个少年的博客
+      </div> 
+     </div> 
+    </div>
+
+
 <HR style="FILTER: progid:DXImageTransform.Microsoft.Shadow(color:#608DBD,direction:145,strength:15)" width="100%" color=#608DBD SIZE=1>
 
 
