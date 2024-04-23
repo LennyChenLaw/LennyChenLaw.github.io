@@ -49,8 +49,8 @@ Crash Course的课程种类非常丰富，是我目前看的最多的MOOC频道�
 
 + 课程种类很多，比如有World History、World Mythology、Biology、Psychology、Philosophy、Linguistics、Intellectual Property等等，甚至还有Crash Course Games :material-information-outline:{ title="Card Games、Board Games、MMORPGs等等" }，是的，你没看错，讲解游戏历史的Crash Course。Amazing! Isn't it(☆▽☆) ?!
 
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//CrashCourseGames.png)
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//CrashCourseGames2.png)
+![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames.png)
+![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames2.png)
 
 + 老师很有激情，讲解条理清晰同时也兼顾了趣味性，比如Hank Green和John Green，两位的讲解风格很适合我这种喜欢逻辑和幽默的学生。
 
@@ -92,7 +92,13 @@ edX的课程种类同样非常丰富，甚至还有AP课程，比如[AP Physics 
 
 
 ## FreeCodeCamp
-FreeCodeCamp是在Youtube刷了比较多CS相关的视频后给我自动推荐的，然后看了一点Python for Data Science课后，发现是个宝藏频道，里面CS相关的内容特别丰富，而且大多是手把手带做项目，虽然还是有点像Tutorials，但已经是相当好的，能学到东西的Tutorials了。之所以要cue一下Tutorials，是因为一些CS博主如[John Fish](https://www.youtube.com/@thejohnfish)认为Project-Oriented才是学习CS最好的方法，Youtube上也有很多视频在说Stop Watching Tutorials，例如[Coding Tutorial Hell - STOP Wasting Time Learning to Code](https://www.youtube.com/watch?v=Er20e3tIBaY)、[STOP watching tutorials. Code like this instead.](https://www.youtube.com/watch?v=d01vkk3CYi0)、[Stop Watching Coding Tutorials in 2021](https://www.youtube.com/watch?v=n7JhRDRK3Gg)，因为本人也有比较多学习CS的“失败”经验，所以也越来越同意Project-Oriented这种学习方式，就是要先想好要做什么样的项目，然后边Googling边学，直到把这个Project搭建起来，比如目标是`建一个Flower网站`（你的Project），然后去`学HTML&CSS&JavaScript`（Project-Oriented Learning），然后再学怎么在Github上用github.io免费域名发布网站，接着再了解Domain、DNS相关的内容等等，或者想用Python做一个打外星人的游戏，然后去学Python的基础语法，怎么创建Class创建，已有的Python Game Library比如Pygame等，之后再可以学习怎么把做好的游戏打包成.exe文件，这种方式更符合CS的学习习惯，而不是一直看Tutorials。说这些是为了提醒：FreeCodeCamp的Tutorials很多而且很酷，但不要一味的陷入Tutorials，我觉得如果自己看书注意力不集中的话Tutorials还是要看的，只不过心里要一直清楚，Tutorials只是手段，不是目的，它是指着月亮的手，不是月亮本身。学完Tutorials一定要自己动手敲代码，写项目，这样才会有大的进步。
+FreeCodeCamp是在Youtube刷了比较多CS相关的视频后给我自动推荐的，然后看了一点Python for Data Science课后，发现是个宝藏频道，里面CS相关的内容特别丰富，而且大多是手把手带做项目，虽然还是有点像Tutorials，但已经是相当好的，能学到东西的Tutorials了。<br>
+
+
+之所以要cue一下Tutorials，是因为一些CS博主如[John Fish](https://www.youtube.com/@thejohnfish)认为Project-Oriented才是学习CS最好的方法，Youtube上也有很多视频在说Stop Watching Tutorials，例如
+>[Coding Tutorial Hell - STOP Wasting Time Learning to Code](https://www.youtube.com/watch?v=Er20e3tIBaY)、[STOP watching tutorials. Code like this instead.](https://www.youtube.com/watch?v=d01vkk3CYi0)、[Stop Watching Coding Tutorials in 2021](https://www.youtube.com/watch?v=n7JhRDRK3Gg)
+
+因为本人也有比较多学习CS的“失败”经验，所以也越来越同意Project-Oriented这种学习方式，就是要先想好要做什么样的项目，然后边Googling边学，直到把这个Project搭建起来，比如目标是`建一个Flower网站`（你的Project），然后去`学HTML&CSS&JavaScript`（Project-Oriented Learning），然后再学怎么在Github上用github.io免费域名发布网站，接着再了解Domain、DNS相关的内容等等，或者想用Python做一个打外星人的游戏，然后去学Python的基础语法，怎么创建Class创建，已有的Python Game Library比如Pygame等，之后再可以学习怎么把做好的游戏打包成.exe文件，这种方式更符合CS的学习习惯，而不是一直看Tutorials。说这些是为了提醒：FreeCodeCamp的Tutorials很多而且很酷，但不要一味的陷入Tutorials，我觉得如果自己看书注意力不集中的话Tutorials还是要看的，只不过心里要一直清楚，Tutorials只是手段，不是目的，它是指着月亮的手，不是月亮本身。学完Tutorials一定要自己动手敲代码，写项目，这样才会有大的进步。<br>
 
 只要心中记好Project-Oriented理念，我觉得FreeCodeCamp是一个很好的学习平台，它甚至还考虑到了语言需求，有几个不同语言的分帐号（虽然内容少一些），比如[freeCodeCamp Español](https://www.youtube.com/@freecodecampespanol)、[freeCodeCamp Japanese](https://www.youtube.com/@freeCodeCampJapanese)、[freeCodeCamp Chinese](https://www.youtube.com/@freecodecampchinese)
 

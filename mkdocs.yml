@@ -64,7 +64,7 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
-  - 主页 | Homepage: 
+  - 主页: 
     - index.md
     - foreword.md
   - 技术:
