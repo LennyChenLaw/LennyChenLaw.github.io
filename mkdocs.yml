@@ -64,9 +64,9 @@ repo_name: LennyChenLaw.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
-  - 主页: 
-    - 主页: index.md
-    - 前言: forward.md
+  - 主页 | Homepage: 
+    - index.md
+    - foreword.md
   - 技术:
     - Tech/Techindex.md
     - 成长路线: Tech/Roadmap/Roadmap.md
@@ -173,6 +173,7 @@ nav:
     - 工作: Dream/Work/Work.md
 
   - 学习笔记:
+    - Foreword: Dream/Notes/NotesForeword.md
     - Crash Course: 
       - World History: 
         - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
@@ -191,7 +192,8 @@ nav:
       - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
       - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
     - MITOpenCourseWare: 
-      - MIT 18.06 Linear Algebra: Dream/Notes/MITOpenCourseWare/MIT18.06Linear_Algebra.md
+      - Linear Algebra 18.06: Dream/Notes/MITOpenCourseWare/LinearAlgebra18.06.md
+      - Philosophy Of Law: Dream/Notes/MITOpenCourseWare/PhilosophyOfLaw24.235J.md
     - FreeCodeCamp:
       - HTML and CSS Tutorials:
         - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
@@ -206,9 +208,11 @@ nav:
       - CSExceptMOOC: 
         - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
         - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
+        - Dream/Notes/Others/CSExceptMOOC/TheMissingSemester.md
       - PsychologyExceptMOOC: 
         - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
         - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
+        - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.md
 
 
   - 论文阅读: Thesis/Thesisindex.md

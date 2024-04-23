@@ -1,3 +1,4 @@
+# How Do Computers Read Code
 In your first programming class, you were probably introduced to the idea of a compiler.
 Here’s how it works.
 You first write out your program.

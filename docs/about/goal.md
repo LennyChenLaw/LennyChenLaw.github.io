@@ -21,9 +21,9 @@ hide:
 ## 长期目标
 >最好在40岁之前能完成
 
-- [ ] 涉外律师-主任律师
+- [ ] 律师(求求你给我个offer吧，我什么都会做的╥﹏╥:material-information-outline:{ title="（soyorin音" })
 - [ ] Content Creator- 聊天、街采 or 教学
-- [ ] 创业-教育业 
+- [ ] 创业-教育业(If possible¯\_(ツ)_/¯) 
 - [ ] 逛欧洲、东南亚和美洲-德国、英国、美国、挪威、日本、越南、墨西哥、巴西$\dots$
 - [ ] Freelance Developer- 做点数据分析（Excel, SQL, Tableau or any BI tool）、小游戏之类的（目前我很想做出[Goodgis](https://www.youtube.com/@Goodgis)类型的小游戏）
 - [ ] 五国语言流利- 普通话✔️英语✔️日语✔️德语❌西班牙语❌

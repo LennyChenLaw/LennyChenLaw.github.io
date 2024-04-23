@@ -8,7 +8,7 @@ hide:
   - footer
   - feedback
 ---
-# 封面
+# 主页 | Homepage
 
 <!-- <center><font  color= #518FC1 size=6>“天地不仁，以万物为刍狗”</font></center> -->
 <center><font  color= #518FC1 size=6 class="ml3">“天地不仁，以万物为刍狗”</font></center>
@@ -130,7 +130,7 @@ hide:
   - [白非立上进记](Dream/ToOldDaysMyself/Vain.md) <br>
   - [English Comprehensible Input](Dream/Languages/English.md) <br>
   - [Japanese Comprehensible Input](Dream/Languages/Japanese.md) <br>
-  - [Do you want to be loved or do you want to be yourself?](Dream/Notes/CrashCourse/Psychology/SisyphusDoYouWantToBeLoved.md)<br>
+  - [Do you want to be loved or do you want to be yourself?](Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md)<br>
   - [Crash Course Biology#37](Dream/Notes/CrashCourse/Biology/Biology37.md) <br>
   - [Technophile周刊](Weekly/Weeklyindex.md) <br>
   - [PDF内嵌视频](Tech/ToolsWebsites/PDFInsertVideo.md) <br>
