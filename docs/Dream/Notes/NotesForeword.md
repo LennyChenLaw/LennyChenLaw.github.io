@@ -49,8 +49,10 @@ Crash Course的课程种类非常丰富，是我目前看的最多的MOOC频道�
 
 + 课程种类很多，比如有World History、World Mythology、Biology、Psychology、Philosophy、Linguistics、Intellectual Property等等，甚至还有Crash Course Games :material-information-outline:{ title="Card Games、Board Games、MMORPGs等等" }，是的，你没看错，讲解游戏历史的Crash Course。Amazing! Isn't it(☆▽☆) ?!
 
-![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames.png)
-![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames2.png)
+<!-- ![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames.png) -->
+<!-- ![](http://blogpicture.lennychen.top/blogpicture/Notes/CrashCourseGames2.png) -->
+![](https://s2.loli.net/2024/04/23/MYjVKbimkGqyHEe.png)
+![](https://s2.loli.net/2024/04/23/qbv7oImuYEgn5e8.png)
 
 + 老师很有激情，讲解条理清晰同时也兼顾了趣味性，比如Hank Green和John Green，两位的讲解风格很适合我这种喜欢逻辑和幽默的学生。
 
@@ -67,14 +69,24 @@ Crash Course的课程种类非常丰富，是我目前看的最多的MOOC频道�
 edX的课程种类同样非常丰富，甚至还有AP课程，比如[AP Physics 1](https://www.edx.org/learn/physics/rice-university-ap-physics-1?index=product&queryID=f7da335137c3bbc759bd21f88f89f6bf&position=1&linked_from=autocomplete&c=autocomplete)，edX也是我现在非常喜欢的MOOC频道，优点除了刚才提到的课程种类丰富，还有以下几点
 
 + 老师专业性较强，有很多大学Director、Professor，比如教How To Write An Essay的[Maggie Sokolik](https://www.edx.org/bio/maggie-sokolik)，就是Director, College Writing Programs at University of California, Berkeley.
+
 + 课程简介部分信息给的很足，`About this course`、`Prerequisites`、`What you'll learn`等等信息一应俱全，能够很好的帮助你找到想要学习的课
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXAPPhysics1About.png)
+![](https://s2.loli.net/2024/04/23/Ku8XwqmjvTSHiLF.png)
+
 + 课程资料丰富，教学视频提供了`Download video file`链接，Transcripts提供了`.srt file`和`.txt file`；有Quiz，很多练习题，帮你巩固知识点；同时还有Readings和Discussion Section
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXAPPhysics1quiz.png)
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXAPPhysics1quiz.png) -->
+
+![](https://s2.loli.net/2024/04/23/PhtdnWTQk37FJSB.png)
+
 + 加入付费课程能够`Earn a certificate`，虽然不知道这个verified certificate会不会被企业承认，但应该、也许、maybe、probably~能为找工作提供点帮助吧
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXContractLaw.png)
+
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXContractLaw.png) -->
+
+![](https://s2.loli.net/2024/04/23/PahfUsW4wqL93Qg.png)
+
 + 即便加入的是免费的课程，学完后也可能会送你个电子书签🔖什么的，比如之前学完How To Write An Essay课程后，就送了个`Congratulations!BerkeleyX`的书签，超级有成就感(～￣▽￣)～
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXHowToWriteAnEssayBookmark.png)
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//edXHowToWriteAnEssayBookmark.png) -->
+![](https://s2.loli.net/2024/04/23/BmEzOqp8ciua5hA.png)
 
 目前没感觉到什么缺点，硬要说的话可能就是好像没法直接bookmark课程for later study，一个简单的做法是直接enroll course，但这样后续可能会遇到audit access expired的情况。一个很小的问题，用OneNote或者Obsidian等笔记软件自己创建一个edX Course Wishlist，然后记录一下就能解决了。
 
@@ -83,13 +95,17 @@ edX的课程种类同样非常丰富，甚至还有AP课程，比如[AP Physics 
 最开始接触到MITOpenCourseWare是在B站看3Blue1Brown[线性代数的本质](https://www.bilibili.com/video/BV1ys411472E/)的时候，评论区有人提到“配合MIT 18.06 Linear Algebra食用更佳”，于是在B站找到了这门课刷了一遍，借着这个契机后来进一步了解到了MITOpenCourseWare。当时名校情结比较重，觉得上了MITOpenCourseWare的课，我就是线上丐版MIT人了(^///^)。不过后来随着时间流逝，身心成熟了一些，慢慢的就重视到课程本身了，不是冲着MIT的名头，而是真的为了追求知识，追求真理而参加MITOpenCourseWare的课程。“尽早对title祛魅，努力探寻真理，title是科学之路上的掌声与鲜花，但我们要追求的是没有掌声与鲜花也能心定的走在这条路上，因为走在路上本身就是种欢愉，不是吗？”——沃兹基硕德
 
 关于MITOpenCourseWare我最喜欢的点是可以根据Departments进行分类，并且每门课都标有Undergraduate或者Graduate，配合上:material-information-outline:{ title="类似国内的专业人才培养方案" }[MIT Undergraduate Programs](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/)或者[MIT Graduate Programs](https://catalog.mit.edu/interdisciplinary/graduate-programs/)，如果有足够的毅力，根据培养方案系统地自学完全套课程，感觉真的能算上半个MIT人。另外MIT的Lecture Notes、Assignments和Exams文件很丰富，而且PDF文件应该也都是用LaTeX排版的，读起来赏心悦目。
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITDepartments.png)
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITDepartments.png)
 ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITLectureNotes.png)
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITMathematicStatisticmidterm.png)
+![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITMathematicStatisticmidterm.png) -->
+![](https://s2.loli.net/2024/04/23/svGreJ9wg8k2pM6.png)
+![](https://s2.loli.net/2024/04/23/IuSXCZYdafin83s.png)
+![](https://s2.loli.net/2024/04/23/FwHqlkSW14YgNDQ.png)
+
 
 还有Syllabus要单独提一嘴，我真的超喜欢这种Syllabus！非常清晰明了，排版也干净漂亮！
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITSyllabus.png)
-
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//MITSyllabus.png) -->
+![](https://s2.loli.net/2024/04/23/hDUWBq4fyT5ujvw.png)
 
 ## FreeCodeCamp
 FreeCodeCamp是在Youtube刷了比较多CS相关的视频后给我自动推荐的，然后看了一点Python for Data Science课后，发现是个宝藏频道，里面CS相关的内容特别丰富，而且大多是手把手带做项目，虽然还是有点像Tutorials，但已经是相当好的，能学到东西的Tutorials了。<br>
@@ -103,14 +119,15 @@ FreeCodeCamp是在Youtube刷了比较多CS相关的视频后给我自动推荐�
 只要心中记好Project-Oriented理念，我觉得FreeCodeCamp是一个很好的学习平台，它甚至还考虑到了语言需求，有几个不同语言的分帐号（虽然内容少一些），比如[freeCodeCamp Español](https://www.youtube.com/@freecodecampespanol)、[freeCodeCamp Japanese](https://www.youtube.com/@freeCodeCampJapanese)、[freeCodeCamp Chinese](https://www.youtube.com/@freecodecampchinese)
 
 freeCodeCamp还提供了一个Github项目，就叫[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)，可以在这个[网站](https://www.freecodecamp.org/learn/)，践行了Project-Oriented理念，利用项目来学习Programming。类似的还有一个项目叫[project-based-learning](https://github.com/practical-tutorials/project-based-learning)，也是利用项目来学习Programming。
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//freecodecamp.png)
-
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//freecodecamp.png) -->
+![](https://s2.loli.net/2024/04/23/gnPMsBIA7uRZ6JN.png)
 
 ## Coursera
 Coursera是我很早期用的一个MOOC平台，甚至是我早期唯一用的一个MOOC平台，但那个时候比较懒，在Coursera上面的两门课都没坚持下来(；′⌒`)，后面稍微勤快点了，但因为接触到了Crash Course、edX、MITOpenCourseWare等新平台，Coursera反而用的越来越少了。最近在慢慢回归使用Coursera，因为听说Coursera是和edX分庭抗礼的存在，上面也有很多优秀的特色课程。
 
 Coursera和edX相互间有些不同，总体来讲各有优势，但他们课程界面上又十分相似，Coursera也提供很多课程学习资料，Videos、Transcripts、Readings、Quiz等等。
-![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//Coursera.png)
+<!-- ![](https://gitee.com/yagamilighttsuki/blog-picture/raw/master/Notes//Coursera.png) -->
+![](https://s2.loli.net/2024/04/23/C6nLtOrob32AEFI.png)
 
 ## Others
 

@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;700&display=swap');
+
 :root > * {
     --md-primary-fg-color: #5fa5e7;
     --md-primary-fg-color--light: #5fa5e7;
@@ -5,22 +13,73 @@
       
   }
 
+.headerlink {
+  font-size: larger;
+  font-family: 'LXGW WenKai Screen', 'ZCOOL XiaoWei', serif;
+}
+
 
   /* 给所有元素加上边框 */
   /* * {
     outline: 1px solid #518FC1;
   }  */
 
+/*控制的是回到顶部button*/
   button.md-top {
     font-family: LXGW WenKai; /* 修改字体 */
     font-size: 16px; /* 修改字体大小 */
-    font-weight: lighter;/* 修改字体粗细 */
+    font-weight: bolder;/* 修改字体粗细 */
     color: #518FC1; /* 修改字体颜色 */
   }
 
 :root {
   --md-text-font: "LXGW WenKai"; 
+  font-size: 20px;
+  font-weight: bolder;
 } /* 字体 */
+
+
+
+/* body,
+input {
+    font-family: 'LXGW WenKai Screen', 'Lexend', 'Noto Sans SC', 'Source Code Pro', -apple-system, Helvetica, Arial, sans-serif;
+} */
+
+center,
+p,
+li {
+    font-size: 16px;
+}
+
+.md-nav__link {
+  font-size: small;
+}
+
+.md-typeset .admonition{
+  font-size: medium;
+}
+
+.md-typeset details {
+    border: none;
+}
+
+.md-tabs {
+    background-color: var(--md-primary-fg-color--light);
+}
+
+.md-tabs__link {
+    margin-top: .8rem;
+    opacity: .4;
+    font-family: var(--md-text-font-family);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:is(:focus, :hover) {
+    color: inherit;
+    opacity: 1;
+}
+
+
 
 
 .ml3 {
@@ -468,7 +527,6 @@ div.hide {
 /* html {
   filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
   -webkit-filter: grayscale(100%);} */
-
 
 
 

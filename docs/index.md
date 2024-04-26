@@ -8,7 +8,7 @@ hide:
   - footer
   - feedback
 ---
-# 主页 | Homepage
+# 主页
 
 <!-- <center><font  color= #518FC1 size=6>“天地不仁，以万物为刍狗”</font></center> -->
 <center><font  color= #518FC1 size=6 class="ml3">“天地不仁，以万物为刍狗”</font></center>
