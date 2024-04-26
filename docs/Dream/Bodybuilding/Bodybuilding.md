@@ -1,4 +1,4 @@
-# Bodybuilding
+# 健身序言
 ![Arnold.png](https://s2.loli.net/2024/04/09/W1UB3lfdiJEV4aC.png)
 
 !!! info 

@@ -101,7 +101,9 @@ nav:
       - Weekly/Week04.md
     
   - 🎇诗与远方:
+    - Dream/index.md
     - 🎈致四年前的你: 
+      - Dream/ToOldDaysMyself/index.md
       # - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
       - 白非立上进记: Dream/ToOldDaysMyself/Vain.md
       # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
@@ -228,13 +230,15 @@ nav:
   - 📜论文阅读: Thesis/Thesisindex.md
   - 🔖标签: tag.md
   - 🙆‍♂️关于:
+    - about/index.md
     - 个人简介: about/profile.md
     # - 简历: about/LennyResume.pdf
-    - My Goal: about/goal.md
-    - Github主页介绍: about/GithubProfile.md
+    - 想做的事: about/goal.md
+    - Github: about/GithubProfile.md
     - 支持作者: about/sponsor.md
     
   - 📧互动: 
+    - Interaction/index.md
     - 友链: Interaction/links.md
     - 留言板: Interaction/Comment.md
     - 更新日志: Interaction/log.md

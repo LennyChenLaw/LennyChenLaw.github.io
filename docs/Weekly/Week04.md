@@ -5,7 +5,7 @@ statistics: True
 
 # Technophile周刊（第04期）
 
-[<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/595486128&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brella-n-i" title="ブレラ" target="_blank" style="color: #cccccc; text-decoration: none;">ブレラ</a> · <a href="https://soundcloud.com/brella-n-i/sets/dj-okawari-perfect-blue" title="DJ Okawari- Perfect Blue" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Okawari- Perfect Blue</a></div>](https://soundcloud.com/tremendous-g/sets/dj-okawari?si=35f5ad60e4dd44a2aff3405c6f2efcbc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/343655021&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tremendous-g" title="Tremendous G" target="_blank" style="color: #cccccc; text-decoration: none;">Tremendous G</a> · <a href="https://soundcloud.com/tremendous-g/sets/dj-okawari" title="DJ OKAWARI" target="_blank" style="color: #cccccc; text-decoration: none;">DJ OKAWARI</a></div>
 
 !!! info
     作者：Lenny<br>
@@ -35,7 +35,7 @@ statistics: True
 + [Why America fell for guns](https://aeon.co/essays/america-fell-for-guns-recently-and-for-reasons-you-will-not-guess)
 >一篇讲美国枪支问题的文章。
 ??? question
-    韦伯说，国家是一个“宣称垄断了正当的暴力使用以维持治安，并能够付诸实行”的实体。也即国家是合法的暴力机关，那么政府应该会尽力保证这种合法暴力只在国家权力中流通，并降低民众所拥有的暴力以防止混乱，维持稳定，美国因为枪支导致民众拥有的暴力很高，美国政府对此的态度是什么呢？现在美国也有支持禁枪和支持持枪的两种势力在对抗，他们的动机和目的是什么呢？文章里提到美国guun problem的其中两个原因是increase in crime and a decline in trust in the US government，但这不是主要原因， 更主要的原因应该是这个the new gun capitalists learned how to stimulate demand through marketing foreign guns as desirable consumer goods for the everyday American.
+    韦伯说，国家是一个“宣称垄断了正当的暴力使用以维持治安，并能够付诸实行”的实体。也即国家是合法的暴力机关，那么政府应该会尽力保证这种合法暴力只在国家权力中流通，并降低民众所拥有的暴力以防止混乱，维持稳定，美国因为枪支导致民众拥有的暴力很高，美国政府对此的态度是什么呢？现在美国也有支持禁枪和支持持枪的两种势力在对抗，他们的动机和目的是什么呢？文章里提到美国gun problem的其中两个原因是increase in crime and a decline in trust in the US government，但这不是主要原因， 更主要的原因应该是这个the new gun capitalists learned how to stimulate demand through marketing foreign guns as desirable consumer goods for the everyday American.
 
 + [Notes on Structured Programming](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
 > STRUCTURED PROGRAMMING的笔记。
@@ -66,7 +66,7 @@ step3. 创建一个Anki deck存放书的快照，比如Read，这个Anki deck的
 step4. 回到Yomichan，Configure Anki card format（找不到可以Ctrl+F，搜索Configure Anki card format），Deck选择刚刚创建的Read，Model选刚刚创建的ReadTypes,Screenshot填写{screenshot}
 ![](https://s2.loli.net/2024/04/26/XClx9FsoBrcOUVW.png)
 
-step5. All set!
+step5. All set! <br>
 P.S.还有一种奇淫巧计，就是用翻译插件如Immersive Translate，将页面一些地方翻译成日语，然后用Yomichan添加这些地方的单词，就可以实现把任何语言的书的某一页做成Anki卡了，注意Check for card duplicates要关掉
 
 
