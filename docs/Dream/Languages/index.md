@@ -2,13 +2,14 @@
 comments: false
 ---
 
-# 学习笔记
+# 关于
 
-![](https://s2.loli.net/2024/04/26/dPELKU2XJhaMFC1.jpg)
+![](https://s2.loli.net/2024/04/27/SVXasHw87e4ytWh.png)
+
 
 !!! note "" 
     <br><br>
     <div align="center" style="font-size:32px;font-weight:bold">
-        ~『A notebook lying here.』~
+        ~『It's night here, day on your side.』~
     </div>
-    <br><br><br>
+    <br><br>

@@ -9,7 +9,7 @@ comments: false
 !!! note "" 
     <br><br>
     <div align="center" style="font-size:32px;font-weight:bold">
-        ~『美しい世界だ』~
+        ~『残酷だが、美しい世界だ』~
     </div>
     <br><br><br>
 

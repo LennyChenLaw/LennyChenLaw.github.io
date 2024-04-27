@@ -205,11 +205,11 @@ hide:
 <div class="admonition info inline" style="height: 440px;">
 <p><left>
 🙋‍♂️ 关于网站：<strong>写点自己喜欢的东西~</strong><br/>
-📚 最近在看的书：<i>The Waves</i> by <a href="https://www.wikiwand.com/en/Virginia_Woolf"> Virginia Woolf </a><br>
+📚 最近在看的书：<i><a href="https://www.wikiwand.com/en/The_Waves">The Waves</a></i> by <a href="https://www.wikiwand.com/en/Virginia_Woolf"> Virginia Woolf </a><br>
 🗂️ 最近在看的网课：<a href="https://www.youtube.com/watch?v=Z56Jmr9Z34Q">The Missing Semester</a> by <a href="https://www.youtube.com/@MissingSemester">@Missing Semester</a> <br>
 🎶 最近的单曲循环：<a href="https://soundcloud.com/mjapanay/timemachine">time machine(feat. aren park)</a> by mj apanay&aren park <br>
 📺 最近在追的番and漫画：《葬送的芙莉莲》and《一人之下》<br>
-🎐 最近的要事：学习《刑法学》 by 车润海
+🎐 最近的要事：学习<a href="https://my.world.taobao.com/item/638167700098.htm">《刑法学》</a> by 车润海
 
 
 
@@ -220,9 +220,9 @@ hide:
 </div>
 <div class="admonition quote">
 <p><left>
-☁️ Be <strong>yourself</strong>; everyone else is already taken. .<br/>
+☁️ Be <strong>yourself</strong>; everyone else is already taken.<br/>
 ❄️ 天地不仁，以万物为刍狗。<br/>
-✡️ 太阳巨蟹 × <strong>ENFJ-A</strong> <s>Used to be <strong>Legit</strong> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s>
+✡️ 太阳巨蟹 × <b>ENFJ-A</b> <s>Used to be <b>**LEGIT**</b> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s>
 </left></p>
 </div>
 
@@ -300,24 +300,24 @@ hide:
 <div class="big-div">
   <div class="small-div">
     <p><strong>📄学习笔记</strong></p>
-    <li><a href="Dream/Notes/CrashCourse/Biology/Biology37.md">Genetic Mutation</a></li>
-    <li><a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md">Do you want to be loved or do you want to be yourself?</a></li> 
+    <li><a href="Dream/Notes/CrashCourse/Biology/Biology37.html">Genetic Mutation</a></li>
+    <li><a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.html">Do you want to be loved or do you want to be yourself?</a></li> 
   </div>
 
   <div class="small-div">
     <p><strong>🌏语言</strong></p>
-    <li><a href="Dream/Languages/English.md">学英语喽~</a></li>
-    <li><a href="blog/Mac/homebrew.md">学日语喽~</a></li>
+    <li><a href="Dream/Languages/English.html">学英语喽~</a></li>
+    <li><a href="Dream/Languages/Japanese.html">学日语喽~</a></li>
   </div>
   <div class="small-div">
     <p><strong>📰周刊</strong></p>
-    <li><a href="Weekly/Week01.md">看周刊喽~</a></li>
-    <li><a href="Weekly/Week02.md">再看个周刊喽~</a></li>
+    <li><a href="Weekly/Week01.html">看周刊喽~</a></li>
+    <li><a href="Weekly/Week02.html">再看个周刊喽~</a></li>
   </div>
   <div class="small-div">
     <p><strong>💻技术</strong></p>
-    <li><a href="Tech/ToolsWebsites/PDFInsertVideo.md">PDF内嵌视频~</a></li>
-    <li><a href="Tech/ToolsWebsites/UsefulWebsites.md">好用网站~</a></li>
+    <li><a href="Tech/ToolsWebsites/PDFInsertVideo.html">PDF内嵌视频~</a></li>
+    <li><a href="Tech/ToolsWebsites/UsefulWebsites.html">好用网站~</a></li>
   </div>
 </div>
 
@@ -326,11 +326,7 @@ hide:
 
 
 
-<div class="admonition info">
-    <center>
-    本站目前共代码{{codes}}行，文章{{pages}} 页，累计 {{words}} 字！
-    </center>
-</div>
+
 
 <!-- !!! info "站点统计"
     <center>
@@ -358,13 +354,23 @@ hide:
 
 
 
-
-[^Dao]:上善若水。水善利万物而不争，处众人之所恶，故几於道。居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。夫唯不争，故无尤。
+<div class="admonition quote">
+🌊上善若水。水善利万物而不争，处众人之所恶，故几於道。居善地，心善渊，与善仁，言善信，正善治，事善能，动善时。夫唯不争，故无尤。<br>
 <!--出自《道德经》第八章 -->
-[^Philosophy]:认识你自己 | γνῶθι σεαυτόν
+👁️‍🗨️认识你自己 | γνῶθι σεαυτόν <br>
 <!--相传是刻在德尔斐的阿波罗神庙的三句箴言之一-->
-[^Self]: 人生就是一条通向自我之路，不断尝试，辨明迷途。从来没有人能够成为完全、彻底的自我，尽管如此，每个人都仍然在努力尝试，或懵懂无知，或灵台清明，个个尽其所能。
+👣人生就是一条通向自我之路，不断尝试，辨明迷途。从来没有人能够成为完全、彻底的自我，尽管如此，每个人都仍然在努力尝试，或懵懂无知，或灵台清明，个个尽其所能。
 <!--出自《德米安：彷徨少年时》-黑塞 -->
+</div>
+
+
+
+<div class="admonition info">
+    <center>
+    本站目前共代码{{codes}}行，文章{{pages}} 页，累计 {{words}} 字！
+    </center>
+</div>
+
 
 <head>
 <!-- Google tag (gtag.js) -->
@@ -406,7 +412,7 @@ t.parentNode.insertBefore(e,t)}})();
 </head>
 
 
-
+<div class="admonition note">
    <body>
         <font color="#B9B9B9">
         <p style="text-align: center; ">
@@ -435,7 +441,7 @@ t.parentNode.insertBefore(e,t)}})();
       </script>
       </font>
     </body>
-
+</div>
 
 <head>
 <script defer src="https://analytics.us.umami.is/script.js" data-website-id="dae37494-1db6-408a-afdd-1868e1a7d41a"></script>

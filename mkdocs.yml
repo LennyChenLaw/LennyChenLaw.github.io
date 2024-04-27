@@ -69,9 +69,11 @@ nav:
     - index.md
     - foreword.md
   - 💻技术:
+    - Tech/index.md
     - Tech/Techindex.md
     - 🗺️成长路线: Tech/Roadmap/Roadmap.md
     - 📊数据科学:
+      - Tech/DataScience/index.md
       - MySQL: Tech/DataScience/MySQL.md
       - Excel: Tech/DataScience/Excel.md
       - Tableau: Tech/DataScience/Tableau.md
@@ -79,12 +81,14 @@ nav:
         - Hadoop: Tech/DataScience/Frameworks/Hadoop.md
         - Spark: Tech/DataScience/Frameworks/Spark.md 
     - 🎮Game Dev:
+      - Tech/GameDev/index.md
       - Lua: Tech/GameDev/Lua.md
       - Pygame: Tech/GameDev/Pygame.md
       - Unity: Tech/GameDev/Unity.md
       - Godot: Tech/GameDev/Godot.md
 
     - 🔗工具和网站:
+      - Tech/ToolsWebsites/index.md
       - AI相关的工具: Tech/ToolsWebsites/AI.md
       - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md 
       - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
@@ -110,7 +114,8 @@ nav:
       # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
       # - 路在脚下: Dream/ToOldDaysMyself/Path.md
            
-    - 📚读书: 
+    - 📚读书:
+      - 📚书籍: Dream/Books/index.md 
       - 📔哲学: 
         - General Philosophy: Dream/Books/Philosophy/GeneralPhilosophy.md
         - 伦理学: Dream/Books/Philosophy/Ethics.md
@@ -148,14 +153,16 @@ nav:
 
     - ✒️随笔: Dream/Thoughts/Thoughts.md
     - 💭此刻感受: Dream/Moments/Moments.md
-    - 🌏语言: 
+    - 🌏语言:
+      - Dream/Languages/index.md 
       - Dream/Languages/Languagesindex.md
       - 英语: Dream/Languages/English.md
       - 日语: Dream/Languages/Japanese.md
 
     - ⛰️旅行: Dream/Travel/Travel.md
     - 🕹️游戏: Dream/Games/Games.md
-    - 📺动漫: 
+    - 📺动漫:
+      - Dream/AnimeManga/index.md 
       - 动画: 
         - 中国动画: 
           - TV动画🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnime.md
@@ -171,6 +178,7 @@ nav:
         - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 
         - 日本漫画: Dream/AnimeManga/Manga/JapanManga/JapanManga.md
     - 💪健身: 
+      - Dream/Bodybuilding/index.md 
       - Dream/Bodybuilding/Bodybuilding.md
       - Dream/Bodybuilding/EarlyNotes.md
     - 👨‍🎓考研: Dream/Master/Master.md

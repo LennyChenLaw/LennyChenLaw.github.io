@@ -58,7 +58,7 @@ icon:
     <p style="font-size: 35px">Hi, Lenny here~</p>
     <li>🔯 太阳巨蟹 × <strong>ENFJ-A <s>Used to be <strong>Legit</strong> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s></strong></li>
     <li>💌 小马粉，Brony</li>
-    <li>📺ACG fan, 如火影、冰菓、月刊少女野崎君、日常、死亡笔记等，声优喜欢宫野真守、早见沙织and种田梨沙；一人之下，Blue Box；Hollow Knight、Ori and the Blind Forest </li>
+    <li>📺ACG fan, 如火影、冰菓、月刊少女野崎君、日常、死亡笔记等，声优喜欢宫野真守、早见沙织and种田梨沙；漫画一人之下，Blue Box；游戏Hollow Knight、Ori and the Blind Forest </li>
     <li>👻冷笑话爱好者，Why did the old man fall down the well? He couldn’t see that well.</li>
   </div>
 </div>
