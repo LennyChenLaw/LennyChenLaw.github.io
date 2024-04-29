@@ -110,7 +110,7 @@
         </p>
         <ul>Done
           <li>基本的框架搭建完成了</li>
-          <li>更新了<a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.html">do you want to be loved or do you want to be yourself</a>, <a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.html">The Myth of Productivity</a>等文章</li>        
+          <li>更新了<a href="https://lennychen.top/Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.html">do you want to be loved or do you want to be yourself</a>, <a href="https://lennychen.top/Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.html">The Myth of Productivity</a>等文章</li>        
         </ul>
         <ul>To Do
           <li>如果这里一级标题能折叠，看起来应该会更清晰，<a href="https://s2.loli.net/2024/04/25/bTQoq5yGdEScYIn.png">图示</a>。
