@@ -18,7 +18,7 @@
       
       
       <link rel="icon" href="https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.19">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.20">
     
     
       
@@ -96,11 +96,6 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
-      
-        
-        <a href="#lennys-web-v001" class="md-skip">
-          跳转至
-        </a>
       
     </div>
     <div data-md-component="announce">
@@ -1101,6 +1096,10 @@ and
       
         
       
+        
+      
+        
+      
     
     
       
@@ -1122,7 +1121,7 @@ and
               
   
   <span class="md-ellipsis">
-    🔗工具和网站
+    🔗杂项
   </span>
   
 
@@ -1138,7 +1137,7 @@ and
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_6">
             <span class="md-nav__icon md-icon"></span>
-            🔗工具和网站
+            🔗杂项
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -1214,11 +1213,53 @@ and
   
   
     <li class="md-nav__item">
+      <a href="../Tech/ToolsWebsites/VmwareMacOS.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MacOS VM on Windows
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../Tech/ToolsWebsites/Leetcode.html" class="md-nav__link">
         
   
   <span class="md-ellipsis">
     Leetcode
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Tech/ToolsWebsites/LaTeX.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    LaTeX
   </span>
   
 
@@ -5430,17 +5471,6 @@ and
       
       
       
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  <span class="md-ellipsis">
-    更新日志
-  </span>
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
       <a href="log.html" class="md-nav__link md-nav__link--active">
         
   
@@ -5450,32 +5480,6 @@ and
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="目录">
-  
-  
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      目录
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#lennys-web-v001" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lenny's Web v0.0.1
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
       
     </li>
   
@@ -5506,23 +5510,6 @@ and
   
   
   
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      目录
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#lennys-web-v001" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lenny's Web v0.0.1
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
   
 </nav>
                   </div>
@@ -5555,35 +5542,134 @@ and
 
   <h1>更新日志</h1>
 
-<h2 id="lennys-web-v001">Lenny's Web v0.0.1<a class="headerlink" href="#lennys-web-v001" title="Permanent link">&para;</a></h2>
-<div class="admonition info">
-<p class="admonition-title">Info</p>
-<p>2024.4.25</p>
+<style>
+.diary-wrapper {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px 20px 30px 0;
+}
+.diary-wrapper::before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    top: 0;
+    left: 20px;
+    bottom: 0;
+    height: 100%;
+    background-image: linear-gradient(
+        to top,
+        var(--md-default-bg-color),
+        var(--md-default-fg-color--lighter) 100px 
+    );
+}
+.diary-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+.diary-dot-wrapper {
+    width: 60px;
+}
+.diary-dot {
+    left: 12px;
+    position: relative;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background: #d3d3d3;
+    box-shadow: 0 0 0 5px var(--md-default-bg-color);
+    /* text-align: center; */
+    top: 0;
+}
+
+.diary-time {
+    font-size: .64rem;
+    color: #777777;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.diary-card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fffbfb;
+    background-clip: border-box;
+    border-radius: 1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 10px;
+    box-shadow: 0 0px 20px rgba(0,0,0,0.1);
+}
+[data-md-color-scheme="slate"] .diary-card {
+    background-color: #333333;
+}
+
+.diary-content {
+    width: 100%;
+    position: relative;
+    margin-left: 5px;
+/*    margin-right: 10px;*/
+    margin-top: 0px;
+}
+.diary-content img {
+    border-radius: 10px !important;
+    height: 110px !important;
+    margin-top: 5px !important;
+    margin-right: 8px !important;
+    transition: opacity 0.4s ease !important;
+}
+.diary-content img:hover {
+    opacity: .7 !important;
+}
+
+.diary-content h6 img {
+    font-size: 1em !important;
+    font-weight: bold !important;
+    margin-top: 0.67em !important;
+    margin-right: 0.67em !important;
+}
+
+.diary-content p {
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+}
+
+
+
+</style>
+
+<div>
+    <div class="diary-item">
+    <div class="diary-dot-wrapper"><div class="diary-dot"></div></div>
+    <div class="diary-content"><div class="diary-card">
+      <div class="diary-content">
+        <p style="font-weight: 800;">Lenny's Web v0.0.1</a></p>
+        </p>
+        <ul>Done
+          <li>基本的框架搭建完成了</li>
+          <li>更新了<a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.html">do you want to be loved or do you want to be yourself</a>, <a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.html">The Myth of Productivity</a>等文章</li>        
+        </ul>
+        <ul>To Do
+          <li>如果这里一级标题能折叠，看起来应该会更清晰，<a href="https://s2.loli.net/2024/04/25/bTQoq5yGdEScYIn.png">图示</a>。
+          </li>
+          <li>这两边的空要改的更小一点，蓝框里那么大就差不多了，中间阅读内容的空要更大一些，<a href="https://s2.loli.net/2024/04/25/TdrJZ4Aw7YQ6N1a.png">图示</a>。</li>
+          <li>两边空白处加上①花，或者②季节性内容，如夏天的蝉鸣，秋天的落叶，冬天的雪，或者③加上节日性内容，如春节的对联，元宵节的灯笼等等，比较有氛围感，<a href="https://s2.loli.net/2024/04/25/gE6xwozNqdLWsUR.png">图示</a>。
+          </li>
+        </ul>        
+      </div>
+      <div class="diary-time">
+        <span class="twemoji"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 20c4.42 0 8-3.58 8-8s-3.58-8-8-8-8 3.58-8 8 3.58 8 8 8m0-18c5.5 0 10 4.5 10 10s-4.5 10-10 10C6.47 22 2 17.5 2 12S6.5 2 12 2m.5 11H11V7h1.5v4.26l3.7-2.13.75 1.3L12.5 13Z"></path></svg></span>
+        <b>2024.04.25</b></div></div></div>
+  </div>
+
 </div>
-<p><code>Done</code></p>
-<ul>
-<li>
-<p>基本的框架搭建完成了</p>
-</li>
-<li>
-<p>更新了<a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md">do you want to be loved or do you want to be yourself</a>, <a href="Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.md">The Myth of Productivity</a>等文章</p>
-</li>
-</ul>
-<p><code>To Do</code></p>
-<ul>
-<li>
-<p>如果这里一级标题能折叠，看起来应该会更清晰
-<img alt="" src="https://s2.loli.net/2024/04/25/bTQoq5yGdEScYIn.png" /></p>
-</li>
-<li>
-<p>这两边的空要改的更小一点，蓝框里那么大就差不多了，中间阅读内容的空要更大一些
-<img alt="" src="https://s2.loli.net/2024/04/25/TdrJZ4Aw7YQ6N1a.png" /></p>
-</li>
-<li>
-<p>两边空白处加上①花，或者②季节性内容，如夏天的蝉鸣，秋天的落叶，冬天的雪，或者③加上节日性内容，如春节的对联，元宵节的灯笼等等，比较有氛围感
-<img alt="" src="https://s2.loli.net/2024/04/25/gE6xwozNqdLWsUR.png" /></p>
-</li>
-</ul>
 
 
 
@@ -5604,7 +5690,7 @@ and
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-04-26</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-04-29</span>
   </span>
 
     
