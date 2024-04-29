@@ -87,12 +87,14 @@ nav:
       - Unity: Tech/GameDev/Unity.md
       - Godot: Tech/GameDev/Godot.md
 
-    - 🔗工具和网站:
+    - 🔗杂项:
       - Tech/ToolsWebsites/index.md
       - AI相关的工具: Tech/ToolsWebsites/AI.md
       - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md 
       - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
+      - MacOS VM on Windows: Tech/ToolsWebsites/VmwareMacOS.md
       - Leetcode: Tech/ToolsWebsites/Leetcode.md
+      - LaTeX: Tech/ToolsWebsites/LaTeX.md
   
 
 

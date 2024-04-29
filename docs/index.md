@@ -208,8 +208,9 @@ hide:
 📚 最近在看的书：<i><a href="https://www.wikiwand.com/en/The_Waves">The Waves</a></i> by <a href="https://www.wikiwand.com/en/Virginia_Woolf"> Virginia Woolf </a><br>
 🗂️ 最近在看的网课：<a href="https://www.youtube.com/watch?v=Z56Jmr9Z34Q">The Missing Semester</a> by <a href="https://www.youtube.com/@MissingSemester">@Missing Semester</a> <br>
 🎶 最近的单曲循环：<a href="https://soundcloud.com/mjapanay/timemachine">time machine(feat. aren park)</a> by mj apanay&aren park <br>
-📺 最近在追的番and漫画：《葬送的芙莉莲》and《一人之下》<br>
-🎐 最近的要事：学习<a href="https://my.world.taobao.com/item/638167700098.htm">《刑法学》</a> by 车润海
+📺 最近在追的番和漫画：《葬送的芙莉莲》和《一人之下》<br>
+<!-- 🎮 最近在玩的游戏：<a href="https://store.steampowered.com/app/367520/Hollow_Knight/">Hollow Knight</a> by Team Cherry<br> -->
+🎐 最近的要事：<a href="https://my.world.taobao.com/item/638167700098.htm">学习《刑法学》</a> by 车润海
 
 
 
