@@ -15,10 +15,10 @@ statistics: True
     本杂志[开源](https://github.com/LennyChenLaw/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)
 
 
-![](https://s2.loli.net/2024/04/26/Tu2FhtQKM9oGabD.jpg)
+![](https://s2.loli.net/2024/05/02/zHhE2GQ1MmJCXu5.png)
 
 ## 文章
-+ [On Hiking Alone](https://magazine.catapult.co/people/stories/on-hiking-alone-in-national-parks-krista-diamond)
++ [Is Data Science dead?](https://medium.com/low-code-for-advanced-data-science/is-data-science-dead-a5d4421b4b1f)
 >文章里作家Krista Diamond讲述了自己为什么喜欢Hiking Alone and Do most things alone.
 !!! quote
     "I am a lone wolf. I am comfortable with myself. I like myself. I have a rich interior life. I am independent. I am selfish. I am faster, more efficient on my own. "

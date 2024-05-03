@@ -2,14 +2,14 @@
 comments: false
 ---
 
-# 动漫
+# 周复盘
 
-![](https://s2.loli.net/2024/04/27/cSN896VGphkoQld.jpg)
+![](https://s2.loli.net/2024/05/02/iZDlNauhvQ1dHPk.jpg)
 
 
 !!! note "" 
     <br><br>
     <div align="center" style="font-size:32px;font-weight:bold">
-        ~『この世界で最も美しい場所へようこそ』~
+        ~『燃え尽きたぜ…真っ白にな…』~
     </div>
     <br><br>

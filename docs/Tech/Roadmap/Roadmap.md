@@ -331,6 +331,11 @@
 <img alt="PR" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-Video%20Editing-blue?logo=adobe-premiere-pro&logoColor=fff" >
 <img alt="Emulator" src="https://img.shields.io/badge/Emulator-Tool-orange?logo=android&logoColor=fff" />
 <img alt="Rstudio" src="https://img.shields.io/badge/RStudio-IDE-blue?logo=rstudio&logoColor=fff" />
+<img alt="Renpy" src="https://img.shields.io/badge/RenPy-Visual%20Novel%20Engine-green?logo=renpy&logoColor=fff" />
+<img alt="Twine" src="https://img.shields.io/badge/Twine-Interactive%20Fiction-lightgrey?logo=twine&logoColor=fff" />
+<img alt="RPG Maker MV" src="https://img.shields.io/badge/RPG%20Maker%20MV-Game%20Development-ff69b4?logo=rpg-maker&logoColor=fff" />
+<img alt="VScode" src="https://img.shields.io/badge/VS%20Code-Text%20Editor-blue?logo=visual-studio-code&logoColor=fff" />
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-IDE-blue?logo=visual-studio&logoColor=fff" />
 </h6>
 </div>
   </div>

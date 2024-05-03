@@ -105,6 +105,7 @@ nav:
       - Weekly/Week02.md
       - Weekly/Week03.md
       - Weekly/Week04.md
+      - Weekly/Week05.md
     
   - 🎇诗与远方:
     - Dream/index.md
@@ -115,6 +116,12 @@ nav:
       # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
       # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
       # - 路在脚下: Dream/ToOldDaysMyself/Path.md
+    - 🧩周复盘:
+      - Dream/WeeklyReview/index.md
+      # - Dream/WeeklyReview/WeeklyReviewindex.md
+      - 2024年: 
+        - Dream/WeeklyReview/2024/Week1To17.md
+        - Dream/WeeklyReview/2024/Week18.md
            
     - 📚读书:
       - 📚书籍: Dream/Books/index.md 
@@ -152,15 +159,7 @@ nav:
         - 科幻小说: Dream/Books/Fiction/ScienceFiction.md
         - 推理小说: Dream/Books/Fiction/DetectiveFiction.md
         - 武侠小说: Dream/Books/Fiction/MartialArtsFiction.md
-
     - ✒️随笔: Dream/Thoughts/Thoughts.md
-    - 💭此刻感受: Dream/Moments/Moments.md
-    - 🌏语言:
-      - Dream/Languages/index.md 
-      - Dream/Languages/Languagesindex.md
-      - 英语: Dream/Languages/English.md
-      - 日语: Dream/Languages/Japanese.md
-
     - ⛰️旅行: Dream/Travel/Travel.md
     - 🕹️游戏: Dream/Games/Games.md
     - 📺动漫:
@@ -185,6 +184,15 @@ nav:
       - Dream/Bodybuilding/EarlyNotes.md
     - 👨‍🎓考研: Dream/Master/Master.md
     - 👨‍⚖️工作: Dream/Work/Work.md
+
+# `随笔`、`此刻感受`、`语言`、`学习笔记`等已经从`诗与远方`section里脱离出来，成为独立的section，但文件夹还是在Dream下，因为修改起来太麻烦，现在先不管，等之后找个时间改吧
+
+  - 💭此刻感受: Dream/Moments/Moments.md
+  - 🌏语言:
+    - Dream/Languages/index.md 
+    - Dream/Languages/Languagesindex.md
+    - 英语: Dream/Languages/English.md
+    - 日语: Dream/Languages/Japanese.md
 
   - 📄学习笔记:
     - Dream/Notes/index.md 

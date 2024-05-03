@@ -95,8 +95,8 @@ icon:
 -->
 
 ## 个人技能
-1. 英语、日语口语流利
-2. 懂一点Python、Anaconda、Html+Css+Javascript
+1. 英语、日语口语流利，comfortable speaking both English, Mandarin Chinese, and Japanese.
+2. 懂一点Python、Anaconda、HTML+CSS+Javascript
 3. Office还算熟练 
 4. 会用点飞书、Slack、Zoom、Figma
 5. 会用点Adobe系列PR、AE、PS
