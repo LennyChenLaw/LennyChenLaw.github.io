@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png">
-      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.20">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.21">
     
     
       
@@ -1503,6 +1503,8 @@ and
       
         
       
+        
+      
     
     
       
@@ -1653,6 +1655,27 @@ and
   
   <span class="md-ellipsis">
     Technophile周刊（第05期）
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Weekly/Week06.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Technophile周刊（第06期）
   </span>
   
 
@@ -1955,7 +1978,7 @@ and
         
   
   <span class="md-ellipsis">
-    Week1To17
+    一到十七周
   </span>
   
 
@@ -1976,7 +1999,7 @@ and
         
   
   <span class="md-ellipsis">
-    Week18
+    第十八周
   </span>
   
 
@@ -6039,22 +6062,22 @@ code {
 <a id="__codelineno-0-6" name="__codelineno-0-6"></a><span class="k">\usepackage</span><span class="na">[bigfiles]</span><span class="nb">{</span>pdfbase<span class="nb">}</span>
 <a id="__codelineno-0-7" name="__codelineno-0-7"></a><span class="k">\ExplSyntaxOn</span>
 <a id="__codelineno-0-8" name="__codelineno-0-8"></a><span class="k">\NewDocumentCommand\embedvideo</span><span class="nb">{</span>smm<span class="nb">}{</span>
-<a id="__codelineno-0-9" name="__codelineno-0-9"></a>  <span class="k">\group</span><span class="nb">_</span>begin:
+<a id="__codelineno-0-9" name="__codelineno-0-9"></a>  <span class="k">\group_begin:</span>
 <a id="__codelineno-0-10" name="__codelineno-0-10"></a>  <span class="k">\leavevmode</span>
-<a id="__codelineno-0-11" name="__codelineno-0-11"></a>  <span class="k">\tl</span><span class="nb">_</span>if<span class="nb">_</span>exist:cTF<span class="nb">{</span>file<span class="nb">_</span><span class="k">\file</span><span class="nb">_</span>mdfive<span class="nb">_</span>hash:n<span class="nb">{</span>#3<span class="nb">}}{</span>
-<a id="__codelineno-0-12" name="__codelineno-0-12"></a>    <span class="k">\tl</span><span class="nb">_</span>set<span class="nb">_</span>eq:Nc<span class="k">\video</span><span class="nb">{</span>file<span class="nb">_</span><span class="k">\file</span><span class="nb">_</span>mdfive<span class="nb">_</span>hash:n<span class="nb">{</span>#3<span class="nb">}}</span>
+<a id="__codelineno-0-11" name="__codelineno-0-11"></a>  <span class="k">\tl_if_exist:cTF</span><span class="nb">{</span>file<span class="nb">_</span><span class="k">\file_mdfive_hash:n</span><span class="nb">{</span>#3<span class="nb">}}{</span>
+<a id="__codelineno-0-12" name="__codelineno-0-12"></a>    <span class="k">\tl_set_eq:Nc\video</span><span class="nb">{</span>file<span class="nb">_</span><span class="k">\file_mdfive_hash:n</span><span class="nb">{</span>#3<span class="nb">}}</span>
 <a id="__codelineno-0-13" name="__codelineno-0-13"></a>  <span class="nb">}{</span>
 <a id="__codelineno-0-14" name="__codelineno-0-14"></a>    <span class="k">\IfFileExists</span><span class="nb">{</span>#3<span class="nb">}{}{</span><span class="k">\GenericError</span><span class="nb">{}{</span>File~`#3&#39;~not~found<span class="nb">}{}{}}</span>
-<a id="__codelineno-0-15" name="__codelineno-0-15"></a>    <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>fstream<span class="nb">}{{}{</span>#3<span class="nb">}}</span>
-<a id="__codelineno-0-16" name="__codelineno-0-16"></a>    <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>dict<span class="nb">}{</span>
+<a id="__codelineno-0-15" name="__codelineno-0-15"></a>    <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>fstream<span class="nb">}{{}{</span>#3<span class="nb">}}</span>
+<a id="__codelineno-0-16" name="__codelineno-0-16"></a>    <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>dict<span class="nb">}{</span>
 <a id="__codelineno-0-17" name="__codelineno-0-17"></a>      /Type/Filespec/F~(#3)/UF~(#3)
-<a id="__codelineno-0-18" name="__codelineno-0-18"></a>      /EF~&lt;&lt;/F~<span class="k">\pbs</span><span class="nb">_</span>pdflastobj:&gt;&gt;
+<a id="__codelineno-0-18" name="__codelineno-0-18"></a>      /EF~&lt;&lt;/F~<span class="k">\pbs_pdflastobj:</span>&gt;&gt;
 <a id="__codelineno-0-19" name="__codelineno-0-19"></a>    <span class="nb">}</span>
-<a id="__codelineno-0-20" name="__codelineno-0-20"></a>    <span class="k">\tl</span><span class="nb">_</span>set:Nx<span class="k">\video</span><span class="nb">{</span><span class="k">\pbs</span><span class="nb">_</span>pdflastobj:<span class="nb">}</span>
-<a id="__codelineno-0-21" name="__codelineno-0-21"></a>    <span class="k">\tl</span><span class="nb">_</span>gset<span class="nb">_</span>eq:cN<span class="nb">{</span>file<span class="nb">_</span><span class="k">\file</span><span class="nb">_</span>mdfive<span class="nb">_</span>hash:n<span class="nb">{</span>#3<span class="nb">}}</span><span class="k">\video</span>
+<a id="__codelineno-0-20" name="__codelineno-0-20"></a>    <span class="k">\tl_set:Nx\video</span><span class="nb">{</span><span class="k">\pbs_pdflastobj:</span><span class="nb">}</span>
+<a id="__codelineno-0-21" name="__codelineno-0-21"></a>    <span class="k">\tl_gset_eq:cN</span><span class="nb">{</span>file<span class="nb">_</span><span class="k">\file_mdfive_hash:n</span><span class="nb">{</span>#3<span class="nb">}}</span><span class="k">\video</span>
 <a id="__codelineno-0-22" name="__codelineno-0-22"></a>  <span class="nb">}</span>
 <a id="__codelineno-0-23" name="__codelineno-0-23"></a>  <span class="c">%</span>
-<a id="__codelineno-0-24" name="__codelineno-0-24"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>dict<span class="nb">}{</span>
+<a id="__codelineno-0-24" name="__codelineno-0-24"></a>  <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>dict<span class="nb">}{</span>
 <a id="__codelineno-0-25" name="__codelineno-0-25"></a>    /Type/RichMediaInstance/Subtype/Video
 <a id="__codelineno-0-26" name="__codelineno-0-26"></a>    /Asset~<span class="k">\video</span>
 <a id="__codelineno-0-27" name="__codelineno-0-27"></a>    /Params~&lt;&lt;/FlashVars (
@@ -6066,21 +6089,21 @@ code {
 <a id="__codelineno-0-33" name="__codelineno-0-33"></a>    )&gt;&gt;
 <a id="__codelineno-0-34" name="__codelineno-0-34"></a>  <span class="nb">}</span>
 <a id="__codelineno-0-35" name="__codelineno-0-35"></a>  <span class="c">%</span>
-<a id="__codelineno-0-36" name="__codelineno-0-36"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>dict<span class="nb">}{</span>
+<a id="__codelineno-0-36" name="__codelineno-0-36"></a>  <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>dict<span class="nb">}{</span>
 <a id="__codelineno-0-37" name="__codelineno-0-37"></a>    /Type/RichMediaConfiguration/Subtype/Video
-<a id="__codelineno-0-38" name="__codelineno-0-38"></a>    /Instances~[<span class="k">\pbs</span><span class="nb">_</span>pdflastobj:]
+<a id="__codelineno-0-38" name="__codelineno-0-38"></a>    /Instances~[<span class="k">\pbs_pdflastobj:</span>]
 <a id="__codelineno-0-39" name="__codelineno-0-39"></a>  <span class="nb">}</span>
 <a id="__codelineno-0-40" name="__codelineno-0-40"></a>  <span class="c">%</span>
-<a id="__codelineno-0-41" name="__codelineno-0-41"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>dict<span class="nb">}{</span>
+<a id="__codelineno-0-41" name="__codelineno-0-41"></a>  <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>dict<span class="nb">}{</span>
 <a id="__codelineno-0-42" name="__codelineno-0-42"></a>    /Type/RichMediaContent
 <a id="__codelineno-0-43" name="__codelineno-0-43"></a>    /Assets~&lt;&lt;
 <a id="__codelineno-0-44" name="__codelineno-0-44"></a>      /Names~[(#3)~<span class="k">\video</span>]
 <a id="__codelineno-0-45" name="__codelineno-0-45"></a>    &gt;&gt;
-<a id="__codelineno-0-46" name="__codelineno-0-46"></a>    /Configurations~[<span class="k">\pbs</span><span class="nb">_</span>pdflastobj:]
+<a id="__codelineno-0-46" name="__codelineno-0-46"></a>    /Configurations~[<span class="k">\pbs_pdflastobj:</span>]
 <a id="__codelineno-0-47" name="__codelineno-0-47"></a>  <span class="nb">}</span>
-<a id="__codelineno-0-48" name="__codelineno-0-48"></a>  <span class="k">\tl</span><span class="nb">_</span>set:Nx<span class="k">\rmcontent</span><span class="nb">{</span><span class="k">\pbs</span><span class="nb">_</span>pdflastobj:<span class="nb">}</span>
+<a id="__codelineno-0-48" name="__codelineno-0-48"></a>  <span class="k">\tl_set:Nx\rmcontent</span><span class="nb">{</span><span class="k">\pbs_pdflastobj:</span><span class="nb">}</span>
 <a id="__codelineno-0-49" name="__codelineno-0-49"></a>  <span class="c">%</span>
-<a id="__codelineno-0-50" name="__codelineno-0-50"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfobj:nnn<span class="nb">{}{</span>dict<span class="nb">}{</span>
+<a id="__codelineno-0-50" name="__codelineno-0-50"></a>  <span class="k">\pbs_pdfobj:nnn</span><span class="nb">{}{</span>dict<span class="nb">}{</span>
 <a id="__codelineno-0-51" name="__codelineno-0-51"></a>    /Activation~&lt;&lt;
 <a id="__codelineno-0-52" name="__codelineno-0-52"></a>      /Condition/<span class="k">\IfBooleanTF</span><span class="nb">{</span>#1<span class="nb">}{</span>PV<span class="nb">}{</span>XA<span class="nb">}</span>
 <a id="__codelineno-0-53" name="__codelineno-0-53"></a>      /Presentation~&lt;&lt;/Style/Embedded&gt;&gt;
@@ -6088,23 +6111,23 @@ code {
 <a id="__codelineno-0-55" name="__codelineno-0-55"></a>    /Deactivation~&lt;&lt;/Condition/PI&gt;&gt;
 <a id="__codelineno-0-56" name="__codelineno-0-56"></a>  <span class="nb">}</span>
 <a id="__codelineno-0-57" name="__codelineno-0-57"></a>  <span class="c">%</span>
-<a id="__codelineno-0-58" name="__codelineno-0-58"></a>  <span class="k">\hbox</span><span class="nb">_</span>set:Nn<span class="k">\l</span><span class="nb">_</span>tmpa<span class="nb">_</span>box<span class="nb">{</span>#2<span class="nb">}</span>
-<a id="__codelineno-0-59" name="__codelineno-0-59"></a>  <span class="k">\tl</span><span class="nb">_</span>set:Nx<span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>wd<span class="nb">_</span>tl<span class="nb">{</span><span class="k">\dim</span><span class="nb">_</span>use:N<span class="k">\box</span><span class="nb">_</span>wd:N<span class="k">\l</span><span class="nb">_</span>tmpa<span class="nb">_</span>box<span class="nb">}</span>
-<a id="__codelineno-0-60" name="__codelineno-0-60"></a>  <span class="k">\tl</span><span class="nb">_</span>set:Nx<span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>ht<span class="nb">_</span>tl<span class="nb">{</span><span class="k">\dim</span><span class="nb">_</span>use:N<span class="k">\box</span><span class="nb">_</span>ht:N<span class="k">\l</span><span class="nb">_</span>tmpa<span class="nb">_</span>box<span class="nb">}</span>
-<a id="__codelineno-0-61" name="__codelineno-0-61"></a>  <span class="k">\tl</span><span class="nb">_</span>set:Nx<span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>dp<span class="nb">_</span>tl<span class="nb">{</span><span class="k">\dim</span><span class="nb">_</span>use:N<span class="k">\box</span><span class="nb">_</span>dp:N<span class="k">\l</span><span class="nb">_</span>tmpa<span class="nb">_</span>box<span class="nb">}</span>
-<a id="__codelineno-0-62" name="__codelineno-0-62"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfxform:nnnnn<span class="nb">{</span>1<span class="nb">}{</span>1<span class="nb">}{}{}{</span><span class="k">\l</span><span class="nb">_</span>tmpa<span class="nb">_</span>box<span class="nb">}</span>
+<a id="__codelineno-0-58" name="__codelineno-0-58"></a>  <span class="k">\hbox_set:Nn\l_tmpa_box</span><span class="nb">{</span>#2<span class="nb">}</span>
+<a id="__codelineno-0-59" name="__codelineno-0-59"></a>  <span class="k">\tl_set:Nx\l_box_wd_tl</span><span class="nb">{</span><span class="k">\dim_use:N\box_wd:N\l_tmpa_box</span><span class="nb">}</span>
+<a id="__codelineno-0-60" name="__codelineno-0-60"></a>  <span class="k">\tl_set:Nx\l_box_ht_tl</span><span class="nb">{</span><span class="k">\dim_use:N\box_ht:N\l_tmpa_box</span><span class="nb">}</span>
+<a id="__codelineno-0-61" name="__codelineno-0-61"></a>  <span class="k">\tl_set:Nx\l_box_dp_tl</span><span class="nb">{</span><span class="k">\dim_use:N\box_dp:N\l_tmpa_box</span><span class="nb">}</span>
+<a id="__codelineno-0-62" name="__codelineno-0-62"></a>  <span class="k">\pbs_pdfxform:nnnnn</span><span class="nb">{</span>1<span class="nb">}{</span>1<span class="nb">}{}{}{</span><span class="k">\l_tmpa_box</span><span class="nb">}</span>
 <a id="__codelineno-0-63" name="__codelineno-0-63"></a>  <span class="c">%</span>
-<a id="__codelineno-0-64" name="__codelineno-0-64"></a>  <span class="k">\pbs</span><span class="nb">_</span>pdfannot:nnnn<span class="nb">{</span><span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>wd<span class="nb">_</span>tl<span class="nb">}{</span><span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>ht<span class="nb">_</span>tl<span class="nb">}{</span><span class="k">\l</span><span class="nb">_</span>box<span class="nb">_</span>dp<span class="nb">_</span>tl<span class="nb">}{</span>
+<a id="__codelineno-0-64" name="__codelineno-0-64"></a>  <span class="k">\pbs_pdfannot:nnnn</span><span class="nb">{</span><span class="k">\l_box_wd_tl</span><span class="nb">}{</span><span class="k">\l_box_ht_tl</span><span class="nb">}{</span><span class="k">\l_box_dp_tl</span><span class="nb">}{</span>
 <a id="__codelineno-0-65" name="__codelineno-0-65"></a>    /Subtype/RichMedia
 <a id="__codelineno-0-66" name="__codelineno-0-66"></a>    /BS~&lt;&lt;/W~0/S/S&gt;&gt;
 <a id="__codelineno-0-67" name="__codelineno-0-67"></a>    /Contents~(embedded~video~file:#3)
 <a id="__codelineno-0-68" name="__codelineno-0-68"></a>    /NM~(rma:#3)
-<a id="__codelineno-0-69" name="__codelineno-0-69"></a>    /AP~&lt;&lt;/N~<span class="k">\pbs</span><span class="nb">_</span>pdflastxform:&gt;&gt;
-<a id="__codelineno-0-70" name="__codelineno-0-70"></a>    /RichMediaSettings~<span class="k">\pbs</span><span class="nb">_</span>pdflastobj:
+<a id="__codelineno-0-69" name="__codelineno-0-69"></a>    /AP~&lt;&lt;/N~<span class="k">\pbs_pdflastxform:</span>&gt;&gt;
+<a id="__codelineno-0-70" name="__codelineno-0-70"></a>    /RichMediaSettings~<span class="k">\pbs_pdflastobj:</span>
 <a id="__codelineno-0-71" name="__codelineno-0-71"></a>    /RichMediaContent~<span class="k">\rmcontent</span>
 <a id="__codelineno-0-72" name="__codelineno-0-72"></a>  <span class="nb">}</span>
 <a id="__codelineno-0-73" name="__codelineno-0-73"></a>  <span class="k">\phantom</span><span class="nb">{</span>#2<span class="nb">}</span>
-<a id="__codelineno-0-74" name="__codelineno-0-74"></a>  <span class="k">\group</span><span class="nb">_</span>end:
+<a id="__codelineno-0-74" name="__codelineno-0-74"></a>  <span class="k">\group_end:</span>
 <a id="__codelineno-0-75" name="__codelineno-0-75"></a><span class="nb">}</span>
 <a id="__codelineno-0-76" name="__codelineno-0-76"></a><span class="k">\ExplSyntaxOff</span>
 <a id="__codelineno-0-77" name="__codelineno-0-77"></a><span class="c">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</span>
@@ -6430,7 +6453,7 @@ code {
     
     
 
-      <script src="../../assets/javascripts/bundle.dd8806f2.min.js"></script>
+      <script src="../../assets/javascripts/bundle.a7c05c9e.min.js"></script>
       
         <script src="../../javascripts/extra.js"></script>
       

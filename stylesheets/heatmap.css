@@ -1,0 +1,11 @@
+#heatmap {
+	width: 900px;
+	height: 100px;
+	border: 1px solid #ccc;
+	margin: 20px auto;
+	padding: 10px;
+    }
+    
+    /* Additional styling to mimic GitHub's heatmap color scheme */
+    /* You can adjust the colors according to GitHub's heatmap color scheme */
+    
