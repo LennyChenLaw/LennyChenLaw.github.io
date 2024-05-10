@@ -10,6 +10,9 @@ comments: false
 !!! note "" 
     <br><br>
     <div align="center" style="font-size:32px;font-weight:bold">
-        ~『燃え尽きたぜ…真っ白にな…』~
+        ~『燃え尽きたぜ…真っ白にな…』~<br>
+        <div>
+        人生大约4000周
+        </div>
     </div>
     <br><br>

@@ -1,3 +1,8 @@
+---
+title: 更新日志
+comments: true
+---
+
 <style>
 .diary-wrapper {
     flex: 1;

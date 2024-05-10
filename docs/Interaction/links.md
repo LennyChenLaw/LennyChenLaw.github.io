@@ -263,6 +263,28 @@ hide:
 </div>
 
 
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OhMyLive2D</title>
+  </head>
+  <body>
+    <script src="https://unpkg.com/oh-my-live2d@latest"></script>
+    <script>
+      OML2D.loadOml2d({
+        models: [
+          {
+            path: 'https://model.oml2d.com/cat-black/model.json'
+          }
+        ]
+      });
+    </script>
+  </body>
+</html>
+
+
 ```
     友链格式示例：
     名称：Lenny's Web 

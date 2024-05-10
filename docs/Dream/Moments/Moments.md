@@ -117,6 +117,58 @@
       <div class="moment-more-options">...</div>
     </div>
     <!-- Moment Image -->
+    <img class="moment-image" src="https://s2.loli.net/2024/05/10/D8AHisIQmjngZTO.png" alt="Moment 1">
+    <!-- Moment Icons -->
+    <div class="moment-icons">
+      <!-- Material Symbols Outlined -->
+      <span class="material-symbols-outlined">favorite</span>
+      <span class="material-symbols-outlined">chat</span>
+      <span class="material-symbols-outlined">send</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="material-symbols-outlined">bookmark</span>
+    </div>
+    <!-- Moment Content -->
+    <div class="moment-content">
+      <p class="moment-text">累了的话，就来蓝湖坐坐吧。</p>
+      <p class="moment-timestamp">2024-05-10</p>
+    </div>
+  </div>
+</div>
+
+<div class="moments-container">
+  <div class="moment-card">
+    <!-- User Info -->
+    <div class="moment-user-info">
+      <img class="moment-avatar" src="https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png" alt="Avatar">
+      <p class="moment-username">LennyChen</p>
+      <div class="moment-more-options">...</div>
+    </div>
+    <!-- Moment Image -->
+    <img class="moment-image" src="https://s2.loli.net/2024/05/10/uQ7TMiUZErGl9PB.png" alt="Moment 1">
+    <!-- Moment Icons -->
+    <div class="moment-icons">
+      <!-- Material Symbols Outlined -->
+      <span class="material-symbols-outlined">favorite</span>
+      <span class="material-symbols-outlined">chat</span>
+      <span class="material-symbols-outlined">send</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="material-symbols-outlined">bookmark</span>
+    </div>
+    <!-- Moment Content -->
+    <div class="moment-content">
+      <p class="moment-text">虽然很多人都会觉得这句话在表达张之维的强大、狂傲，但我始终觉得这里在表现之维的“不争”，正应了《道德经》中的那句“夫唯不争，故无尤”。老天师超凡入圣，在“圣”上做的好，却难以凡的眼光理解他人，走的是圣人道，无根生在“凡”上做的好，知道别人想要的，走的是凡人道。</p>
+      <p class="moment-timestamp">2024-05-10</p>
+    </div>
+  </div>
+</div>
+
+<div class="moments-container">
+  <div class="moment-card">
+    <!-- User Info -->
+    <div class="moment-user-info">
+      <img class="moment-avatar" src="https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png" alt="Avatar">
+      <p class="moment-username">LennyChen</p>
+      <div class="moment-more-options">...</div>
+    </div>
+    <!-- Moment Image -->
     <img class="moment-image" src="https://s2.loli.net/2024/05/02/iZDlNauhvQ1dHPk.jpg" alt="Moment 1">
     <!-- Moment Icons -->
     <div class="moment-icons">
