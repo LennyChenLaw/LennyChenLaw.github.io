@@ -4,7 +4,25 @@
 - [x] {--Crash Course Philosophy #20 to #25--}
 - [x] {--Swirl Regression model--}
 - [x] {--犯罪目的与动机--}
-- [x] {--Assimil Spanish LECCION SEXTA}
+- [x] {--Assimil Spanish LECCION SEXTA--}
 - [x] {--manim Templates.py--} 
 
 ## 周二 
+- [x] {--Crash Course Philosophy #26 to #28--}
+- [x] {--背单词--}
+- [x] {--Easy German--}
+
+## 周三 
+- [x] {--manim Tutorial01--}
+- [x] {--刑法学--}
+
+## 周四
+- [x] {--刑法学--}
+
+## 周五
+- [x] {--刑法学--}
+
+## 周六
+记不得了...
+## 周日
+也记不得了...

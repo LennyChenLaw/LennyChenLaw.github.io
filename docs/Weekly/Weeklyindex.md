@@ -12,3 +12,4 @@
 - [x] [Technophile周刊（第05期）](Week05.md)
 - [x] [Technophile周刊（第06期）](Week06.md)
 - [x] [Technophile周刊（第07期）](Week07.md)
+- [x] [Technophile周刊（第08期）](Week08.md)
