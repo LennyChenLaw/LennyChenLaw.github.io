@@ -13,3 +13,4 @@ tags:
 !!! note "笔记跳转链接"
     - [ ] [英语](English.md)
     - [ ] [日语](Japanese.md)
+    - [ ] [德语](German.md)
