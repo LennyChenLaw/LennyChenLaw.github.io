@@ -21,21 +21,21 @@ theme:
       scheme: default # 日间模式
       primary: deep purple # 上方的
       accent: indigo # 链接等可交互元件的高亮色
-      # teal 
+      # teal
       toggle:
         icon: material/toggle-switch # 图标
         name: 切换至夜间模式 # 鼠标悬浮提示
     - media: "(prefers-color-scheme: dark)"
       scheme: slate # 夜间模式
-      primary: black 
+      primary: black
       accent: indigo
       # teal
       toggle:
         icon: material/toggle-switch-off-outline
         name: 切换至日间模式
-  features: 
+  features:
     - announce.dismiss #呈现可标记为由用户读取的临时公告，可以包含一个用于取消当前公告的按钮
-    # - navigation.instant 
+    # - navigation.instant
     #- header.autohide  #自动隐藏
     - navigation.tracking #地址栏中的 URL 将自动更新为在目录中突出显示的活动锚点
     - navigation.tabs #顶级部分将呈现在上面视口标题下方的菜单层中，但在移动设备上保持原样
@@ -54,225 +54,224 @@ theme:
     - content.code.copy
     - content.action.edit
     - content.action.view
-    - content.code.annotate 
+    - content.code.annotate
   language: zh # 一些提示性的文字会变成中文
   icon:
     repo: fontawesome/brands/github #右上角图标
-    
-edit_uri: edit/main/docs # 编辑按钮跳转的链接 
+
+edit_uri: edit/main/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/LennyChenLaw/LennyChenLaw.github.io # 右上角点击跳转的链接
 repo_name: LennyChenLaw.github.io # 右上角的名字
 
 # [Navigtion]
 nav:
-  - 🏡主页: 
-    - index.md
-    - foreword.md
+  - 🏡主页:
+      - index.md
+      - foreword.md
   - 💻技术:
-    - Tech/index.md
-    - Tech/Techindex.md
-    - 🗺️成长路线: Tech/Roadmap/Roadmap.md
-    - 📊数据科学:
-      - Tech/DataScience/index.md
-      - MySQL: Tech/DataScience/MySQL.md
-      - Excel: Tech/DataScience/Excel.md
-      - Tableau: Tech/DataScience/Tableau.md
-      - 大数据技术: 
-        - Hadoop: Tech/DataScience/Frameworks/Hadoop.md
-        - Spark: Tech/DataScience/Frameworks/Spark.md 
-    - 🎮Game Dev:
-      - Tech/GameDev/index.md
-      - Lua: Tech/GameDev/Lua.md
-      - Pygame: Tech/GameDev/Pygame.md
-      - Unity: Tech/GameDev/Unity.md
-      - Godot: Tech/GameDev/Godot.md
+      - Tech/index.md
+      - Tech/Techindex.md
+      - 🗺️成长路线: Tech/Roadmap/Roadmap.md
+      - 📊数据科学:
+          - Tech/DataScience/index.md
+          - MySQL: Tech/DataScience/MySQL.md
+          - Excel: Tech/DataScience/Excel.md
+          - Tableau: Tech/DataScience/Tableau.md
+          - 大数据技术:
+              - Hadoop: Tech/DataScience/Frameworks/Hadoop.md
+              - Spark: Tech/DataScience/Frameworks/Spark.md
+      - 🎮Game Dev:
+          - Tech/GameDev/index.md
+          - Lua: Tech/GameDev/Lua.md
+          - Pygame: Tech/GameDev/Pygame.md
+          - Unity: Tech/GameDev/Unity.md
+          - Godot: Tech/GameDev/Godot.md
 
-    - 🔗杂项:
-      - Tech/ToolsWebsites/index.md
-      - AI相关的工具: Tech/ToolsWebsites/AI.md
-      - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md 
-      - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
-      - MacOS VM on Windows: Tech/ToolsWebsites/VmwareMacOS.md
-      - Leetcode: Tech/ToolsWebsites/Leetcode.md
-      - LaTeX: Tech/ToolsWebsites/LaTeX.md
-  
+      - 🔗杂项:
+          - Tech/ToolsWebsites/index.md
+          - AI相关的工具: Tech/ToolsWebsites/AI.md
+          - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md
+          - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
+          - MacOS VM on Windows: Tech/ToolsWebsites/VmwareMacOS.md
+          - Leetcode: Tech/ToolsWebsites/Leetcode.md
+          - LaTeX: Tech/ToolsWebsites/LaTeX.md
+          - Ollama: Tech/ToolsWebsites/ollama.md
 
+  - 📰周刊:
+      - 🐉2024年:
+          - Weekly/Weeklyindex.md
+          - Weekly/Week01.md
+          - Weekly/Week02.md
+          - Weekly/Week03.md
+          - Weekly/Week04.md
+          - Weekly/Week05.md
+          - Weekly/Week06.md
+          - Weekly/Week07.md
+          - Weekly/Week08.md
+          - Weekly/Week09.md
 
-  - 📰周刊: 
-    - 🐉2024年: 
-      - Weekly/Weeklyindex.md
-      - Weekly/Week01.md
-      - Weekly/Week02.md
-      - Weekly/Week03.md
-      - Weekly/Week04.md
-      - Weekly/Week05.md
-      - Weekly/Week06.md
-      - Weekly/Week07.md
-      - Weekly/Week08.md
-      - Weekly/Week09.md
-    
   - 🎇诗与远方:
-    - Dream/index.md
-    - 🎈致四年前的你: 
-      - Dream/ToOldDaysMyself/index.md
-      # - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
-      - 白非立上进记: Dream/ToOldDaysMyself/Vain.md
-      # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
-      # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
-      # - 路在脚下: Dream/ToOldDaysMyself/Path.md
-    - 🧩周复盘:
-      - Dream/WeeklyReview/index.md
-      # - Dream/WeeklyReview/WeeklyReviewindex.md
-      - 2024年: 
-        - Dream/WeeklyReview/2024/Week1To17.md
-        - Dream/WeeklyReview/2024/Week18.md
-        - Dream/WeeklyReview/2024/Week19.md
-        - Dream/WeeklyReview/2024/Week20.md
-        - Dream/WeeklyReview/2024/Week21.md
-        - Dream/WeeklyReview/2024/Week22.md
-           
-    - 📚读书:
-      - 📚书籍: Dream/Books/index.md 
-      - 📔哲学: 
-        - General Philosophy: Dream/Books/Philosophy/GeneralPhilosophy.md
-        - 伦理学: Dream/Books/Philosophy/Ethics.md
-        - 形而上学: Dream/Books/Philosophy/Metaphysics.md
-        - 认识论: Dream/Books/Philosophy/Epistemology.md
-        - 美学: Dream/Books/Philosophy/Aesthetics.md
-        - 逻辑学: Dream/Books/Philosophy/Logic.md
-      - 📕法律: 
-        - 国内法: 
-          - 宪法: Dream/Books/Law/PRCLaw/Constitution.md
-          - 刑法: Dream/Books/Law/PRCLaw/CriminalLaw.md
-          - 民法: Dream/Books/Law/PRCLaw/CivilLaw.md
-          - 行政法: Dream/Books/Law/PRCLaw/AdministrativeLaw.md
-          - 商法: Dream/Books/Law/PRCLaw/CommercialLaw.md
-          - 劳动法: Dream/Books/Law/PRCLaw/LaborLaw.md
-          - 知识产权法: Dream/Books/Law/PRCLaw/IntellectualPropertyLaw.md
-        - 国际法:
-          - 国际公法: Dream/Books/Law/InternationalLaw/InternationalPublicLaw.md
-          - 国际私法: Dream/Books/Law/InternationalLaw/InternationalPrivateLaw.md
-          - 国际人权法: Dream/Books/Law/InternationalLaw/InternationalHumanRightsLaw.md
-          - 国际经济法:  Dream/Books/InternationalLaw/InternationalEconomicLaw.md
-      - 📗文学:
-        - 亚洲文学: 
-          - China: Dream/Books/Literature/Asia/China/China.md
-          - Japan: Dream/Books/Literature/Asia/Japan/Japan.md
-        - 北美文学: Dream/Books/Literature/NA/NorthAmerica.md
-        - 拉丁美洲文学: Dream/Books/Literature/LA/LatinAmerica.md
-        - 欧洲文学: Dream/Books/Literature/Europe/Europe.md
-      - 📙心理学: Dream/Books/Psychology/Psychology.md
-      - 📘小说: 
-        - 历史小说: Dream/Books/Fiction/HistoricalFiction.md
-        - 科幻小说: Dream/Books/Fiction/ScienceFiction.md
-        - 推理小说: Dream/Books/Fiction/DetectiveFiction.md
-        - 武侠小说: Dream/Books/Fiction/MartialArtsFiction.md
-    - ✒️随笔: Dream/Thoughts/Thoughts.md
-    - ⛰️旅行: Dream/Travel/Travel.md
-    - 🕹️游戏: Dream/Games/Games.md
-    - 📺动漫:
-      - Dream/AnimeManga/index.md 
-      - 动画: 
-        - 中国动画: 
-          - TV动画🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnime.md
-          - 动画电影🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnimeMovie.md
-        - 日本动画: 
-          - TV动画🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
-          - 动画电影🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnimeMovie.md
-        - 欧美动画: 
-          - TV动画: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
-          - 动画电影: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnimeMovie.md
-        - 短片动画: Dream/AnimeManga/Anime/ShortAnimation/ShortAnimation.md
-      - 漫画: 
-        - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md 
-        - 日本漫画: Dream/AnimeManga/Manga/JapanManga/JapanManga.md
-    - 💪健身: 
-      - Dream/Bodybuilding/index.md 
-      - Dream/Bodybuilding/Bodybuilding.md
-      - Dream/Bodybuilding/EarlyNotes.md
-    - 👨‍🎓考研: Dream/Master/Master.md
-    - 👨‍⚖️工作: Dream/Work/Work.md
+      - Dream/index.md
+      - 🎈致四年前的你:
+          - Dream/ToOldDaysMyself/index.md
+          # - Dream/ToOldDaysMyself/ToOldDaysMyselfindex.md
+          - 白非立上进记: Dream/ToOldDaysMyself/Vain.md
+        # - 你没能明白的事: Dream/ToOldDaysMyself/DelusionalMe.md
+        # - 敢问路在何方: Dream/ToOldDaysMyself/WhereShouldIGo.md
+        # - 路在脚下: Dream/ToOldDaysMyself/Path.md
+      - 🧩周复盘:
+          - Dream/WeeklyReview/index.md
+          # - Dream/WeeklyReview/WeeklyReviewindex.md
+          - 2024年:
+              - Dream/WeeklyReview/2024/Week1To17.md
+              - Dream/WeeklyReview/2024/Week18.md
+              - Dream/WeeklyReview/2024/Week19.md
+              - Dream/WeeklyReview/2024/Week20.md
+              - Dream/WeeklyReview/2024/Week21.md
+              - Dream/WeeklyReview/2024/Week22.md
 
-# `随笔`、`此刻感受`、`语言`、`学习笔记`等已经从`诗与远方`section里脱离出来，成为独立的section，但文件夹还是在Dream下，因为修改起来太麻烦，现在先不管，等之后找个时间改吧
+      - 📚读书:
+          - 📚书籍: Dream/Books/index.md
+          - 📔哲学:
+              - 杂项: Dream/Books/Philosophy/GeneralPhilosophy.md
+              - 伦理学: Dream/Books/Philosophy/Ethics.md
+              - 形而上学: Dream/Books/Philosophy/Metaphysics.md
+              - 认识论: Dream/Books/Philosophy/Epistemology.md
+              - 美学: Dream/Books/Philosophy/Aesthetics.md
+              - 逻辑学: Dream/Books/Philosophy/Logic.md
+          - 📕法律:
+              - 国内法:
+                  - 宪法: Dream/Books/Law/PRCLaw/Constitution.md
+                  - 刑法: Dream/Books/Law/PRCLaw/CriminalLaw.md
+                  - 民法: Dream/Books/Law/PRCLaw/CivilLaw.md
+                  - 行政法: Dream/Books/Law/PRCLaw/AdministrativeLaw.md
+                  - 商法: Dream/Books/Law/PRCLaw/CommercialLaw.md
+                  - 劳动法: Dream/Books/Law/PRCLaw/LaborLaw.md
+                  - 知识产权法: Dream/Books/Law/PRCLaw/IntellectualPropertyLaw.md
+              - 国际法:
+                  - 国际公法: Dream/Books/Law/InternationalLaw/InternationalPublicLaw.md
+                  - 国际私法: Dream/Books/Law/InternationalLaw/InternationalPrivateLaw.md
+                  - 国际人权法: Dream/Books/Law/InternationalLaw/InternationalHumanRightsLaw.md
+                  - 国际经济法: Dream/Books/InternationalLaw/InternationalEconomicLaw.md
+          - 📗文学:
+              - 亚洲文学:
+                  - China: Dream/Books/Literature/Asia/China/China.md
+                  - Japan: Dream/Books/Literature/Asia/Japan/Japan.md
+              - 北美文学: Dream/Books/Literature/NA/NorthAmerica.md
+              - 拉丁美洲文学: Dream/Books/Literature/LA/LatinAmerica.md
+              - 欧洲文学: Dream/Books/Literature/Europe/Europe.md
+          - 📙心理学: Dream/Books/Psychology/Psychology.md
+          - 📘小说:
+              - 历史小说: Dream/Books/Fiction/HistoricalFiction.md
+              - 科幻小说: Dream/Books/Fiction/ScienceFiction.md
+              - 推理小说: Dream/Books/Fiction/DetectiveFiction.md
+              - 武侠小说: Dream/Books/Fiction/MartialArtsFiction.md
+      - ✒️随笔:
+          - 道德: Dream/Thoughts/道德.md
+          - 写点东西: Dream/Thoughts/写点东西.md
+          - 孤独: Dream/Thoughts/孤独.md
+      - ⛰️旅行: Dream/Travel/Travel.md
+      - 🕹️游戏: Dream/Games/Games.md
+      - 📺动漫:
+          - Dream/AnimeManga/index.md
+          - 动画:
+              - 中国动画:
+                  - TV动画🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnime.md
+                  - 动画电影🇨🇳: Dream/AnimeManga/Anime/China/ChineseAnimeMovie.md
+              - 日本动画:
+                  - TV动画🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnime.md
+                  - 动画电影🇯🇵: Dream/AnimeManga/Anime/Japan/JapaneseAnimeMovie.md
+              - 欧美动画:
+                  - TV动画: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnime.md
+                  - 动画电影: Dream/AnimeManga/Anime/EuroAndAmerica/EuroAndAmericaAnimeMovie.md
+              - 短片动画: Dream/AnimeManga/Anime/ShortAnimation/ShortAnimation.md
+          - 漫画:
+              - 中国漫画: Dream/AnimeManga/Manga/ChinaManhwa/ChinaManhwa.md
+              - 日本漫画: Dream/AnimeManga/Manga/JapanManga/JapanManga.md
+      - 💪健身:
+          - Dream/Bodybuilding/index.md
+          - Dream/Bodybuilding/Bodybuilding.md
+          - Dream/Bodybuilding/EarlyNotes.md
+      - 👨‍🎓考研: Dream/Master/Master.md
+      - 👨‍⚖️工作: Dream/Work/Work.md
+
+  # `随笔`、`此刻感受`、`语言`、`学习笔记`等已经从`诗与远方`section里脱离出来，成为独立的section，但文件夹还是在Dream下，因为修改起来太麻烦，现在先不管，等之后找个时间改吧
 
   - 💭此刻感受: Dream/Moments/Moments.md
   - 🌏语言:
-    - Dream/Languages/index.md 
-    - Dream/Languages/Languagesindex.md
-    - 英语: Dream/Languages/English.md
-    - 日语: Dream/Languages/Japanese.md
-    - 德语: Dream/Languages/German.md
+      - Dream/Languages/index.md
+      - Dream/Languages/Languagesindex.md
+      - 英语: Dream/Languages/English.md
+      - 日语: Dream/Languages/Japanese.md
+      - 德语: Dream/Languages/German.md
 
   - 📄学习笔记:
-    - Dream/Notes/index.md 
-    - 🏷️Foreword: Dream/Notes/NotesForeword.md
-    - 🏷️Crash Course:
-      - Dream/Notes/CrashCourse/index.md
-      - World History: 
-        - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
-        - Dream/Notes/CrashCourse/WorldHistory/WorldHistory1.md
-      - Philosophy: 
-        - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
-        - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
-      - Biology: 
-        - Dream/Notes/CrashCourse/Biology/Biologyindex.md
-        - Dream/Notes/CrashCourse/Biology/Biology1.md
-        - Dream/Notes/CrashCourse/Biology/Biology37.md 
-      - Psychology: 
-        - Dream/Notes/CrashCourse/Psychology/Psychologyindex.md
-        - Dream/Notes/CrashCourse/Psychology/Psychology1.md
-    - 🏷️edX: 
-      - Dream/Notes/edX/index.md
-      - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
-      - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
-    - 🏷️MITOpenCourseWare: 
-      - Dream/Notes/MITOpenCourseWare/index.md
-      - Linear Algebra 18.06: Dream/Notes/MITOpenCourseWare/LinearAlgebra18.06.md
-      - Philosophy Of Law: Dream/Notes/MITOpenCourseWare/PhilosophyOfLaw24.235J.md
-    - 🏷️FreeCodeCamp:
-      - Dream/Notes/FreeCodeCamp/index.md
-      - HTML and CSS Tutorials:
-        - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
-        - CSS Tutorial - Zero to Hero (Complete Course): Dream/Notes/FreeCodeCamp/HTMLCSS/CSSZeroToHero.md
-      - JavaScript Tutorials:
-        - Build 15 JavaScript Projects - Vanilla JavaScript Course: Dream/Notes/FreeCodeCamp/VanillaJavaScript.md  
-      - Python:
-        - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib): Dream/Notes/FreeCodeCamp/Python/PandasNumpyMatplotlib.md
-        - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
-    - 🏷️Coursera: 
-      - Dream/Notes/Coursera/index.md
-      - Computer Orgnization: Dream/Notes/Coursera/ComputerOrganization.md
-    - 🏷️Others: 
-      - Dream/Notes/Others/index.md
-      - CSExceptMOOC: 
-        - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
-        - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
-        - Dream/Notes/Others/CSExceptMOOC/TheMissingSemester.md
-      - PsychologyExceptMOOC: 
-        - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
-        - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
-        - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.md
-
+      - Dream/Notes/index.md
+      - 🏷️Foreword: Dream/Notes/NotesForeword.md
+      - 🏷️Crash Course:
+          - Dream/Notes/CrashCourse/index.md
+          - World History:
+              - Dream/Notes/CrashCourse/WorldHistory/WorldHistoryindex.md
+              - Dream/Notes/CrashCourse/WorldHistory/WorldHistory1.md
+          - Philosophy:
+              - Dream/Notes/CrashCourse/Philosophy/Philosophyindex.md
+              - Dream/Notes/CrashCourse/Philosophy/Philosophy1.md
+          - Biology:
+              - Dream/Notes/CrashCourse/Biology/Biologyindex.md
+              - Dream/Notes/CrashCourse/Biology/Biology1.md
+              - Dream/Notes/CrashCourse/Biology/Biology37.md
+          - Psychology:
+              - Dream/Notes/CrashCourse/Psychology/Psychologyindex.md
+              - Dream/Notes/CrashCourse/Psychology/Psychology1.md
+      - 🏷️edX:
+          - Dream/Notes/edX/index.md
+          - CS50's Introduction to Computer Science: Dream/Notes/edX/CS50.md
+          - How To Write An Essay: Dream/Notes/edX/HowToWriteAnEssay.md
+      - 🏷️MITOpenCourseWare:
+          - Dream/Notes/MITOpenCourseWare/index.md
+          - Linear Algebra 18.06: Dream/Notes/MITOpenCourseWare/LinearAlgebra18.06.md
+          - Philosophy Of Law: Dream/Notes/MITOpenCourseWare/PhilosophyOfLaw24.235J.md
+      - 🏷️FreeCodeCamp:
+          - Dream/Notes/FreeCodeCamp/index.md
+          - HTML and CSS Tutorials:
+              - Learn HTML & CSS – Full Course for Beginners: Dream/Notes/FreeCodeCamp/HTMLCSS/FullCourse.md
+              - CSS Tutorial - Zero to Hero (Complete Course): Dream/Notes/FreeCodeCamp/HTMLCSS/CSSZeroToHero.md
+          - JavaScript Tutorials:
+              - Build 15 JavaScript Projects - Vanilla JavaScript Course: Dream/Notes/FreeCodeCamp/VanillaJavaScript.md
+          - Python:
+              - Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib): Dream/Notes/FreeCodeCamp/Python/PandasNumpyMatplotlib.md
+              - Object Oriented Programming with Python - Full Course for Beginners: Dream/Notes/FreeCodeCamp/Python/OOP.md
+      - 🏷️Coursera:
+          - Dream/Notes/Coursera/index.md
+          - Computer Orgnization: Dream/Notes/Coursera/ComputerOrganization.md
+      - 🏷️Others:
+          - Dream/Notes/Others/index.md
+          - CSExceptMOOC:
+              - Dream/Notes/Others/CSExceptMOOC/CSEMindex.md
+              - Dream/Notes/Others/CSExceptMOOC/HowDoComputersReadCode.md
+              - Dream/Notes/Others/CSExceptMOOC/TheMissingSemester.md
+          - PsychologyExceptMOOC:
+              - Dream/Notes/Others/PsychologyExceptMOOC/PEMindex.md
+              - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusDoYouWantToBeLoved.md
+              - Dream/Notes/Others/PsychologyExceptMOOC/SisyphusTheMythofProductivity.md
 
   - 📜论文阅读: Thesis/Thesisindex.md
   - 🔖标签: tag.md
   - 🙆‍♂️关于:
-    - about/index.md
-    - 个人简介: about/profile.md
-    # - 简历: about/LennyResume.pdf
-    - 想做的事: about/goal.md
-    - Github: about/GithubProfile.md
-    - 支持作者: about/sponsor.md
-    
-  - 📧互动: 
-    - Interaction/index.md
-    - 友链: Interaction/links.md
-    - 留言板: Interaction/Comment.md
-    - 更新日志: Interaction/log.md
+      - about/index.md
+      - 个人简介: about/profile.md
+      # - 简历: about/LennyResume.pdf
+      - 想做的事: about/goal.md
+      - Github: about/GithubProfile.md
+      - 支持作者: about/sponsor.md
 
-  
+  - 📧互动:
+      - Interaction/index.md
+      - 友链: Interaction/links.md
+      - 留言板: Interaction/Comment.md
+      - 更新日志: Interaction/log.md
+
 copyright: Copyright &copy; 2022~2024 Lenny/All Rights Reserved. # 左下角的版权声明
-  
 
 extra:
   # tags:
@@ -281,17 +280,17 @@ extra:
   #   CSS: css
   # alternate:
   #   - name: English
-  #     link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp 
+  #     link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=zh-CN&_x_tr_pto=wapp
   #     lang: en
   #   - name: 中国(台湾)
   #     link: https://wcowin-work.translate.goog/?_x_tr_sl=zh-CN&_x_tr_tl=zh-TW&_x_tr_hl=zh-CN&_x_tr_pto=wapp
   #     lang: zh-TW
-  generator: true  #删除页脚显示“使用 MkDocs 材料制造”
+  generator: true #删除页脚显示“使用 MkDocs 材料制造”
   social:
     - icon: fontawesome/brands/weixin
       link: https://s2.loli.net/2024/03/30/kHBUML1XdERzljK.jpg
       name: weixin
-    # - icon: fontawesome/brands/x-twitter 
+    # - icon: fontawesome/brands/x-twitter
     #   link: https://twitter.com/wcowin_
     #   name: Twitter
     - icon: fontawesome/brands/github
@@ -301,7 +300,7 @@ extra:
       link: mailto:<lennychenlaw@gmail.com> #联系方式
       name: Email
 
-  analytics: 
+  analytics:
     provider: google
     property: G-29HZMNR0KG
     feedback:
@@ -315,17 +314,15 @@ extra:
         - icon: material/thumb-down-outline
           name: This page could be improved
           data: 0
-          note: >- 
+          note: >-
             Thanks for your feedback! Help us improve this page by
             using our <a href="https://marketingplatform.google.com/about/analytics/" target="_blank" rel="noopener">feedback form</a>.
-  
+
   # consent:
   #   title: Cookie consent
-  #   description: >- 
+  #   description: >-
   #     我们也使用cookies来识别您的重复访问和偏好来衡量我们文档的有效性以及用户是否找到他们要找的东西。
   #     如果你同意,你可以帮助我们让我们的网站更好
-
-    
 
 plugins:
   # - glightbox
@@ -338,7 +335,7 @@ plugins:
       type: iso_date
       enable_creation_date: false
       exclude:
-        - index.md 
+        - index.md
         - tag.md
         - Comment.md
         # - blog/posts/update.md
@@ -349,7 +346,7 @@ plugins:
       repository: LennyChenLaw/LennyChenLaw.github.io
       branch: main
       exclude:
-        - index.md 
+        - index.md
         - Interaction/links.md
   # - git-authors:
   #     exclude:
@@ -361,7 +358,7 @@ plugins:
       draft: true
       draft_if_future_date: true #自动将具有未来日期的帖子标记为草稿
       post_readtime: true
-      post_readtime_words_per_minute: 265  #计算帖子的阅读时间时读者每分钟预计阅读的字数
+      post_readtime_words_per_minute: 265 #计算帖子的阅读时间时读者每分钟预计阅读的字数
       post_url_format: "{date}/{slug}"
       # categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
       #   kwds:
@@ -369,9 +366,9 @@ plugins:
       # categories_toc: true
       # pagination_per_page: 5
       pagination_url_format: "page/{page}"
-      authors_file: "{blog}/.authors.yml"  #作者信息
+      authors_file: "{blog}/.authors.yml" #作者信息
   - tags:
-      tags_file: tag.md  #分类标签
+      tags_file: tag.md #分类标签
 
 markdown_extensions:
   - abbr
@@ -391,13 +388,13 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.smartsymbols
   - pymdownx.tilde
-  
+
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format 
-  - pymdownx.arithmatex:  # latex支持
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.arithmatex: # latex支持
       generic: true
   - toc:
       permalink: true # 固定标题位置为当前位置
@@ -415,9 +412,9 @@ markdown_extensions:
   # - markdown.extensions.toc:
   #     slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
   #     permalink: "\ue157"
-  
+
 extra_javascript:
-  - javascripts/extra.js 
+  - javascripts/extra.js
   # - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js  # extra的cdn
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -433,7 +430,6 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js
   # - https://res.zvo.cn/translate/translate.js  # Translate
 
-
 extra_css:
   - stylesheets/extra.css
   # - stylesheets/extra1.css
@@ -448,5 +444,5 @@ extra_css:
   # - ckplayer/css/ckplayer.css
   # - https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css
   # - https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css
-  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css  #字体 
+  - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css #字体
 
