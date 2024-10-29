@@ -5,37 +5,37 @@ statistics: True
 
 # Technophile周刊（第10期）
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/220957027&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/stephen-douglas" title="Stephen Douglas" target="_blank" style="color: #cccccc; text-decoration: none;">Stephen Douglas</a> · <a href="https://soundcloud.com/stephen-douglas/soundtrack" title="Soundtrack" target="_blank" style="color: #cccccc; text-decoration: none;">Soundtrack</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232550234&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/suhmeduh" title="suhmeduh" target="_blank" style="color: #cccccc; text-decoration: none;">suhmeduh</a> · <a href="https://soundcloud.com/suhmeduh/phone-kisses" title="phone kisses" target="_blank" style="color: #cccccc; text-decoration: none;">phone kisses</a></div>
 
 !!! info
     作者：Lenny<br>
-    日期：2024年6月16日<br>
+    日期：2024年6月9日<br>
     内容：记录分享好用的Github Repo、文章、网站等<br>
     更新时间：周日更新<br>
     本杂志[开源](https://github.com/LennyChenLaw/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)<br>
 
-![](https://s2.loli.net/2024/06/09/HTnxq2V8yJ6KcWs.jpg)
+![42WsJyr.jpeg](https://s2.loli.net/2024/10/29/i6kt93wIb4O7REz.jpg)
 ## 文章
-+ [How the Blockchain Could Transform the Economy](https://www.theatlantic.com/magazine/archive/2022/01/blockchain-cryptocurrency-economic-revolution/620443/)
->区块链技术在经济领域的潜力是巨大的，不仅仅是加密货币。区块链的去中心化特点可以减少交易成本，提高透明度，并可能改变多种行业的运作方式。
++ [The Atlantic Daily: The ‘Big Quit’ Tells a Bigger Economic Story](https://www.theatlantic.com/newsletters/archive/2021/10/great-resignation-quit-economy/620443/)
+>“大辞职”是指2021年美国员工辞职人数大幅增加。这一趋势以其规模和持久性而引人注目，许多行业都出现了高流动率。
+??? quote 
+    This is a moment of fascinating decentralization. A couple of years ago, I wrote that the U.S. economy lost its mojo. I said that we had less quitting, less moving, and less entrepreneurship than in the 20th century. But now that’s reversed. We’re moving out of jobs, out of companies, out of old neighborhoods at high rates.
 
-+ [Why China Is Leading the Way in AI](https://www.nytimes.com/2022/05/05/technology/china-artificial-intelligence.html)
->文章分析了中国在人工智能领域的迅速发展，并探讨了其背后的原因。政府支持、丰富的数据资源以及激烈的市场竞争都助力了中国在AI领域的领先地位。
++ [How Virtual Reality Died](https://www.honest-broker.com/p/how-virtual-reality-died)
+>作者认为，VR最初被吹捧为一项具有巨大潜力的革命性技术，但它却面临着无数的挑战和挫折。标题“虚拟现实如何消亡”有些误导，因为该文章并没有声称VR已经完全消亡，而是强调了它未能达到最初炒作的水平。
 ??? quote
-    China's AI ambitions are not only a matter of pride but a key element of its strategy for future global economic and technological dominance.
+    And users will look creepy too. You need to lock yourself into a headset to get the full benefit of the metaverse—and there’s no way that Zuckerberg can make that look cool. The people who spend hour after hour in his metaverse will be the subject of jokes and mockery….
 
-+ [The Ethics of Artificial Intelligence](https://www.nature.com/articles/d41586-022-01245-w)
->讨论了人工智能在伦理方面面临的挑战。随着技术的不断进步，如何在开发和应用AI时保持伦理标准成为了一个重要问题。
++ [The World War on Asylum](https://theintercept.com/2024/07/09/asylum-rights-greece/)
+>从墨西哥到地中海，富裕国家宁愿看到难民死亡，也不愿承认他们的合法庇护权。
+
++ [Should We Get Angry When Artists Sell Out?](https://www.honest-broker.com/p/should-we-get-angry-when-artists)
+>作者认为我们不应该为了金钱益而出卖自己的原则或初衷。
 ??? quote
-    As we integrate AI deeper into society, we must ensure that ethical considerations are not overlooked in the pursuit of technological advancement.
+    Right now, there’s a crisis of trust in society. It is literally the scarcest thing in the world.
 
-+ [Deep Dive into Rust Programming](https://medium.com/techcrunch/deep-dive-into-rust-programming-3dfd8b3b84)
->这篇文章介绍了Rust编程语言的特点和优势，包括内存安全性、高性能和并发性。对于系统编程和对性能要求高的应用，Rust是一种非常有前途的语言。
-??? quote
-    Rust offers a unique blend of safety and performance, making it an excellent choice for systems programming.
-
-+ [Building a Personal Knowledge Management System with Notion](https://www.zdnet.com/article/building-a-personal-knowledge-management-system-with-notion/)
->介绍了如何使用Notion构建个人知识管理系统，帮助用户有效地收集、整理和检索信息，提高工作效率。
++ [Is It Better to Fail Spectacularly?](https://danielmangum.com/posts/better-to-fail-spectacularly/)
+>记录了作者参加芝加哥马拉松赛的过程。
 
 ## 网站
 + [TechCrunch](https://techcrunch.com/)
@@ -60,41 +60,3 @@ statistics: True
 >Gitea是一个自托管的Git服务，类似于GitHub，但更加轻量和易于部署。
 + [drawio](https://github.com/jgraph/drawio)
 >draw.io是一个强大的图表绘制工具，支持流程图、网络图、UML等多种图表类型。
-
-
-
-Here are eight summarized tech articles from 2023, along with their real, working links:
-
-1. **Generative AI: Meaning, Benefits, and Dangers**
-   This article explains the fundamentals of generative AI, its potential benefits such as enhanced creativity and productivity, and the risks associated with its misuse. It provides a comprehensive guide for understanding this transformative technology.
-   [Read more on TechRepublic](https://www.techrepublic.com/article/what-is-generative-ai-in-simple-terms/)
-
-2. **Top CentOS Replacement Options for 2023**
-   Red Hat's decision to end CentOS has led to the need for alternatives. This guide explores the best options available, comparing their features and suitability for different use cases.
-   [Read more on TechRepublic](https://www.techrepublic.com/article/5-best-centos-replacement-options-for-2023/)
-
-3. **How to Change Ownership and Control of Files and Folders in Windows 11**
-   In collaborative environments, managing file and folder ownership is crucial. This article details how to change ownership and control in Windows 11 to maintain productivity and security.
-   [Read more on TechRepublic](https://www.techrepublic.com/article/how-to-change-ownership-and-control-of-files-and-folders-in-windows-11/)
-
-4. **AI Designing Robots from Scratch**
-   Northwestern University researchers developed an AI that can design robots autonomously. The AI can generate functional robot designs in seconds, demonstrating the rapid evolution capabilities of AI.
-   [Read more on TechXplore](https://techxplore.com/news/2023-12-ai-application-robots.html)
-
-5. **Simplifying Deep Learning with 18th-Century Mathematics**
-   A team from the University of Jyväskylä simplified deep learning by integrating older mathematical techniques. Their approach is easier to understand and advances green IT.
-   [Read more on TechXplore](https://techxplore.com/news/2023-12-simplifying-deep-learning-mathematics.html)
-
-6. **Transforming Seawater into Drinking Water Using Solar Power**
-   Engineers at MIT and China developed a passive device that converts seawater to drinkable water using solar energy. This innovation promises to provide cheaper freshwater than current tap water solutions.
-   [Read more on TechXplore](https://techxplore.com/news/2023-12-seawater-freshwater-solar-powered-passive.html)
-
-7. **Recovering 70% of Lithium from Batteries through Mechanochemical Recycling**
-   Researchers at Karlsruhe Institute of Technology created an efficient method to recycle lithium from batteries. This environmentally friendly process could significantly impact battery recycling practices.
-   [Read more on TechXplore](https://techxplore.com/news/2023-12-mechanochemical-recycling-lithium-batteries.html)
-
-8. **64-Core, Mixed-Signal, In-Memory Computing Chip by IBM**
-   IBM developed a new chip that supports deep neural network computations more efficiently. This chip reduces computation times and energy consumption while maintaining high accuracy.
-   [Read more on TechXplore](https://techxplore.com/news/2023-12-core-mixed-signal-in-memory-chip.html)
-
-These articles cover a wide range of topics in the tech world, from advancements in AI and robotics to innovative solutions in environmental technology.
