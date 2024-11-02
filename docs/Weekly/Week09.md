@@ -17,7 +17,7 @@ statistics: True
 ![](https://s2.loli.net/2024/06/02/DriAqjOI8Fba7Wv.jpg)
 ## 文章
 + ['Monkey Selfie' Lawsuit Ends With Settlement Between PETA, Photographer](https://www.npr.org/sections/thetwo-way/2017/09/12/550417823/-animal-rights-advocates-photographer-compromise-over-ownership-of-monkey-selfie)
->2011年，一只名为Naruto的[黑猴](https://www.wikiwand.com/zh/%E9%BB%91%E7%8C%B4)发现了英国自然摄影师大卫·斯莱特（David Slater）的摄影器材,并拍摄了一系列自拍照，这提出了一个复杂的问题：谁拥有Naruto拍摄的图像，猴子还是人？尽管学术界此前就动物版权保护问题进行过讨论，但猴子自拍之争表明作为一般规则，非人类行为者不享有版权保护。
+>2011年，一只名为Naruto的[黑猴](https://www.wikiwand.com/zh/%E9%BB%91%E7%8C%B4)发现了英国自然摄影师大卫·斯莱特（David Slater）的摄影器材,并拍摄了一系列自拍照，这提出了一个复杂的问题：谁拥有Naruto拍摄的图像，猴子还是人？尽管学术界此前就动物版权保护问题进行过讨论，但猴子自拍之争表明：作为一般规则，非人类行为者不享有版权保护。
 
 + [How startups beat incumbents](https://longform.asmartbear.com/startup-beats-incumbent)
 >有段时间我也经常在想，大公司已经有了这么高的市场占有率，初创公司怎么打的过这些大公司呢？后来为了给自己一个解释，结合一节历史课想到一个可能的原因，历史课上老师曾说第一次工业革命主要发生在英国，而第二次则主要发生在美国、德国，美国能后发先至的其中一个原因是英国在第一次工业革命时的很多机器、技术到了第二次工业革命时还能用，更新机器、技术成本又比较高，于是英国一些工厂就沿用旧机器、旧技术，没能成功领导革新，而美国则不同，因为第一次工业革命里的旧机器、旧技术推广力度没那么大，迭代新机器、新技术阻力就没有英国那么大（记忆细节可能有误，没查文献，暂没有数据支撑，合理性存疑）。把这个案例迁移到大公司和初创公司就是大公司可能迭代新技术、新产品等成本较高，而初创公司却可以直接应用最前沿的技术，比如python3还没出现时，某些项目、产品可能是用python2写的，而迭代到python3可能就比较费时费力，而初创公司虽然起步晚，但可以直接应用python3。这是当时我给自己的解释，这篇文章思考了更多因素，给了更加系统全面的说明。

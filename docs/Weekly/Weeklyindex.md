@@ -15,3 +15,5 @@
 - [x] [Technophile周刊（第08期）](Week08.md)
 - [x] [Technophile周刊（第09期）](Week09.md)
 - [x] [Technophile周刊（第10期）](Week10.md)
+- [x] [Technophile周刊（第11期）](Week11.md)
+- [x] [Technophile周刊（第12期）](Week12.md)

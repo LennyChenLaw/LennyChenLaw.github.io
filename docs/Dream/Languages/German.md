@@ -1,3 +1,8 @@
+---
+comments: True
+statistics: True
+---
+
 # 德语学习#1
 !!! info
     学德语主要有两个原因，一个是有一位在Bavaria的朋友，另一个是很想去德国旅游。
