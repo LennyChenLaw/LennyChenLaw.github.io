@@ -83,9 +83,13 @@ nav:
       - 🎮Game Dev:
           - Tech/GameDev/index.md
           - Lua: Tech/GameDev/Lua.md
-          - Pygame: Tech/GameDev/Pygame.md
           - Unity: Tech/GameDev/Unity.md
           - Godot: Tech/GameDev/Godot.md
+          - Pygame: 
+            - 贪吃蛇: Tech/GameDev/Pygame/Snake.md
+            - 俄罗斯方块: Tech/GameDev/Pygame/Tetris.md
+            - 迷宫: Tech/GameDev/Pygame/Maze.md
+
 
       - 🔗杂项:
           - Tech/ToolsWebsites/index.md
@@ -93,9 +97,10 @@ nav:
           - PDF内嵌视频: Tech/ToolsWebsites/PDFInsertVideo.md
           - 网站分享: Tech/ToolsWebsites/UsefulWebsites.md
           - MacOS VM on Windows: Tech/ToolsWebsites/VmwareMacOS.md
-          - Leetcode: Tech/ToolsWebsites/Leetcode.md
           - LaTeX: Tech/ToolsWebsites/LaTeX.md
           - Ollama: Tech/ToolsWebsites/ollama.md
+          - Leetcode: 
+            - Problem1-10: Tech/ToolsWebsites/Leetcode/Leetcode1.md
 
   - 📰周刊:
       - 🐉2024年:
@@ -115,6 +120,7 @@ nav:
           - Weekly/Week13.md
           - Weekly/Week14.md
           - Weekly/Week15.md
+          - Weekly/Week16.md
 
   - 🎇诗与远方:
       - Dream/index.md

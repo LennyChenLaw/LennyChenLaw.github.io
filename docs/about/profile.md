@@ -53,7 +53,7 @@ icon:
 ## 关于我
 
 <div id="rcorners3" >
-  <img class="img1" src="https://s2.loli.net/2024/04/01/UuhMHzDBo4etPQO.jpg"  width="270" height="360" alt="个人头像" align="left" style="margin-right: 20px; "/>
+  <img class="img1" src="https://s2.loli.net/2024/03/30/lIamYEtRyouNFzg.png"  width="270" height="360" alt="个人头像" align="left" style="margin-right: 20px; "/>
   <div>
     <p style="font-size: 35px">Hi, Lenny here~</p>
     <li>🔯 太阳巨蟹 × <strong>ENFJ-A <s>Used to be <strong>Legit</strong> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s></strong></li>

@@ -20,3 +20,4 @@
 - [x] [Technophile周刊（第13期）](Week13.md)
 - [x] [Technophile周刊（第14期）](Week14.md)
 - [x] [Technophile周刊（第15期）](Week15.md)
+- [x] [Technophile周刊（第16期）](Week16.md)
