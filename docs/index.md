@@ -202,7 +202,7 @@ hide:
 <p><center><a href="/home/about"><img class="site-author-image" src="https://s2.loli.net/2024/04/26/8mpTlt9wiQvYLUy.png"/></a>
 </p>
 </div>
-<div class="admonition info inline" style="height: 440px;">
+<div class="admonition info inline" style="height: 520px;">
 <p><left>
 🙋‍♂️ 关于网站：<strong>写点自己喜欢的东西~</strong><br/>
 📚 最近在看的书：<i><a href="https://www.wikiwand.com/en/The_Waves">The Waves</a></i> by <a href="https://www.wikiwand.com/en/Virginia_Woolf"> Virginia Woolf </a><br>
@@ -210,7 +210,7 @@ hide:
 🎶 最近的单曲循环：<a href="https://soundcloud.com/mjapanay/timemachine">time machine(feat. aren park)</a> by mj apanay&aren park <br>
 📺 最近在追的番and漫画：《葬送的芙莉莲》and《一人之下》<br>
 🎮 最近在玩的游戏：<a href="https://store.steampowered.com/app/367520/Hollow_Knight/">Hollow Knight</a><br>
-🎐 最近的要事：<a href="https://my.world.taobao.com/item/638167700098.htm">《刑法学》</a>
+🎐 最近的要事：<a href="https://www.amazon.sg/English-Vocabulary-Leisure-Travel-Tourism/dp/0713687363">Check Your English Vocabulary for Leisure, Travel and Tourism, Second Edition</a>
 
 
 
@@ -309,8 +309,9 @@ hide:
     <p><strong>🌏语言</strong></p>
     <li><a href="Dream/Languages/English.html">学英语喽~</a></li>
     <li><a href="Dream/Languages/Japanese.html">学日语喽~</a></li>
+    <li><a href="Dream/Languages/German.html">学德语喽~</a></li>
   </div>
-  <div class="small-div">
+  <div class="small-div" style="height:180px;">
     <p><strong>📰周刊</strong></p>
     <li><a href="Weekly/Week01.html">看周刊喽~</a></li>
     <li><a href="Weekly/Week02.html">再看个周刊喽~</a></li>
@@ -319,6 +320,7 @@ hide:
     <p><strong>💻技术</strong></p>
     <li><a href="Tech/ToolsWebsites/PDFInsertVideo.html">PDF内嵌视频~</a></li>
     <li><a href="Tech/ToolsWebsites/UsefulWebsites.html">好用网站~</a></li>
+    <li><a href="Tech/ToolsWebsites/VmwareMacOS.html">虚拟机里运行MacOS系统~</a></li>
   </div>
 </div>
 

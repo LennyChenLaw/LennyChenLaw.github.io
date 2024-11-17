@@ -101,6 +101,7 @@ nav:
           - Ollama: Tech/ToolsWebsites/ollama.md
           - Leetcode: 
             - Problem1-10: Tech/ToolsWebsites/Leetcode/Leetcode1.md
+            - Problem11-20: Tech/ToolsWebsites/Leetcode/Leetcode2.md
 
   - 📰周刊:
       - 🐉2024年:
@@ -121,6 +122,7 @@ nav:
           - Weekly/Week14.md
           - Weekly/Week15.md
           - Weekly/Week16.md
+          - Weekly/Week17.md
 
   - 🎇诗与远方:
       - Dream/index.md
