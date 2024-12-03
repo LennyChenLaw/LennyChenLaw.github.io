@@ -77,6 +77,7 @@ nav:
           - MySQL: Tech/DataScience/MySQL.md
           - Excel: Tech/DataScience/Excel.md
           - Tableau: Tech/DataScience/Tableau.md
+          - 分析方法: Tech/DataScience/methods.md
           - 大数据技术:
               - Hadoop: Tech/DataScience/Frameworks/Hadoop.md
               - Spark: Tech/DataScience/Frameworks/Spark.md
@@ -123,7 +124,13 @@ nav:
           - Weekly/Week15.md
           - Weekly/Week16.md
           - Weekly/Week17.md
-
+          - Weekly/Week18.md
+          - Weekly/Week19.md
+          - Weekly/Week20.md
+          - Weekly/Week21.md
+          - Weekly/Week22.md
+          - Weekly/Week23.md
+          - Weekly/Week24.md
   - 🎇诗与远方:
       - Dream/index.md
       - 🎈致四年前的你:
@@ -206,7 +213,6 @@ nav:
           - Dream/Bodybuilding/index.md
           - Dream/Bodybuilding/Bodybuilding.md
           - Dream/Bodybuilding/EarlyNotes.md
-      - 👨‍🎓考研: Dream/Master/Master.md
       - 👨‍⚖️工作: Dream/Work/Work.md
 
   # `随笔`、`此刻感受`、`语言`、`学习笔记`等已经从`诗与远方`section里脱离出来，成为独立的section，但文件夹还是在Dream下，因为修改起来太麻烦，现在先不管，等之后找个时间改吧
@@ -215,7 +221,10 @@ nav:
   - 🌏语言:
       - Dream/Languages/index.md
       - Dream/Languages/Languagesindex.md
-      - 英语: Dream/Languages/English.md
+      - 英语: 
+        - 基础: Dream/Languages/English.md
+        - 旅游英语: Dream/Languages/TravelEnglish.md
+        - 导游英语: Dream/Languages/TourGuideEnglish.md
       - 日语: Dream/Languages/Japanese.md
       - 德语: Dream/Languages/German.md
 
