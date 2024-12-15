@@ -1,7 +1,7 @@
 # Technophile周刊
 
 !!! info
-    写点周刊，记录分享好用的Github Repo、文章、网站等，{--周五更新--}2024年5月24日起，周日更新，本杂志:octicons-heart-fill-24:{ .heart }[开源](https://github.com/LennyChenLaw/LennyChenLaw.github.io/tree/main/docs/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)
+    写点周刊，记录分享好用的Github Repo、文章、网站、视频等，{--周五更新--}2024年5月24日起，周日更新，本杂志:octicons-heart-fill-24:{ .heart }[开源](https://github.com/LennyChenLaw/LennyChenLaw.github.io/tree/main/docs/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)
 
 
 ## 2024
@@ -29,12 +29,12 @@
 - [x] [Technophile周刊（第22期）](Week22.md)
 - [x] [Technophile周刊（第23期）](Week23.md)
 - [x] [Technophile周刊（第24期）](Week24.md)
-<!-- - [x] [Technophile周刊（第25期）](Week25.md)
+- [x] [Technophile周刊（第25期）](Week25.md)
 - [x] [Technophile周刊（第26期）](Week26.md)
 - [x] [Technophile周刊（第27期）](Week27.md)
 - [x] [Technophile周刊（第28期）](Week28.md)
 - [x] [Technophile周刊（第29期）](Week29.md)
-- [x] [Technophile周刊（第30期）](Week30.md)
-- [x] [Technophile周刊（第31期）](Week31.md)
+- [x] [Technophile周刊（第30期）](Week30.md) 
+<!-- - [x] [Technophile周刊（第31期）](Week31.md)
 - [x] [Technophile周刊（第32期）](Week32.md)
 - [x] [Technophile周刊（第33期）](Week33.md) -->
