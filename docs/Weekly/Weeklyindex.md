@@ -35,6 +35,6 @@
 - [x] [Technophile周刊（第28期）](Week28.md)
 - [x] [Technophile周刊（第29期）](Week29.md)
 - [x] [Technophile周刊（第30期）](Week30.md) 
-<!-- - [x] [Technophile周刊（第31期）](Week31.md)
+- [x] [Technophile周刊（第31期）](Week31.md)
 - [x] [Technophile周刊（第32期）](Week32.md)
-- [x] [Technophile周刊（第33期）](Week33.md) -->
+- [x] [Technophile周刊（第33期）](Week33.md)

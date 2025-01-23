@@ -123,10 +123,10 @@ hide:
     </div>
 
    <div class="card"> 
-     <img class="ava" src="https://blog.w1ndys.top/img/about/avatar.png" /> 
+     <img class="ava" src="https://avatars.githubusercontent.com/u/109416673?v=4" /> 
      <div class="card-header"> 
       <div> 
-       <a href="https://blog.w1ndys.top/" target="_blank">W1ndysの小屋</a> 
+       <a href="https://blog.w1ndys.top/" target="_blank">W1ndys小屋</a> 
       </div> 
       <div class="info">
       欲戴皇冠，必承其重
