@@ -140,6 +140,9 @@ nav:
           - Weekly/Week31.md
           - Weekly/Week32.md
           - Weekly/Week33.md
+          - Weekly/Week34.md
+          - Weekly/Week35.md
+          - Weekly/Week36.md
   - 🎇诗与远方:
       - Dream/index.md
       - 🎈致四年前的你:
@@ -198,7 +201,7 @@ nav:
               - 武侠小说: Dream/Books/Fiction/MartialArtsFiction.md
       - ✒️随笔:
           - 道德: Dream/Thoughts/道德.md
-          - 写点东西: Dream/Thoughts/写点东西.md
+          # - 写点东西: Dream/Thoughts/写点东西.md
           - 孤独: Dream/Thoughts/孤独.md
       - ⛰️旅行: Dream/Travel/Travel.md
       - 🕹️游戏: Dream/Games/Games.md
@@ -295,7 +298,7 @@ nav:
       # - 简历: about/LennyResume.pdf
       - 想做的事: about/goal.md
       - Github: about/GithubProfile.md
-      - 支持作者: about/sponsor.md
+      # - 支持作者: about/sponsor.md
 
   - 📧互动:
       - Interaction/index.md

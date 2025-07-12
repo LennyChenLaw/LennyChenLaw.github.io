@@ -5,7 +5,7 @@ statistics: True
 
 # Technophile周刊（第37期）
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/344063501&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/elijahwho" title="‎elijah who" target="_blank" style="color: #cccccc; text-decoration: none;">‎elijah who</a> · <a href="https://soundcloud.com/elijahwho/imtiredoffeelingthisway" title="i&#x27;m tired of feeling this way" target="_blank" style="color: #cccccc; text-decoration: none;">i&#x27;m tired of feeling this way</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2082187908&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/lofi_girl" title="Lofi Girl" target="_blank" style="color: #cccccc; text-decoration: none;">Lofi Girl</a> · <a href="https://soundcloud.com/lofi_girl/impressions" title="Phlocalyst - Impressions" target="_blank" style="color: #cccccc; text-decoration: none;">Phlocalyst - Impressions</a></div>
 
 !!! info
     作者：Lenny<br>
@@ -15,14 +15,14 @@ statistics: True
     本杂志[开源](https://github.com/LennyChenLaw/Weekly)，欢迎[投稿](https://github.com/LennyChenLaw/Weekly/issues)
 
 
-![00009-3308580607.png](https://s2.loli.net/2024/11/12/SJcABkxGseY7mZg.png)
+![XYcTy2Y.png](https://s2.loli.net/2024/12/05/LzA9Cisl7fdyN16.png)
 
 ## 视频
-+ [I’m 29. If You’re in your 20’s, Watch THIS.](https://www.youtube.com/watch?v=VT1PC2Zmq2o)
->number one view your life as a book and you as the author // 
++ [YOU FORGOT WHO YOU ARE. LET ME REMIND YOU.](https://www.youtube.com/watch?v=WQS3AihiP9w)
+> Move, my friends, stay strong
 
-+ [How To Make Coding Addictive](https://www.youtube.com/watch?v=K7hU_z9X4Kk)
->
++ [Crash Course Statistics Preview](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+> 
 
 + [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
 >

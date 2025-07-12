@@ -116,6 +116,32 @@
       <p class="moment-username">LennyChen</p>
       <div class="moment-more-options">...</div>
     </div>
+    <!-- Moment Image -->
+    <img class="moment-image" src="https://s2.loli.net/2025/07/13/nySNT1rQW4kJmtq.png" alt="Moment 1">
+    <!-- Moment Icons -->
+    <div class="moment-icons">
+      <!-- Material Symbols Outlined -->
+      <span class="material-symbols-outlined">favorite</span>
+      <span class="material-symbols-outlined">chat</span>
+      <span class="material-symbols-outlined">send</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <span class="material-symbols-outlined">bookmark</span>
+    </div>
+    <!-- Moment Content -->
+    <div class="moment-content">
+      <p class="moment-text">大王, if you see this, stop视监me。</p>
+      <p class="moment-timestamp">2025-07-13</p>
+    </div>
+  </div>
+</div>
+
+<div class="moments-container">
+  <div class="moment-card">
+    <!-- User Info -->
+    <div class="moment-user-info">
+      <img class="moment-avatar" src="https://s2.loli.net/2024/03/31/Ht3QBqhgLYNAuwj.png" alt="Avatar">
+      <p class="moment-username">LennyChen</p>
+      <div class="moment-more-options">...</div>
+    </div>
     <!-- Moment Icons -->
     <div class="moment-icons">
       <!-- Material Symbols Outlined -->

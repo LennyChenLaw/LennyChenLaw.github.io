@@ -223,7 +223,7 @@ hide:
 <p><left>
 ☁️ Be <strong>yourself</strong>; everyone else is already taken.<br/>
 ❄️ 天地不仁，以万物为刍狗。<br/>
-✡️ 太阳巨蟹 × <b>ENFJ-A</b> <s>Used to be <b>**LEGIT**</b> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s>
+✡️ 太阳巨蟹 × <b>INFJ-A</b> <s>Used to be <b>**LEGIT**</b> INFJ-T with multiple tests. Have no idea why changed to INFJ-A now🤔.</s>
 </left></p>
 </div>
 
@@ -362,8 +362,9 @@ hide:
 <!--出自《道德经》第八章 -->
 👁️‍🗨️认识你自己 | γνῶθι σεαυτόν <br>
 <!--相传是刻在德尔斐的阿波罗神庙的三句箴言之一-->
-👣人生就是一条通向自我之路，不断尝试，辨明迷途。从来没有人能够成为完全、彻底的自我，尽管如此，每个人都仍然在努力尝试，或懵懂无知，或灵台清明，个个尽其所能。
+👣人生就是一条通向自我之路，不断尝试，辨明迷途。从来没有人能够成为完全、彻底的自我，尽管如此，每个人都仍然在努力尝试，或懵懂无知，或灵台清明，个个尽其所能。<br>
 <!--出自《德米安：彷徨少年时》-黑塞 -->
+🌺这一格留给大王
 </div>
 
 

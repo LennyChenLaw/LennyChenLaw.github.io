@@ -75,13 +75,13 @@ hide:
     </div>
 
    <div class="card"> 
-     <img class="ava" src="https://weizwz.com/img/avatar/head.jpg" /> 
+     <img class="ava" src="https://p.weizwz.com/logo_a4353391cbf0889b.webp" /> 
      <div class="card-header"> 
       <div> 
-       <a href="https://weizwz.com" target="_blank">唯之为之</a> 
+       <a href="https://note.weizwz.com" target="_blank">唯知笔记</a> 
       </div> 
       <div class="info">
-       时光笔墨
+       探索知识的无限可能
       </div> 
      </div> 
     </div>

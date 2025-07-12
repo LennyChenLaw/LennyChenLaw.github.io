@@ -56,7 +56,7 @@ icon:
   <img class="img1" src="https://s2.loli.net/2024/03/30/lIamYEtRyouNFzg.png"  width="270" height="360" alt="个人头像" align="left" style="margin-right: 20px; "/>
   <div>
     <p style="font-size: 35px">Hi, Lenny here~</p>
-    <li>🔯 太阳巨蟹 × <strong>ENFJ-A <s>Used to be <strong>Legit</strong> INFJ-T with multiple tests. Have no idea why changed to ENFJ-A now🤔.</s></strong></li>
+    <li>🔯 太阳巨蟹 × <strong>INFJ-A <s>Used to be <strong>Legit</strong> INFJ-T with multiple tests. Have no idea why changed to INFJ-A now🤔.</s></strong></li>
     <li>💌 小马粉，Brony</li>
     <li>📺ACG fan, 如火影、冰菓、月刊少女野崎君、日常、死亡笔记等，声优喜欢宫野真守、早见沙织and种田梨沙；漫画一人之下，Blue Box；游戏Hollow Knight、Ori and the Blind Forest </li>
     <li>👻冷笑话爱好者，Why did the old man fall down the well? He couldn’t see that well.</li>
@@ -77,7 +77,7 @@ icon:
     - [x] Major: I study agriculture at my university, but I am thinking about switching my major to law for my master's degree. I am passionate about language learning and can speak Mandarin Chinese, English, Japanese.
     - [x] Interests: Language, Philosophy, Technical stuff, Bodybuilding, Anime and Manga, etc.
     - [x] Brony: I love My little Pony: Friendship Is Magic series! My bilibili account is mainly about MLP. FriendShip Is Magic yay~ :material-information-outline:{ title="空的时候会在小马展概率刷新ヾ(≧▽≦*)o" } 
-    - [x] MBTI: Used to be INFJ-T but now seems changed to ENFJ-A
+    - [x] MBTI: Used to be INFJ-T but now seems changed to INFJ-A
 
 ## 我的名片
 
@@ -95,11 +95,11 @@ icon:
 -->
 
 ## 个人技能
-1. 英语、日语口语流利，comfortable speaking both English, Mandarin Chinese, and Japanese.
-2. 懂一点Python、Anaconda、HTML+CSS+Javascript
+1. 英语口语还阔以，comfortable speaking both English, Mandarin Chinese, ~~and a little of Japanese~~. :D
+2. 懂一点 ~~Python、Anaconda、HTML+CSS+Javascript~~ Tex 
 3. Office还算熟练 
-4. 会用点飞书、Slack、Zoom、Figma
-5. 会用点Adobe系列PR、AE、PS
+4. 会用点Slack、Zoom、Figma (！更新：悲报，已经不会了 _(:з」∠)_)
+5. 会用点Adobe系列PR、AE、PS (means熟练掌握卸载安装 ੭ ᐕ)੭*⁾⁾)
 6. ~~特别能吃能睡~~
 
 
