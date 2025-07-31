@@ -21,20 +21,19 @@ statistics: True
 + [YOU FORGOT WHO YOU ARE. LET ME REMIND YOU.](https://www.youtube.com/watch?v=WQS3AihiP9w)
 > Move, my friends, stay strong
 
-+ [Crash Course Statistics Preview](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
++ [Crash Course Statistics Preview](https://www.youtube.com/watch?v=sxQaBpKfDRk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=2)
 > 
 
-+ [Mindset of Successful Programmers](https://www.youtube.com/watch?v=nogh434ykF0)
->
++ [What Is Statistics: Crash Course Statistics #1](https://www.youtube.com/watch?v=nogh434ykF0)
+> Like I mentioned earlier, statistics are tools for us to use, but they can’t do all the heavy lifting. // Proxy: something that is related to what we want to measure, but isn't exactly what we want to measure // We ask inferential statistics to do all sorts of much more complicated work for us. Inferential statistics let us test an idea or a hypothesis.
 
 
-+ [Are You Willing to Pay the Price of Greatness?](https://www.youtube.com/watch?v=o7TcCr3uRkg)
->
++ [日本語ポッドキャスト#24🇯🇵日本人の恋愛について💖](https://www.youtube.com/watch?v=j_4RYI3huaA)
+> 初デートは男性から誘って欲しいなって 思います。結構多くの女性がそう思ってる かなと私は思いますがはい。あまり自分 からは誘わないです。
 
 
-+ [How to study fast AF](https://www.youtube.com/watch?v=JI4fvr3iBrk)
->{++Managing Distractions++}： // {++Speed-reading Basics++} // {++Visual Pacer++} // {++Counter Technique++} // {++Visual Pointer++} // 
-{++Mastering Speed-reading++}
++ [49 【南瓜派｜五星级酒店配方 减糖版 简单又好吃 - Emma真好吃 | 小红书 - 你的生活兴趣社区】 ](https://www.xiaohongshu.com/discovery/item/67581438000000000103ccda?source=webshare&xhsshare=pc_web&xsec_token=ABEASVR_dO6KQpxV9QAIZWiJRmPoaiBMuPtIRgHW4TuQk=&xsec_source=pc_share)
+> 1.过筛面粉和黄油切拌 -> 手搓成细沙粒状 2.加入鸡蛋和糖粉搅拌均匀->手捏成团->油纸中间擀开 3.冷藏->塑形->底部戳洞排气 4.170度烘烤10分钟左右 5.南瓜蒸熟打成泥->加入所有材料搅拌均匀（什么材料？看到了鸡蛋）6.灌入塔壳，戳掉表面气泡 7.170度烤30分钟左右（内馅不流动可以出炉）
 
 
 

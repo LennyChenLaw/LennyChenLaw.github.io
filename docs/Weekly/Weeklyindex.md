@@ -41,3 +41,9 @@
 - [x] [Technophile周刊（第34期）](Week34.md)
 - [x] [Technophile周刊（第35期）](Week35.md)
 - [x] [Technophile周刊（第36期）](Week36.md)
+- [x] [Technophile周刊（第37期）](Week37.md)
+- [x] [Technophile周刊（第38期）](Week38.md)
+- [x] [Technophile周刊（第39期）](Week39.md)
+
+## 2025
+- [x] [Technophile周刊（第40期）](Week40.md)
