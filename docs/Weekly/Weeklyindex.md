@@ -47,3 +47,6 @@
 
 ## 2025
 - [x] [Technophile周刊（第40期）](Week40.md)
+- [x] [Technophile周刊（第41期）](Week41.md)
+- [x] [Technophile周刊（第42期）](Week42.md)
+- [x] [Technophile周刊（第43期）](Week43.md)

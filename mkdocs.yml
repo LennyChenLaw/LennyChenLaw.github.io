@@ -148,6 +148,9 @@ nav:
           - Weekly/Week39.md
       - 🐍2025年:
           - Weekly/Week40.md
+          - Weekly/Week41.md
+          - Weekly/Week42.md
+          - Weekly/Week43.md
           
   - 🎇诗与远方:
       - Dream/index.md
@@ -232,6 +235,8 @@ nav:
           - Dream/Bodybuilding/Bodybuilding.md
           - Dream/Bodybuilding/EarlyNotes.md
       - 👨‍⚖️工作: Dream/Work/Work.md
+      - 🌿植物图鉴: Dream/Plants/Plants.md
+      - 🐦鸟类图鉴: Dream/Birds/Birds.md
 
   # `随笔`、`此刻感受`、`语言`、`学习笔记`等已经从`诗与远方`section里脱离出来，成为独立的section，但文件夹还是在Dream下，因为修改起来太麻烦，现在先不管，等之后找个时间改吧
 
