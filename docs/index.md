@@ -223,7 +223,7 @@ hide:
 <p><left>
 ☁️ Be <strong>yourself</strong>; everyone else is already taken.<br/>
 ❄️ 天地不仁，以万物为刍狗。<br/>
-✡️ 太阳巨蟹 × <b>INFJ-A</b> <s>Used to be <b>**LEGIT**</b> INFJ-T with multiple tests. Have no idea why changed to INFJ-A now🤔.</s>
+✡️ 太阳巨蟹 × <b>INFJ-A</b> 
 </left></p>
 </div>
 
@@ -311,12 +311,12 @@ hide:
     <li><a href="Dream/Languages/Japanese.html">学日语喽~</a></li>
     <li><a href="Dream/Languages/German.html">学德语喽~</a></li>
   </div>
-  <div class="small-div" style="height:180px;">
+  <div class="small-div" style="height:227px;">
     <p><strong>📰周刊</strong></p>
     <li><a href="Weekly/Week01.html">看周刊喽~</a></li>
     <li><a href="Weekly/Week02.html">再看个周刊喽~</a></li>
   </div>
-  <div class="small-div">
+  <div class="small-div" style="height:227px;">
     <p><strong>💻技术</strong></p>
     <li><a href="Tech/ToolsWebsites/PDFInsertVideo.html">PDF内嵌视频~</a></li>
     <li><a href="Tech/ToolsWebsites/UsefulWebsites.html">好用网站~</a></li>

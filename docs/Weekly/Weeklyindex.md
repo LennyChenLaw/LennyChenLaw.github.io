@@ -50,3 +50,5 @@
 - [x] [Technophile周刊（第41期）](Week41.md)
 - [x] [Technophile周刊（第42期）](Week42.md)
 - [x] [Technophile周刊（第43期）](Week43.md)
+- [x] [Technophile周刊（第44期）](Week44.md)
+- [x] [Technophile周刊（第45期）](Week45.md)
